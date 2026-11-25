@@ -1,9 +1,5 @@
-[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-<!-- Plugin JSPWiki: ALLOW view Authenticated -->
-
 ### Monitor8
 
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
 ## Introducción
 Monitor8 es un entorno de trabajo integrado para la formación en la operación de una Compañía Química completa y que engloba diferentes tecnologías como son:
@@ -72,7 +68,6 @@ Se almacenan en el sistema de archivos del servidor que se emplee para correr el
 
 Los datos almacenados en el SCADA son mostrados al usuario mediante etiquetas o botones denominados puntos, los cuales se pueden ver directamente en la interfaz de usuario creada para el operador, muestran información como la presión, temperatura, flujo, nivel, etc. En estos se puede ver el nombre del instrumento o la variable que se codifica, seguido del valor y las unidades correspondientes a la medición en cuestión, como se puede apreciar en la figura a continuación, donde el punto representa un medidor de flujo másico de código HDF100, cuyas medidas son dadas en kg/h.
 
-<!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig1.png' caption='Fig. 1 - Ejemplo de un punto de dato' style='font-size: 200%; color: black;' align='center' width=600 -->
 
 **Tratamiento del Tiempo**
 
@@ -90,15 +85,12 @@ Las variables manipulables están denotadas con la letra “V”, estas pueden s
 
 La instrumentación colocada en la interfaz de los usuarios no solo puede ser consultada en tiempo real viendo el punto correspondiente, sino que, el sistema SCADA permite ver el histórico de dicho instrumento manteniendo el cursor sobre la esquina superior derecha del texto de dicho instrumento y posteriormente haciendo clic en la imagen del bloque, como se puede ver en la figura 2 a continuación:
 
-<!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig2.png' caption='Fig. 2 - Consulta del historio de un instrumento' style='font-size: 200%; color: black;' align='center' width=800 -->
 
 Luego se abrirá una ventana de registro, que muestra información como el nombre del instrumento en cuestión, el valor actual que está marcando, el promedio en un periodo establecido de tiempo, anotaciones que puede realizar cualquier usuario que tenga acceso al punto y el historio en sí en el periodo que se desee.
 
-<!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig3.png' caption='Fig. 3 - Ventana de registro de un instrumento' style='font-size: 200%; color: black;' align='center' width=800 -->
 
 Por otra parte, las variables manipulables directamente por el usuario tienen una interfaz preparada en forma de hipervínculo, ubicada generalmente sobre los valores “SP” y “PV” que le correspondan, como se muestra en la figura 4. En la nueva ventana está el histórico junto a dos barras verticales que muestran los valores meta (SP) y actuales (PV) respecto al máximo y mínimo permitido para la variable, así como otro hipervínculo que permite retornar a la ventana anterior.
 
-<!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig4.png' caption='Fig. 4 - Consulta del histórico de una variable' style='font-size: 200%; color: black;' align='center' width=800 -->
 
 **Definición de evento simple**
 
@@ -108,15 +100,12 @@ Primero se busca la variable sobre la cual se desea crear el evento, en este cas
 
 Posteriormente, una vez abierto se hace clic nuevamente en el bloque que esta al lado del nombre de la variable, tal como se muestra en la figura a continuación, se abrirá un menú que muestra todas las propiedades del punto, entre ellas el detector de evento en la esquina superior derecha.
 
-<!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig5.png' caption='Fig. 5 - Propiedades de un punto' style='font-size: 200%; color: black;' align='center' width=800 -->
 
 Seguidamente, se hace clic sobre la lista de detectores de evento, donde se muestran las siguientes opciones: Limite superior, limite inferior, cambio, sin cambios, CUSUM positivo y CUSUM negativo. Para este ejemplo en concreto se seleccionará limite inferior y se establece que cuando alcance un valor de 100 se activara la alarma, esto dado que es tanque tiene una capacidad del 1000m<sup>3</sup>, se le da un nombre a la alarma en cuestión, un tiempo durante el cual se ha de cumplir la condición dada para que se dé aviso al usuario y un grado de alarma que puede ir de información a riesgo a la vida. Quedando como se ve en la imagen a continuación:
 
-<!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig6.png' caption='Fig. 6 - Definición de evento simple' style='font-size: 200%; color: black;' align='center' width=800 -->
 
 Finalmente, cuando las condiciones dadas se cumplan se mostrará un aviso en la barra superior del sistema con el nivel de alarma seleccionado y sobre el punto en cuestión en la interfaz del usuario. Al hacer clic sobre este se abrirá la lista de todas las alarmas y eventos pendientes donde por defecto se dará un mensaje como el mostrado en la siguiente figura. Opcionalmente se puede dar un alias también cuando se crea la alarma, que será el mensaje mostrado al usuario en la ventana de eventos/alarmas, en lugar del predeterminado por el sistema.
 
-<!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig7.png' caption='Fig. 7 - Aviso de alarma/evento' style='font-size: 200%; color: black;' align='center' width=800 -->
 
 **Definición de Evento compuesto**
 
@@ -126,7 +115,6 @@ Primero, para crear este tipo de notificaciones se ha ir a in icono con dos camp
 
 Seguidamente, se procede a programar el evento en cuestión, empleando para ello la lista de eventos simples ubicados en la parte inferior de la ventana en forma de desplegables y las acciones lógicas *or, and *y *not*, se emplean paréntesis para separar una condición de otra. En este caso para activar la alarma dos de los tres tanques deben tener sus respectivas eventos activos, por tanto, quedaría como se ve en la siguiente figura.
 
-<!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig8.png' caption='Fig. 8 - Definición de eventos compuestos' style='font-size: 200%; color: black;' align='center' width=800 -->
 
 Cabe destacar que la secuencia se realiza haciendo clics sobre el nombre de los detectores de eventos y sobre las acciones lógicas según sea necesario, lo mostrado en el recuadro es solo la forma en la que el sistema codifica dicha serie de hechos. Además, se le ha de dar un nombre apropiado y un nivel de alarma de preferencia superior al de los eventos que la componen. Finalmente, al igual que con los eventos simples, en el momento que de cumplan las condiciones dadas, aparecerá un aviso en la barra superior del sistema notificando de esto.
 
@@ -182,8 +170,6 @@ Existen dos tipos de comunicaciones que están previstas en Monitor8:
 Las comunicaciones por radio aportan un grado de realismo interesante en una implementación de este tipo. Estas comunicaciones son en halfduplex, de manera que cuando un operador presiona el pulsador para hablar, el resto queda a la escucha hasta que suelte el pulsador y quede el canal libre.
 
 Este realismo se puede conseguir utilizando un sistema de chat configurado en halfduplex (funcion push to talk). El sistema de comunicación que se usará para monitor8 es google meet configurado para hablar pulsando la barra espaciadora.
-
-<!-- Plugin JSPWiki: Image src='Manual Monitor8/[MeetPushToTalk](meetpushtotalk.md).PNG' caption='Fig. 9 - Configración Meet [PushToTlalk](pushtotlalk.md)' style='font-size: 200%; color: black;' align='center' width=600 -->
 
 # Reuniones de coordinación
 
