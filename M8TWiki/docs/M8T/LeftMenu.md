@@ -1,11 +1,10 @@
-> add-css
 /* hide the default jspwiki logo */
 a.logo { background:transparent; border:none; text-indent:-99em; }
 a.logo b:before { content:""; }
 
 /* put monitor 8 logo, attached to this page */
 a.logo {
-    background: url([[LeftMenu](leftmenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md));
+    background: url([[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md));
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -23,36 +22,34 @@ a.logo {
 
 <!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
-## [Manual Monitor8](manual-monitor8.md)
-## [HDA Hidroalquilación Tolueno](planta-de-hidroalquilacion-de-tolueno.md)
-# [Manual Planta HDA](manual-hda.md)
-# [Manual Prácticas HDA](manual-practicas-hda.md)
+## [Manual Monitor8](Manual+Monitor8.md)
+## [HDA Hidroalquilación Tolueno](Planta+de+Hidroalquilacion+de+Tolueno.md)
+# [Manual Planta HDA](Manual+HDA.md)
+# [Manual Prácticas HDA](Manual+Practicas+HDA.md)
 
-## [Planta de Tratamiento AARR](planta-de-tratamiento-aarr.md)
-# [Manual Planta AARR](manual-aarr.md)
-# [Manual Prácticas AARR](manual-practicas-aarr.md)
+## [Planta de Tratamiento AARR](Planta+de+Tratamiento+AARR.md)
+# [Manual Planta AARR](Manual+AARR.md)
+# [Manual Prácticas AARR](Manual+Practicas+AARR.md)
 
-## [Planta de Fabricación de cerveza](planta-de-fabricación-de-cerveza.md)
-# [Manual Planta Fabricación Cerveza](manual-pfc.md)
-# [Manual Prácticas PFC](manual-prácticas-pfc.md)
+## [Planta de Fabricación de cerveza](Planta+de+Fabricaci%C3%B3n+de+Cerveza.md)
+# [Manual Planta Fabricación Cerveza](Manual+PFC.md)
+# [Manual Prácticas PFC](Manual+Pr%C3%A1cticas+PFC.md)
 
-## [Planta de Fabricación de Biodiésel](planta-de-fabricación-de-biodiésel.md)
-# [Manual Planta Fabricación Biodiésel](manual-pbio.md)
-# [Manual Prácticas PBIO](manual-prácticas-pbio.md)
+## [Planta de Fabricación de Biodiésel](Planta+de+Fabricaci%C3%B3n+de+Biodi%C3%A9sel.md)
+# [Manual Planta Fabricación Biodiésel](Manual+PBIO.md)
+# [Manual Prácticas PBIO](Manual+Pr%C3%A1cticas+PBIO.md)
 
 ## Material Complementario
-# [Manual del Profesor](manualtrainer.md)
-# [Curso de Profesores](cursoprofesores.md)
+# [Manual del Profesor](ManualTrainer.md)
+# [Curso de Profesores](CursoProfesores.md)
 
 
-- [Página principal](main.md)
+- [Página principal](Main.md)
 - [Acerca de](attachments/about)
-- [Noticias](news.md)
 - [Cambios Recientes](recent-changes.md)
-- [[WikiEtiqueta](wikietiqueta.md)](wikietiquette.md)
+- [WikiEtiqueta](WikiEtiquette.md)
 
-- [Buscar páginas](search.md)
-- [Páginas sin usar](unusedpages.md)
-- [Páginas sin definir](undefinedpages.md)
+- [Páginas sin usar](UnusedPages.md)
+- [Páginas sin definir](UndefinedPages.md)
 - [Índice](page-index.md)
-- [Info. del sistema](systeminfo.md)
+- [Info. del sistema](SystemInfo.md)

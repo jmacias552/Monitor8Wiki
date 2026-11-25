@@ -1,14 +1,14 @@
-Esto es una breve ayuda sobre cómo identifcarse en **<!-- Plugin JSPWiki: $applicationname -->**. El texto se encuentra [aquí](loginhelp.md). \\
+Esto es una breve ayuda sobre cómo identifcarse en **<!-- Plugin JSPWiki: $applicationname -->**. El texto se encuentra [aquí](LoginHelp.md). \\
 Puedes leer más sobre de las características de seguridad de JSPWiki en las [páginas de la documentación](docsecurity.md).
 
 ## Identificación
 
 JSPWiki soporta múltiples niveles de **autenticación** y confianza. Los usuarios pueden ser anónimos, tener identidades "declaradas" usando cookies, estar autenticados, o ser administradores:
 
-|| Estado || Descripción || El saludo al usuario muestra..
-| Anónimo | Usuario sin identificar, y no ha suministrado una cookie | "Buenas, (anónimo)"
-| Declarado | User's browser contains a cookie called `~JSPWikiAssertedName` | "Buenas, *usuario*(no has iniciado sesión)"
-| Autenticado | User logged in with a login id and password | "Buenas, *usuario* (autenticado)"
+|| Estado || Descripción || El saludo al usuario muestra.. |
+| Anónimo | Usuario sin identificar, y no ha suministrado una cookie | "Buenas, (anónimo)" |
+| Declarado | User's browser contains a cookie called `~JSPWikiAssertedName` | "Buenas, *usuario*(no has iniciado sesión)" |
+| Autenticado | User logged in with a login id and password | "Buenas, *usuario* (autenticado)" |
 
 Dependiendo de la política de seguridad por defecto y de las ACLs, a los usuarios tal vez (o tal vez no) se les requiera autenticarse.
 

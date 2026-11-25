@@ -44,12 +44,12 @@ Recuerda que si estás usando mod_jk, también deberías definir el `URIEncoding
 
 # Editar el menu situado a la izquierda.
 
-El menú situado a la izquierda (ahí <-----) es solo otra página del Wiki como las demás, llamada [[LeftMenu](leftmenu.md)](leftmenu.md).
+El menú situado a la izquierda (ahí <-----) es solo otra página del Wiki como las demás, llamada [LeftMenu](LeftMenu.md).
 
-Si tú (el administrador) no quieres que sea editable, siempre puedes editar la página [[LeftMenu](leftmenu.md)](leftmenu.md), y hacerla de solo lectura poniendo una ACL en ella.
+Si tú (el administrador) no quieres que sea editable, siempre puedes editar la página [LeftMenu](LeftMenu.md), y hacerla de solo lectura poniendo una ACL en ella.
 
 
-La parte inferior de la sección de la izquierda es otra página más, llamada [[LeftMenuFooter](leftmenufooter.md)](leftmenufooter.md), y también es totalmente editable.
+La parte inferior de la sección de la izquierda es otra página más, llamada [LeftMenuFooter](LeftMenuFooter.md), y también es totalmente editable.
 
 # Activando el feed [RSS](http://blogspace.com/rss/)
 
