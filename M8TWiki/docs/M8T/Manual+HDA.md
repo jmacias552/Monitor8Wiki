@@ -1,4 +1,4 @@
-[[LeftMenu](leftmenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
+[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
 <!-- Plugin JSPWiki: ALLOW view Authenticated -->
 
 ### Manual HDA
@@ -35,51 +35,51 @@ Copia N.º 8 – Encargado de Mantenimiento.
 ### CAPÍTULO II – INTRODUCCIÓN TEÓRICA
 
 ## METANO
-De fórmula molecular CH%%sub 4/%, en condiciones normales/estándar es un gas incoloro e inoloro, soluble principalmente en etanol, benceno, tolueno y acetona. Por si solo no es tóxico, pero es altamente inflamable, por tanto, sus mezclas con el aire resultan peligrosas. A continuación, se exponen sus propiedades más importantes:
+De fórmula molecular CH<sub>4</sub>, en condiciones normales/estándar es un gas incoloro e inoloro, soluble principalmente en etanol, benceno, tolueno y acetona. Por si solo no es tóxico, pero es altamente inflamable, por tanto, sus mezclas con el aire resultan peligrosas. A continuación, se exponen sus propiedades más importantes:
 
 Tabla 1 - Propiedades del Metano
-|Densidad (kg/m%%sup 3/%)|0.657
-|Masa molar (g/mol)|16
-|Punto de fusión (ºC)|-182
-|Punto de ebullición (ºC)|-162
+|Densidad (kg/m<sup>3</sup>)|0.657 |
+|Masa molar (g/mol)|16 |
+|Punto de fusión (ºC)|-182 |
+|Punto de ebullición (ºC)|-162 |
 
 ## BENCENO
 
-De formula molecular C%%sub 6/% H%%sub 6/%, a temperatura ambiente es un líquido cuya coloración varía entre un amarillo claro y uno traslucido, posee un olor dulce y aromático. Es altamente inflamable, fácil de volatilizar en el aire y poco soluble en agua, aunque fácilmente solubilizado en la mayoría de solventes orgánicos. Sus propiedades más importantes son expuestas a continuación:
+De formula molecular C<sub>6</sub> H<sub>6</sub>, a temperatura ambiente es un líquido cuya coloración varía entre un amarillo claro y uno traslucido, posee un olor dulce y aromático. Es altamente inflamable, fácil de volatilizar en el aire y poco soluble en agua, aunque fácilmente solubilizado en la mayoría de solventes orgánicos. Sus propiedades más importantes son expuestas a continuación:
 
 Tabla 2 - Propiedades del Benceno
-|Densidad (kg/m%%sup 3/%)|878.6
-|Masa molar (g/mol)|78.11
-|Punto de fusión (ºC)|5
-|Punto de ebullición (ºC)|80
-|Viscosidad a 20ºC (mPa·s)|0.652
+|Densidad (kg/m<sup>3</sup>)|878.6 |
+|Masa molar (g/mol)|78.11 |
+|Punto de fusión (ºC)|5 |
+|Punto de ebullición (ºC)|80 |
+|Viscosidad a 20ºC (mPa·s)|0.652 |
 
 ## TOLUENO
-De fórmula C%%sub 6/% H%%sub 5/% CH%%sub 3/%, en condiciones normales se encuentra en estado líquido, transparente, posee un olor dulce, es altamente volátil e inflamable a temperaturas superiores a 5ºC y es solvente de una amplia variedad de compuestos orgánicos. El resto se sus propiedades más importantes se encuentran a continuación:
+De fórmula C<sub>6</sub> H<sub>5</sub> CH<sub>3</sub>, en condiciones normales se encuentra en estado líquido, transparente, posee un olor dulce, es altamente volátil e inflamable a temperaturas superiores a 5ºC y es solvente de una amplia variedad de compuestos orgánicos. El resto se sus propiedades más importantes se encuentran a continuación:
 
 Tabla 3– Propiedades del Tolueno
-|Densidad (kg/m%%sup 3/%)|866.9
-|Masa molar (g/mol)|92.14
-|Punto de fusión (ºC)|-95
-|Punto de ebullición (ºC)|111
-|Viscosidad a 20ºC (cP)|1.497
+|Densidad (kg/m<sup>3</sup>)|866.9 |
+|Masa molar (g/mol)|92.14 |
+|Punto de fusión (ºC)|-95 |
+|Punto de ebullición (ºC)|111 |
+|Viscosidad a 20ºC (cP)|1.497 |
 
 ## DIFENILO
 
-De fórmula molecular C%%sub 12/% H%%sub 10/%, es un compuesto orgánico sólido cristalino con coloraciones que van desde amarillo claro hasta un transparente, posee un aroma agradable, es
+De fórmula molecular C<sub>12</sub> H<sub>10</sub>, es un compuesto orgánico sólido cristalino con coloraciones que van desde amarillo claro hasta un transparente, posee un aroma agradable, es
 insoluble en agua, pero soluble en la mayoría de disolventes orgánicos comunes, no es muy reactivo, puesto que se trata de dos anillos de benceno conectados
 		
 Tabla 4–Propiedades del Difenilo
-|Densidad (kg/m%%sup 3/%)|1040
-|Masa molar (g/mol)|154.21
-|Punto de fusión (ºC)|70
-|Punto de ebullición (ºC)|256
+|Densidad (kg/m<sup>3</sup>)|1040 |
+|Masa molar (g/mol)|154.21 |
+|Punto de fusión (ºC)|70 |
+|Punto de ebullición (ºC)|256 |
 
 ## HIDRODEALQUILACIÓN DEL TOLUENO
 
 El proceso de hidrodealquilación del tolueno de ahora en más llamado por sus siglas HDA, se emplea para producir metano a partir del benceno según la siguiente reacción:
 
-[Manual HDA/Reacciones.PNG](manual-hda-reaccionespng.md)
+[Manual HDA/Reacciones.PNG](attachments/Manual+HDA-att/Reacciones.PNG-dir/1.PNG)
 
 Según lo expuesto por James M. Douglas (1988) la reacción debe darse a una temperatura de entre 620 ºC y 705 ºC y una presión de 34.5 bar, con un exceso de hidrogeno correspondiente a 5 mol de hidrogeno por cada mol de aromáticos (benceno, tolueno y difenilo) dentro del reactor.
 
@@ -127,7 +127,7 @@ Responsable de realizar los análisis solicitados por el encargado de procesos c
 
 ### CAPITULO IV – DESCRIPCIÓN DEL PROCESO
 
-[Diagramas de Instrumentación y tuberia](manual-hda-pidpdf.md)
+[Diagramas de Instrumentación y tuberia](attachments/Manual+HDA-att/P&ID.pdf-dir/1.PNG)
 
 Los diagramas de instrumentación y tuberia se encuentran en las siguientes figuras junto a la descripción de la planta.
 
@@ -223,7 +223,7 @@ un análisis de la calidad previa a la carga de las cisternas. Este ha de emitir
 con el cliente. 
 
 # Carga de cisternas.
-Una vez dado el visto bueno el jefe de logística y planificación debe informar de la cantidad de cisternas necesarias para cumplir con el pedido realizado por el cliente, considerando que la capacidad estándar de cada una de ellas es de 25m%%sup 3/%.
+Una vez dado el visto bueno el jefe de logística y planificación debe informar de la cantidad de cisternas necesarias para cumplir con el pedido realizado por el cliente, considerando que la capacidad estándar de cada una de ellas es de 25m<sup>3</sup>.
 
 El sistema simula una fila de camiones alineados preparados para descargar un tanque en específico, el número de cisternas está contenido en los tags **CIST_01**, **CIST_02**, **CIST_03**y** CIST_04** que se corresponderán con la descarga de los tanques TK-200, TK-201,
 TK-202 y TK-300, dichas variables estarán a 0 normalmente y solo se modificarán al momento de hacer la carga de cisternas.
@@ -309,39 +309,39 @@ Indica que la temperatura está por debajo de los 620ºC considerados para que s
 ## INTERCAMBIADORES DE CALOR
 
 Tabla 5 - Intercambiadores de calor
-||**Código**||**Equipo**||**Fluido de Proceso**||**Servicio**	
-|E-100|Intercambiador de calor|Mezcla de reactivos frescos|Mezcla de productos salientes del reactor	
-|E-200|Intercambiador de calor|Mezcla de productos|Agua de refrigeración	
-|E-300|Intercambiador de calor|Livianos de la columna de destilación|Agua de refrigeración	
-|E-301|Reboiler|Pesados de la columna de destilación|Vapor	
-|H-100|Horno|Mezcla de reactivos frescos|Propano y gases de la purga del VE-100
+||**Código**||**Equipo**||**Fluido de Proceso**||**Servicio** |
+|E-100|Intercambiador de calor|Mezcla de reactivos frescos|Mezcla de productos salientes del reactor |
+|E-200|Intercambiador de calor|Mezcla de productos|Agua de refrigeración |
+|E-300|Intercambiador de calor|Livianos de la columna de destilación|Agua de refrigeración |
+|E-301|Reboiler|Pesados de la columna de destilación|Vapor |
+|H-100|Horno|Mezcla de reactivos frescos|Propano y gases de la purga del VE-100 |
 
 ## BOMBAS Y COMPRESORES
 
 Tabla 6- Bombas y Compresores
-||**Código**||**Servicio**
-|P-001|Descarga de pesados de la columna de destilación
-|P-002|Carga de tolueno al sistema de reacción
-|P-003|Carga de tolueno a los TK-100/101/102
-|P-004|Carga de benceno a las cisternas
-|P-005|Carga de pesados a las cisternas
-|C-001|Descarga de livianos del V-100
+||**Código**||**Servicio** |
+|P-001|Descarga de pesados de la columna de destilación |
+|P-002|Carga de tolueno al sistema de reacción |
+|P-003|Carga de tolueno a los TK-100/101/102 |
+|P-004|Carga de benceno a las cisternas |
+|P-005|Carga de pesados a las cisternas |
+|C-001|Descarga de livianos del V-100 |
 
 ## RECIPIENTES Y TORRRES
 
 Tabla 7 - Recipientes y Torres
-|**Código**|**Servicio**
-|R-100|Reactor	
-|TK-100|Tanque de tolueno
-|TK-101|Tanque de tolueno
-|TK-102|Tanque de tolueno
-|TK-200|Tanque de benceno
-|TK-201|Tanque de benceno
-|TK-202|Tanque de benceno
-|TK-300|Tanque de pesados
-|VE-100|Separador flash
-|VE-200|Columna de destilación
-|VE-300|Separador flash
+|**Código**|**Servicio** |
+|R-100|Reactor |
+|TK-100|Tanque de tolueno |
+|TK-101|Tanque de tolueno |
+|TK-102|Tanque de tolueno |
+|TK-200|Tanque de benceno |
+|TK-201|Tanque de benceno |
+|TK-202|Tanque de benceno |
+|TK-300|Tanque de pesados |
+|VE-100|Separador flash |
+|VE-200|Columna de destilación |
+|VE-300|Separador flash |
 
 ### CAPITULO VIII– INSTRUMENTACIÓN EN LA PLANTA
 
@@ -356,29 +356,29 @@ Valor Inicial: corresponde a el valor base de la planta
 ## VÁLVULAS
 
 Tabla 8 – Válvulas
-||**Código**||**Servicio**||**Valor inicial**||**Unidades**
-|HDV001.PV|Descarga del TK-100|0.0|kg/h
-|HDV002.PV|Carga de hidrógeno fresco|400|kg/h
-|HDV003.PV|Carga de combustible al H-100|565|ºC
-|HDV004.PV|Carga de agua de refrigeración del E-200|35|ºC
-|HDV005.PV|Ratio de purga de livianos del V-100|0.6|º/1
-|HDV006.PV|Ratio de reflujo L/D del V-200|0.70|L/D
-|HDV007.PV|Fracción de benceno en el fondo del V-200|0.055|º/1
-|HDV008.PV|Carga de agua de refrigeración al E-300|xxxx|yy
-|HDV009.PV|Ratio de carga del TK-300|xxxx|yy
-|HDV010.PV|Presión de tope del C-10|xxxx|yy
-|HDV011.PV|Presión de fondo del V-200|xxxx|yy
-|HDV012.PV|Descarga del TK-101|xxxx|yy
-|HDV013.PV|Descarga del TK-102|xxxx|yy
-|HDV014.PV|Ratio de carga del TK-200|xxxx|yy
-|VHDV15.PV|Ratio de carga del TK-201|xxxx|yy
-|HDF100.PV|Carga del TK-100|xxxx|yy
-|HDF101.PV|Carga del TK-101|xxxx|yy
-|HDF102.PV|Carga del TK-102|xxxx|yy
-|HDV016.PV|Carga de cisternas para el TK-200 (ACOPLE_CIST_01)|xxxx|yy
-|HDV017.PV|Carga de cisternas para el TK-201 (ACOPLE_CIST_02)|xxxx|yy
-|HDV018.PV|Carga de cisternas para el TK-202 (ACOPLE_CIST_03)|xxxx|yy
-|HDV019.PV|Carga de cisternas para el TK-300 (ACOPLE_CIST_04)|xxxx|yy
+||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+|HDV001.PV|Descarga del TK-100|0.0|kg/h |
+|HDV002.PV|Carga de hidrógeno fresco|400|kg/h |
+|HDV003.PV|Carga de combustible al H-100|565|ºC |
+|HDV004.PV|Carga de agua de refrigeración del E-200|35|ºC |
+|HDV005.PV|Ratio de purga de livianos del V-100|0.6|º/1 |
+|HDV006.PV|Ratio de reflujo L/D del V-200|0.70|L/D |
+|HDV007.PV|Fracción de benceno en el fondo del V-200|0.055|º/1 |
+|HDV008.PV|Carga de agua de refrigeración al E-300|xxxx|yy |
+|HDV009.PV|Ratio de carga del TK-300|xxxx|yy |
+|HDV010.PV|Presión de tope del C-10|xxxx|yy |
+|HDV011.PV|Presión de fondo del V-200|xxxx|yy |
+|HDV012.PV|Descarga del TK-101|xxxx|yy |
+|HDV013.PV|Descarga del TK-102|xxxx|yy |
+|HDV014.PV|Ratio de carga del TK-200|xxxx|yy |
+|VHDV15.PV|Ratio de carga del TK-201|xxxx|yy |
+|HDF100.PV|Carga del TK-100|xxxx|yy |
+|HDF101.PV|Carga del TK-101|xxxx|yy |
+|HDF102.PV|Carga del TK-102|xxxx|yy |
+|HDV016.PV|Carga de cisternas para el TK-200 (ACOPLE_CIST_01)|xxxx|yy |
+|HDV017.PV|Carga de cisternas para el TK-201 (ACOPLE_CIST_02)|xxxx|yy |
+|HDV018.PV|Carga de cisternas para el TK-202 (ACOPLE_CIST_03)|xxxx|yy |
+|HDV019.PV|Carga de cisternas para el TK-300 (ACOPLE_CIST_04)|xxxx|yy |
 
 ## VALORES LÍMITE
 
@@ -386,109 +386,109 @@ A continuación, se muestra el rango de valores que puede soportar las variables
 
 	
 Tabla 9 - Valores Límite
-||**Instrumento**||**Valor Máximo Admisible**||**Valor Mínimo Admisible**||**Valor inicial**||**Unidades**	
+||**Instrumento**||**Valor Máximo Admisible**||**Valor Mínimo Admisible**||**Valor inicial**||**Unidades** |
 | HDV001.PV | 0 | 10000 | 0 | kg/h |
 | HDV002.PV | 400 | 2000 |
 | HDV003.PV | 450 | 600 | 565 | ºC |
 | HDV004.PV | 30 | 60 | 35 | ºC |
 | HDV005.PV | 0.4 | 0.95 |
-|HDV006.PV|0.7|2|0.7
-|HDV007.PV|0.02|0.1|0.05|ª/1
-|HDV008.PV|30|60|40|ºC
-|HDV009.PV|0|0.3|0|º/1
-|HDV010.PV|1.5|2.8|2.0|barg
-|HDV011.PV|1.8|3.1|2.3|barg
-|HDV012.PV|0|10000|7000|kg/h
-|HDV013.PV|0|10000|0|kg/h
-|HDV014.PV|0|1
-|HDV015.PV|0|1
+|HDV006.PV|0.7|2|0.7 |
+|HDV007.PV|0.02|0.1|0.05|ª/1 |
+|HDV008.PV|30|60|40|ºC |
+|HDV009.PV|0|0.3|0|º/1 |
+|HDV010.PV|1.5|2.8|2.0|barg |
+|HDV011.PV|1.8|3.1|2.3|barg |
+|HDV012.PV|0|10000|7000|kg/h |
+|HDV013.PV|0|10000|0|kg/h |
+|HDV014.PV|0|1 |
+|HDV015.PV|0|1 |
 
 ## MEDIDORES DE PRESIÓN
 		
 Tabla 10 - Medidores de Presión
 
-||**Código**||**Servicio**||**Valor inicial**||**Unidades**
-|HDP001.PV|Presión en el tope del VE-300|2.0|barg
-|HDP002.PV|Presión en el fondo del VE-300|2.3|barg
+||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+|HDP001.PV|Presión en el tope del VE-300|2.0|barg |
+|HDP002.PV|Presión en el fondo del VE-300|2.3|barg |
 
 ## MEDIDORES DE FLUJO VOLUMÉTRICO
 
 Tabla 11 - Medidores de Flujo Volumétrico
 
-||**Código**||**Servicio**||**Valor inicial**||**Unidades**
-|HDF001.PV|Caudal de carga de Tolueno fresco al sistema de reacción|xxxx|m%%sup 3/%
-|HDF002.PV|Caudal de carga de Hidrogeno fresco al sistema de reacción|400|kg/h
-|HDF003.PV|Caudal de reflujo de Hidrogeno en el sistema de reacción|2000|kg/h
-|HDF004.PV|Caudal de purga de Hidrogeno|xxxx|m%%sup 3/%
-|HDF005.PV|Caudal de carga de Benceno a los tanques de producto|xxxx|m%%sup 3/%
-|HDF006.PV|Caudal de livianos en el tope del V-300|xxxx|m%%sup 3/%
-|HDF007.PV|Caudal de reflujo de pesados al sistema de reacción|xxxx|m%%sup 3/%
-|HDF008.PV|Caudal de carga de pesados al TK-300|xxxx|m%%sup 3/%
-|HDF009.PV|Caudal de carga de Benceno al TK200|0|kg/h
-|HDF010.PV|Caudal de carga de Benceno al TK201|0|kg/h
-|HDF011.PV|Caudal de carga de Benceno al TK202|xxxx|m%%sup 3/%
-|HDF012.PV|Caudal de carga del V-200|xxxx|m%%sup 3/%
-|HDF013.PV|Caudal de descarga a cisternas desde el TK300|xxxx|m%%sup 3/%
-|HDF014.PV|Caudal de descarga a cisternas desde los TK200/201/202|xxxx|m%%sup 3/%
-|HDF015.PV|Caudal de carga de Tolueno al TK-100 (F-100)|xxxx|m%%sup 3/%
-|HDF016.PV|Caudal de carga de Tolueno al TK-101 (F-101)|xxxx|m%%sup 3/%
-|HDF017.PV|Caudal de carga de Tolueno al TK-102 (F-102)|xxxx|m%%sup 3/%
-|HDF100.SP|Caudal de descarga de Terminal hacia TK100|0|kg/h
-|HDF101.SP|Caudal de descarga de Terminal hacia TK101|0|kg/h
-|HDF102.SP|Caudal de descarga de Terminal hacia TK102|0|kg/h
+||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+|HDF001.PV|Caudal de carga de Tolueno fresco al sistema de reacción|xxxx|m<sup>3</sup> |
+|HDF002.PV|Caudal de carga de Hidrogeno fresco al sistema de reacción|400|kg/h |
+|HDF003.PV|Caudal de reflujo de Hidrogeno en el sistema de reacción|2000|kg/h |
+|HDF004.PV|Caudal de purga de Hidrogeno|xxxx|m<sup>3</sup> |
+|HDF005.PV|Caudal de carga de Benceno a los tanques de producto|xxxx|m<sup>3</sup> |
+|HDF006.PV|Caudal de livianos en el tope del V-300|xxxx|m<sup>3</sup> |
+|HDF007.PV|Caudal de reflujo de pesados al sistema de reacción|xxxx|m<sup>3</sup> |
+|HDF008.PV|Caudal de carga de pesados al TK-300|xxxx|m<sup>3</sup> |
+|HDF009.PV|Caudal de carga de Benceno al TK200|0|kg/h |
+|HDF010.PV|Caudal de carga de Benceno al TK201|0|kg/h |
+|HDF011.PV|Caudal de carga de Benceno al TK202|xxxx|m<sup>3</sup> |
+|HDF012.PV|Caudal de carga del V-200|xxxx|m<sup>3</sup> |
+|HDF013.PV|Caudal de descarga a cisternas desde el TK300|xxxx|m<sup>3</sup> |
+|HDF014.PV|Caudal de descarga a cisternas desde los TK200/201/202|xxxx|m<sup>3</sup> |
+|HDF015.PV|Caudal de carga de Tolueno al TK-100 (F-100)|xxxx|m<sup>3</sup> |
+|HDF016.PV|Caudal de carga de Tolueno al TK-101 (F-101)|xxxx|m<sup>3</sup> |
+|HDF017.PV|Caudal de carga de Tolueno al TK-102 (F-102)|xxxx|m<sup>3</sup> |
+|HDF100.SP|Caudal de descarga de Terminal hacia TK100|0|kg/h |
+|HDF101.SP|Caudal de descarga de Terminal hacia TK101|0|kg/h |
+|HDF102.SP|Caudal de descarga de Terminal hacia TK102|0|kg/h |
  
 
 ## MEDIDORES DE TEMPERATURA
 
 Tabla 12 - Medidores de Temperatura
-||**Código**||**Servicio**||**Valor inicial**||**Unidades**
-|HDT001.PV|Temperatura de reactivos a la entrada del E-100|xxxx|ºC
-|HDT002.PV|Temperatura de reactivos a la entrada del H-100|xxxx|ºC
-|HDT003.PV|Temperatura de reactivos a la entrada del R-100|xxxx|ºC
-|HDT004.PV|Temperatura de reactivos a la salida del R-100|xxxx|ºC
-|HDT005.PV|Temperatura de reactivos a la entrada del E-200|xxxx|ºC
-|HDT006.PV|Temperatura de reactivos a la entrada del V-100|xxxx|ºC
-|HDT007.PV|Temperatura de livianos a la salida del E-300|xxxx|ºC
+||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+|HDT001.PV|Temperatura de reactivos a la entrada del E-100|xxxx|ºC |
+|HDT002.PV|Temperatura de reactivos a la entrada del H-100|xxxx|ºC |
+|HDT003.PV|Temperatura de reactivos a la entrada del R-100|xxxx|ºC |
+|HDT004.PV|Temperatura de reactivos a la salida del R-100|xxxx|ºC |
+|HDT005.PV|Temperatura de reactivos a la entrada del E-200|xxxx|ºC |
+|HDT006.PV|Temperatura de reactivos a la entrada del V-100|xxxx|ºC |
+|HDT007.PV|Temperatura de livianos a la salida del E-300|xxxx|ºC |
 
 ## MEDIDORES DE NIVEL
 
 Tabla 13 - Medidores de Nivel
-||**Código**||**Servicio**||**Valor inicial**||**Unidades**
-|HDL100.PV|Nivel de Tolueno en el TK100|0|m%%sup 3/%
-|HDL101.PV|Nivel de Tolueno en el TK101|1000|m%%sup 3/%
-|HDL102.PV|Nivel de Tolueno en el TK102|0|m%%sup 3/%
-|HDL200.PV|Nivel de Benceno en el TK200|500|m%%sup 3/%
-|HDL201.PV|Nivel de Benceno en el TK201|0|m%%sup 3/%
-|HDL202.PV|Nivel de Benceno en el TK202|0|m%%sup 3/%
-|HDL300.PV|Nivel de pesados en el TK300|100|m%%sup 3/%
+||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+|HDL100.PV|Nivel de Tolueno en el TK100|0|m<sup>3</sup> |
+|HDL101.PV|Nivel de Tolueno en el TK101|1000|m<sup>3</sup> |
+|HDL102.PV|Nivel de Tolueno en el TK102|0|m<sup>3</sup> |
+|HDL200.PV|Nivel de Benceno en el TK200|500|m<sup>3</sup> |
+|HDL201.PV|Nivel de Benceno en el TK201|0|m<sup>3</sup> |
+|HDL202.PV|Nivel de Benceno en el TK202|0|m<sup>3</sup> |
+|HDL300.PV|Nivel de pesados en el TK300|100|m<sup>3</sup> |
 
 ### CAPITULO IX – ANÁLISIS Y CONTROL DEL PRODUCTO
 
 Para el control del proceso y asegurar la calidad del producto se dispone de una serie de puntos a lo largo de las instalaciones ubicados en zonas críticas dispuestos en la siguiente tabla, que permiten conocer mediante análisis en el laboratorio de la planta la composición de tanques y corrientes de flujo.
 
 Tabla 14 – Puntos de muestra
-||**Código**||**Servicio**
-|U001|Corriente de fondo del VE-200
-|U002|Corriente de fondo del VE-300
-|U003|Corriente de recirculación de hidrógeno
-|U004|Corriente de carga al sistema de reacción
-|U008|Corriente de salida del E-200
-|U009|Corriente de tope del VE-300
-|U005|Concentración de Tolueno en el TK-100
-|U006|Concentración de Tolueno en el TK-101
-|U007|Concentración de Tolueno en el TK-102
-|U200|Concentración de Benceno en el TK-200
-|U201|Concentración de Benceno en el TK-201
-|U202|Concentración de Benceno en el TK-202
-|U300|Concentración de Tolueno en el TK-300
+||**Código**||**Servicio** |
+|U001|Corriente de fondo del VE-200 |
+|U002|Corriente de fondo del VE-300 |
+|U003|Corriente de recirculación de hidrógeno |
+|U004|Corriente de carga al sistema de reacción |
+|U008|Corriente de salida del E-200 |
+|U009|Corriente de tope del VE-300 |
+|U005|Concentración de Tolueno en el TK-100 |
+|U006|Concentración de Tolueno en el TK-101 |
+|U007|Concentración de Tolueno en el TK-102 |
+|U200|Concentración de Benceno en el TK-200 |
+|U201|Concentración de Benceno en el TK-201 |
+|U202|Concentración de Benceno en el TK-202 |
+|U300|Concentración de Tolueno en el TK-300 |
 
 Tabla 15 – Características analizadas de los puntos de muestra
-||**Código**||**Servicio**||**Valor Inicial**||**Unidades**
-|C001|Cromatografía, H%%sub 2/%|Fraccion 0/1 molar
-|C002|Cromatografía, Metano|Fracción 0/1 molar
-|C003|Cromatografía, Benceno|Fracción 0/1 molar
-|C004|Cromatografía, Tolueno|Fracción 0/1 molar
-|C005|Cromatografía, Bifenilo|Fracción 0/1 molar
+||**Código**||**Servicio**||**Valor Inicial**||**Unidades** |
+|C001|Cromatografía, H<sub>2</sub>|Fraccion 0/1 molar |
+|C002|Cromatografía, Metano|Fracción 0/1 molar |
+|C003|Cromatografía, Benceno|Fracción 0/1 molar |
+|C004|Cromatografía, Tolueno|Fracción 0/1 molar |
+|C005|Cromatografía, Bifenilo|Fracción 0/1 molar |
 
 El operador de campo tiene entre sus funciones tomar tres muestras del punto que se le indique cuando sea necesario, llevarlas al laboratorio ubicado en la zona de control y oficinas
 para consignarlas dentro del horario de trabajo de dicha instalación, es decir, entre las 8:00 y las 16:00. Al mismo tiempo, enviará un correo electrónico al Laboratorio con la petición de análisis de la muestra. La hora de toma de muestra se tendrá por la hora en la que se envía el correo electrónico. Posteriormente, el laboratorio emitirá un informe por correo electrónico a la dirección del remitente con los resultados de la muestra.
@@ -496,69 +496,69 @@ para consignarlas dentro del horario de trabajo de dicha instalación, es decir,
 ### CAPITULO X – ESTANDARIZACIÓN y NOMENCLATURA UTILIZADA
 
 Tabla 16 – Código de servicio, primera letra
-||**Código**||**Servicio**
-|A|Medida de Analizador en línea
-|F|Medida de Caudal
-|L|Medida de Nivel
-|P|Medida de Presión
-|T|Medida de Temperatura
-|U|Muestra de Laboratorio
+||**Código**||**Servicio** |
+|A|Medida de Analizador en línea |
+|F|Medida de Caudal |
+|L|Medida de Nivel |
+|P|Medida de Presión |
+|T|Medida de Temperatura |
+|U|Muestra de Laboratorio |
 
 Tabla 17 – Código de servicio, segunda letra
-||**Código**||**Servicio**
-|C|Controlador
-|H|Valor alto de alarma
-|L|Valor alto de alarma
+||**Código**||**Servicio** |
+|C|Controlador |
+|H|Valor alto de alarma |
+|L|Valor alto de alarma |
 
 A continuación del nombre del tag se encuentra el item separado por un .
 
 Los items considerados en esta implementación son:
 
 Tabla 18 – Items definidos
-||**Item**||**Servicio**
-|PV|Valor del proceso
-|SP|Punto de consigna o [SetPoint](setpoint.md), writeable
-|KC|Ganancia del controlador, writeable
-|MODE|Ganancia del controlador, writeable
+||**Item**||**Servicio** |
+|PV|Valor del proceso |
+|SP|Punto de consigna o [SetPoint](setpoint.md), writeable |
+|KC|Ganancia del controlador, writeable |
+|MODE|Ganancia del controlador, writeable |
 
 # Representaciones
 
 Existen varios tipos de pantallas a las que se puede acceder dentro del scada.
 
 Tabla 19 - Tipos de representaciones
-||**Tipo**||**Descripción**
-|Listas (Watch List)|Listas de Monitorización
-|Gráficos|Gráficos, permiten representación de diferentes tipos, ver tabla 20
-|Detalle Tag|Permite la representación de todos los items relacionados con un tag o instrumento.
+||**Tipo**||**Descripción** |
+|Listas (Watch List)|Listas de Monitorización |
+|Gráficos|Gráficos, permiten representación de diferentes tipos, ver tabla 20 |
+|Detalle Tag|Permite la representación de todos los items relacionados con un tag o instrumento. |
 
 Tabla 20 - Representaciones gráficas
-||**Nombre / rango**||**Descripción**
-|HD00|Pantalla inicial para seleccionar Rol o perfil
-|HD10|Pantalla inicial para el Rol de operador de Panel o DCS
-|HD101 - HD199|Esquemas de la unidad (configuración de DCS)
-|HD20|Pantalla inicial para el Rol de operador de Campo o Field, vista aérea de la Planta
-|HD21 - HD29|Pantalla de acceso por zonas de la Planta (proceso, terminal, cisternas, etc.)
-|HD201 - HD299|Fotos de los equipos con la instrumentación local y manipulación para el operador de campo.
-|HD30|Pantalla inicial para el Rol de Planificación y Logística
-|HD31 - HD39|Pantalla de acceso por departamentos para Planificación y Logistica (terminal, cisternas)
-|HD40|Pantalla inicial para el Rol de Trainer
-|HD401 - HD410|Pantallas de control del Trainer
+||**Nombre / rango**||**Descripción** |
+|HD00|Pantalla inicial para seleccionar Rol o perfil |
+|HD10|Pantalla inicial para el Rol de operador de Panel o DCS |
+|HD101 - HD199|Esquemas de la unidad (configuración de DCS) |
+|HD20|Pantalla inicial para el Rol de operador de Campo o Field, vista aérea de la Planta |
+|HD21 - HD29|Pantalla de acceso por zonas de la Planta (proceso, terminal, cisternas, etc.) |
+|HD201 - HD299|Fotos de los equipos con la instrumentación local y manipulación para el operador de campo. |
+|HD30|Pantalla inicial para el Rol de Planificación y Logística |
+|HD31 - HD39|Pantalla de acceso por departamentos para Planificación y Logistica (terminal, cisternas) |
+|HD40|Pantalla inicial para el Rol de Trainer |
+|HD401 - HD410|Pantallas de control del Trainer |
 
 ### CAPITULO XI – PLAN DE MEJORAS
 
 ## Mejoras en Simulación
-||Mejora||Descripción||Fecha tentativa
-|MSIM01|Introducir cambiadores y agua de refrigeración como servicio
+||Mejora||Descripción||Fecha tentativa |
+|MSIM01|Introducir cambiadores y agua de refrigeración como servicio |
 
 ## Mejoras en el scada
-||Mejora||Descripción||Fecha tentativa
-|MSCA01|Mejorar el entorno gráfico con botones por accionamientos y fondos más realistas
+||Mejora||Descripción||Fecha tentativa |
+|MSCA01|Mejorar el entorno gráfico con botones por accionamientos y fondos más realistas |
 
 ## Mejoras Interacción con el email
-||Mejora||Descripción||Fecha tentativa
-|MEMAIL01|Depurar y mejorar las reglas de detección de errores
-|MEMAIL02|Añadir reglas para Flujo de compra desde Robot
+||Mejora||Descripción||Fecha tentativa |
+|MEMAIL01|Depurar y mejorar las reglas de detección de errores |
+|MEMAIL02|Añadir reglas para Flujo de compra desde Robot |
 
 ## Mejoras Interacción con el Scada
-||Mejora||Descripción||Fecha tentativa
+||Mejora||Descripción||Fecha tentativa |
 | MKBS01 |

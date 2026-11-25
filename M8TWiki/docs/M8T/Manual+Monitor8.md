@@ -1,4 +1,4 @@
-[[LeftMenu](leftmenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
+[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
 <!-- Plugin JSPWiki: ALLOW view Authenticated -->
 
 ### Monitor8
@@ -110,7 +110,7 @@ Posteriormente, una vez abierto se hace clic nuevamente en el bloque que esta al
 
 <!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig5.png' caption='Fig. 5 - Propiedades de un punto' style='font-size: 200%; color: black;' align='center' width=800 -->
 
-Seguidamente, se hace clic sobre la lista de detectores de evento, donde se muestran las siguientes opciones: Limite superior, limite inferior, cambio, sin cambios, CUSUM positivo y CUSUM negativo. Para este ejemplo en concreto se seleccionará limite inferior y se establece que cuando alcance un valor de 100 se activara la alarma, esto dado que es tanque tiene una capacidad del 1000m%%sup 3/%, se le da un nombre a la alarma en cuestión, un tiempo durante el cual se ha de cumplir la condición dada para que se dé aviso al usuario y un grado de alarma que puede ir de información a riesgo a la vida. Quedando como se ve en la imagen a continuación:
+Seguidamente, se hace clic sobre la lista de detectores de evento, donde se muestran las siguientes opciones: Limite superior, limite inferior, cambio, sin cambios, CUSUM positivo y CUSUM negativo. Para este ejemplo en concreto se seleccionará limite inferior y se establece que cuando alcance un valor de 100 se activara la alarma, esto dado que es tanque tiene una capacidad del 1000m<sup>3</sup>, se le da un nombre a la alarma en cuestión, un tiempo durante el cual se ha de cumplir la condición dada para que se dé aviso al usuario y un grado de alarma que puede ir de información a riesgo a la vida. Quedando como se ve en la imagen a continuación:
 
 <!-- Plugin JSPWiki: Image src='Monitor8WikiDocs/images_Manual SCADA/Fig6.png' caption='Fig. 6 - Definición de evento simple' style='font-size: 200%; color: black;' align='center' width=800 -->
 
@@ -120,7 +120,7 @@ Finalmente, cuando las condiciones dadas se cumplan se mostrará un aviso en la 
 
 **Definición de Evento compuesto**
 
-El ScadaBR tiene una función que permite crear eventos/alarmas que se activan cuando se cumplen un conjunto de condiciones establecidas mediante acciones lógicas *or, and *y *not,*, que actúan sobre los detectores de eventos simples previamente creados en el sistema. Por ejemplo, se creará un evento que alerte al usuario cuando dos de los tres tanques de reactivos presentes en las instalaciones estén a 100m%%sup 3/% o menos, para ello ya se ha creado una alarma para cada uno de los tanques con la premisa previamente mencionada, tal como se mostró en el epígrafe anterior.
+El ScadaBR tiene una función que permite crear eventos/alarmas que se activan cuando se cumplen un conjunto de condiciones establecidas mediante acciones lógicas *or, and *y *not,*, que actúan sobre los detectores de eventos simples previamente creados en el sistema. Por ejemplo, se creará un evento que alerte al usuario cuando dos de los tres tanques de reactivos presentes en las instalaciones estén a 100m<sup>3</sup> o menos, para ello ya se ha creado una alarma para cada uno de los tanques con la premisa previamente mencionada, tal como se mostró en el epígrafe anterior.
 
 Primero, para crear este tipo de notificaciones se ha ir a in icono con dos campanas doradas ubicado en la barra superior, una vez hecho esto se abrirá una lista con todos los eventos compuestos creados hasta ahora, además habrá un icono como el anterior, pero con signo + añadido, al hacer clic sobre este se abrirá un menú.
 
@@ -136,7 +136,7 @@ Está implementado un robot que contesta automáticamente el correo electrónico
 
 Cada correo electrónico que se intercambia con esa cuenta de correo debe llevar adjunto una libro de Excel con una hoja de calculo llamada "seguimiento" y que se utiliza para escribir las peticiones y devolver las respuestas de Monitor8.
 
-[Descarga Hoja de cálculo](manual-monitor8-monitor8trainerseguimientoxlsx.md)
+[Descarga Hoja de cálculo](attachments/Manual+Monitor8-att/Monitor8TrainerSeguimiento.xlsx-dir/1.PNG)
 
 El correo electrónico que se envía a la cuenta monitor8trainer@gmail.com tiene que tener en el Subject el nombre de la planta para que el Robot pueda saber desde qué empresa lo ha recibido. Si este nombre no existe o se omite, el correo electrónico no tendrá respuesta.
 
