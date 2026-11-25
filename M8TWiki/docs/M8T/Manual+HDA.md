@@ -1,9 +1,5 @@
-[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-<!-- Plugin JSPWiki: ALLOW view Authenticated -->
-
 ### Manual HDA
 
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
 ### CAPITULO I – INTRODUCCIÓN
 ## OBJETIVO
@@ -87,8 +83,7 @@ Según lo expuesto por James M. Douglas (1988) la reacción debe darse a una tem
 
 ## ORGANIGRAMA DE LA PLANTA
 
-<!-- Plugin JSPWiki: Image src='Manual HDA/organigrama.PNG' caption='Figura 1– Organigrama de los trabajadores de la planta de HDA' style='font-size: 200%; color: black;' align='center' width=500 -->
-
+![Figura 1– Organigrama de los trabajadores de la planta de HDA](attachments/Manual+HDA-att/organigrama.PNG-dir/1.PNG)
 # DIRECTOR
 Máximo responsable de la planta de HDA, encargado de coordinar a los jefes de logística y planificación, operaciones e ingeniería, así como de realizar los informes económicos y de tomar las decisiones estratégicas que afecten al funcionamiento de la planta.
 
@@ -212,8 +207,7 @@ Una vez llegada la fecha de entrega del benceno producido, se ha de informar al 
 **V-014** y **V-015**, las cuales son coeficientes de reparto cuyos valores van de 0 a 1,
 están estructurados en el sistema de la siguiente forma. Esto si se opera en el modo manual.
 
-<!-- Plugin JSPWiki: Image src='Manual HDA/[SalidaDestiladoCabeza](salidadestiladocabeza.md).PNG' caption='Figura 2 – Configuración de V-014 y V-015' style='font-size: 200%; color: black;' align='center' width=500 -->
-
+![Figura 2 – Configuración de V-014 y V-015](attachments/Manual+HDA-att/SalidaDestiladoCabeza.PNG-dir/1.PNG)
 
 Si se opera en el modo automático, se ordena directamente al sistema que flujo aportar al TK-200 y TK-2001, mediante las variables F-009 y F-010 respectivamente, el del TK-202 será el restante.
 
@@ -517,7 +511,6 @@ Los items considerados en esta implementación son:
 Tabla 18 – Items definidos
 ||**Item**||**Servicio** |
 |PV|Valor del proceso |
-|SP|Punto de consigna o [SetPoint](setpoint.md), writeable |
 |KC|Ganancia del controlador, writeable |
 |MODE|Ganancia del controlador, writeable |
 
