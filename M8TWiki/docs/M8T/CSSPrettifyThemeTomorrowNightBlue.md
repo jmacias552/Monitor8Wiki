@@ -1,5 +1,4 @@
-> add-css
-  .prettify pre {
+.prettify pre {
     background: #002451;
     font-family: Menlo, "Bitstream Vera Sans Mono", "[DejaVu](dejavu.md) Sans Mono", Monaco, Consolas, monospace;
     border:none; 

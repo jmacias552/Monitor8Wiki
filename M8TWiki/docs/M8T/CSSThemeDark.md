@@ -1,5 +1,3 @@
-> add-css
-
 /* Inspired by:  https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a. Adapted for JSPWIKI,  as delta on top of haddock.css.   */
 
 html {

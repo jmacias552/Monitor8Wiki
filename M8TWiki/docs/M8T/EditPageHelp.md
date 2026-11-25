@@ -22,11 +22,11 @@ Este es un pequeño resumen de los elementos que tienes tu disposición:
 `texto`           Texto monoespaciado.
 ;termino:definicion Define 'termino' con 'definicion'.  Úsalo con un 'termino' vacío para realizar comentarios cortos.
 
-|texto|mas texto    Crea una tabla. Barras dobles para encabezados de la tabla.
+|texto|mas texto    Crea una tabla. Barras dobles para encabezados de la tabla. |
 ```
 No intentes usar HTML, no va a funcionar.
 
-Para embeber imágenes simplemente súbelas a la web en uno de los formatos permitidos y quedarán insertadas automáticamente. Para ver una lista de formatos permitidos, comprueba la [información del sistema](systeminfo.md).
+Para embeber imágenes simplemente súbelas a la web en uno de los formatos permitidos y quedarán insertadas automáticamente. Para ver una lista de formatos permitidos, comprueba la [información del sistema](SystemInfo.md).
 
 Para generar un bloque de código, usa { triples para abrir, y } triples para cerrar.
 

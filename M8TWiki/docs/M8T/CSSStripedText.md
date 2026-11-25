@@ -1,4 +1,3 @@
-> add-css
 .striped-text pre { 
   padding: 0.5em;
   line-height: 1.5;

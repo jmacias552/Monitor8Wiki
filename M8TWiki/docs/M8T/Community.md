@@ -38,7 +38,7 @@ Fíjate que el canal puede estar sin demasiado movimiento a determinadas horas d
 Habituales del canal:
 - [Janne Jalkanen](http://www.ecyrd.com/JSPWiki/wiki/[JanneJalkanen](jannejalkanen.md)) (Ecyrd): Está en GMT+2.
 
-# [[FaceBook](facebook.md)](http://www.facebook.com/group.php?gid=11138025370)
+# [FaceBook](http://www.facebook.com/group.php?gid=11138025370)
 
 Como divertimento, se ha creado un grupo de usuarios de JSPWiki en Facebook.  Si usas Facebook habitualmente, ¡déjate caer!
 

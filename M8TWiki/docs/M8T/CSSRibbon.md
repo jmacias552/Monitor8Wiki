@@ -1,4 +1,3 @@
-> add-css
 .ribbon {
   position: absolute;
   top: 0;
