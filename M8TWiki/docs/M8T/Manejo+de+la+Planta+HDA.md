@@ -1,9 +1,5 @@
-[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-<!-- Plugin JSPWiki: ALLOW view Authenticated -->
-
 ## Práctica 3: Manejo de la Planta de HDA
 
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
 # Objetivo de la Práctica
 El objetivo de esta práctica es realizar las operaciones cotidianas de la planta de HDA, tales como revisión de los valores de la planta, realización de informes al final de cada turno,  carga de materia prima y descarga de productos, además del ajuste de las principales variables de operación.

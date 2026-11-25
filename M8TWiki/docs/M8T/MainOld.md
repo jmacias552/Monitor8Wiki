@@ -1,6 +1,5 @@
 ### ¡Enhorabuena!
 
-Has instalado con éxito [JSPWiki](about.md).
 
 Tienes algunas páginas ya configuradas de salida:
 
@@ -18,8 +17,6 @@ Tienes algunas páginas ya configuradas de salida:
 # Documentación
 
 - Para ver todas las características del marcado Wiki, [Reglas de Formato del Texto](TextFormattingRules.md).
-- Punto de entrada a toda [Documentación de JSPWiki](jspwikijspwikidocumentation.md)
-  - [Nuevas características en JSPWiki](jspwikinewin.md).
 
 # Miscelánea
 

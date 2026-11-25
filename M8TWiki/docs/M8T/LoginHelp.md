@@ -1,5 +1,4 @@
 Esto es una breve ayuda sobre cómo identifcarse en **<!-- Plugin JSPWiki: $applicationname -->**. El texto se encuentra [aquí](LoginHelp.md). \\
-Puedes leer más sobre de las características de seguridad de JSPWiki en las [páginas de la documentación](docsecurity.md).
 
 ## Identificación
 
@@ -27,7 +26,6 @@ Por defecto, el formulario pregunta por:
 
 - Un ID de usuario
 - Una contraseña
-- El "wiki nombre" de usuario preferido (p.ej., [JanneJalkanen](jannejalkanen.md)). Puedes usar este nombre en las ACLs o Wiki Grupos
 - Dirección de correo electrónico. Puede ser usada cuando se necesite reestablecer la contraseña. (cfr. Pérdida de contraseña)
 
 Si se está usando autenticación gestionado por el contenedor, el ID de usuario no será editable; el contenedor de aplicaciones suministrará este valor.

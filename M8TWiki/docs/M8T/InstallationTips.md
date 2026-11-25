@@ -1,11 +1,8 @@
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
-
 ## Problemas con Microsoft Windows
 
 # Configuración de la Wiki
 El enfoque menos doloroso para definir la localización de las páginas de la Wiki es tenerlas en la misma unidad que tu instalación de Tomcat (u otro servidor de aplicaciones), y definir su localización con formato Unix. Por ejemplo, los archivos en C:\JSPWiki\files son definidos en el fichero de configuración como /JSPWiki/files.
 
-También, comprueba que cambias el valor del parámetro para `log4j.appender.~[FileLog](filelog.md).File` en `jspwiki.properties` si quieres que se cree un fichero de log. Este parámetro está bien escondido cerca del final del fichero de configuración. El formato es el mismo que en el parámetro `jspwiki.fileSystemProvider.pageDir`, es decir, las contrabarras deben ser duplicadas.
 
 ## Problemas con UTF-8
 
@@ -55,6 +52,5 @@ La parte inferior de la sección de la izquierda es otra página más, llamada [
 
 En tu archivo jspwiki.properties, tienes que establecer el parámetro "jspwiki.rss.generate" a "true".
 
-# No me gusta que ~[LasPalabrasSeAmontonenEnLosTitulos](laspalabrasseamontonenenlostitulos.md) en los títulos de las páginas. ¿Puedo hacer algo al respecto?
 
 Como dicen los finlandeses, "voe tokkiinsa", es decir "sí, por supuesto".  Simplemente establece el parámetro "jspwiki.breakTitleWithSpaces" a "true" en tu fichero jspwiki.properties.

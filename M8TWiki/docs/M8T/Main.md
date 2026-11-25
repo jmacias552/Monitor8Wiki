@@ -27,10 +27,8 @@
 
 - [Página principal](Main.md)
 - [Acerca de](attachments/about)
-- [Cambios Recientes](recent-changes.md)
 - [WikiEtiqueta](WikiEtiquette.md)
 
 - [Páginas sin usar](UnusedPages.md)
 - [Páginas sin definir](UndefinedPages.md)
-- [Índice](page-index.md)
 - [Info. del sistema](SystemInfo.md)

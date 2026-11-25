@@ -4,7 +4,7 @@ a.logo b:before { content:""; }
 
 /* put monitor 8 logo, attached to this page */
 a.logo {
-    background: url([[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md));
+    background: url();
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -16,11 +16,7 @@ a.logo {
     border-radius:2em;
     background-color: rgba(255,255,255,0.15);
 }
-/%
 
-<!-- Plugin JSPWiki: ALLOW view All -->
-
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
 ## [Manual Monitor8](Manual+Monitor8.md)
 ## [HDA Hidroalquilación Tolueno](Planta+de+Hidroalquilacion+de+Tolueno.md)
@@ -46,10 +42,8 @@ a.logo {
 
 - [Página principal](Main.md)
 - [Acerca de](attachments/about)
-- [Cambios Recientes](recent-changes.md)
 - [WikiEtiqueta](WikiEtiquette.md)
 
 - [Páginas sin usar](UnusedPages.md)
 - [Páginas sin definir](UndefinedPages.md)
-- [Índice](page-index.md)
 - [Info. del sistema](SystemInfo.md)
