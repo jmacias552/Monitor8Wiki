@@ -1,10 +1,10 @@
 A veces es útil que el nombre de una página *realmente* signifique otra página distinta.  Por ejemplo, puede que te interese tener una página llamada "Alias dsiponibles", pero también que dicha página fuese accesible además bajo el nombre "Alias".  En este caso, puedes usar un "alias de la página":
 
-Escribe lo siguiente en la página "[[PageAliases](pagealiases.md)](pagealiases.md)":  (Hay una página de ejemplo ahí, por lo que si haces click en el enlace te devolveremos aquí.)
+Escribe lo siguiente en la página "[PageAliases](pagealiases.md)":  (Hay una página de ejemplo ahí, por lo que si haces click en el enlace te devolveremos aquí.)
 ```
-<!-- Plugin JSPWiki: SET alias='[PageAlias](pagealias.md)' -->
+<!-- Plugin JSPWiki: SET alias='[PageAlias](PageAlias.md)' -->
 ```
-Cada vez que alguien solicite la página "[[PageAliases](pagealiases.md)](pagealiases.md)", será automáticamente redirigido a esta página.  Esto es bastante útil si, por ejemplo, quieres poder usar formas de plural irregulares. Normalmente, JSPWiki reconoce los plurales en inglés de los nombres de las páginas, pero no es lo suficientemente listo como para reconocer determinadas formas de plural, como en el caso de "aliases".
+Cada vez que alguien solicite la página "[PageAliases](pagealiases.md)", será automáticamente redirigido a esta página.  Esto es bastante útil si, por ejemplo, quieres poder usar formas de plural irregulares. Normalmente, JSPWiki reconoce los plurales en inglés de los nombres de las páginas, pero no es lo suficientemente listo como para reconocer determinadas formas de plural, como en el caso de "aliases".
 
 # Editando las páginas de alias/redirección
 

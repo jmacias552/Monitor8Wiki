@@ -1,0 +1,33 @@
+[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
+<!-- Plugin JSPWiki: ALLOW view Authenticated -->
+
+
+## Práctica 4: Punto Óptimo de Operación
+
+<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
+
+# Objetivo de la Práctica
+El objetivo de esta práctica es realizar las estimaciones necesarias en las variables de la planta que aumenten el rendimiento económico de la planta de HDA, sin aumentar la cantidad de materia prima empleada.
+
+# Material a Emplear
+
+Estarán a su disposición los usuarios y contraseñas de los operadores de campo, panel, y planificador desde los cuales podrán ver toda la información necesaria; así como modificar las variables que consideren para realizar las distintas acciones necesarias.
+
+# Desarrollo
+
+Las variables con las que se ha de determinar el punto óptimo desde el punto de vista económico son: La temperatura de entrada al reactor, la purga de livianos y la recirculación de pesados del fondo de la torre de destilación.
+
+Siguiendo una metodología similar a las de las prácticas 1 y 2, los operadores de campo y panel estarán a cargo recabar los datos necesarios para actualizar las tablas hechas para el balance de masa y económico; añadiendo en este caso el valor modificado de la variable seleccionada para iniciar con esta la práctica.
+
+Los encargados de producción e ingeniería de procesos quedan a cargo de suministrar las órdenes a los operarios conforme estos le vayan suministrando datos, de forma que hallen el valor óptimo lo más rápido posible gastando la menor cantidad de recursos posibles.
+
+Finalmente, hallado el punto óptimo de la variable seleccionada para modificar, los encargados han de notificar a los empleados a su cargo, de forma tal que regresen la planta a su estado original, de forma tal que se pueda iniciar el proceso nuevamente con otra de las variables previamente mencionadas. Esto se repetirá tres veces.
+
+Tener en cuenta que se ha de garantizar la estabilidad de la simulación que se está realizando tras la interfaz de Monitor8, por tanto, los cambios en la temperatura no han de ser superiores a 10ºC cada vez y los de flujo en un 10% del valor original.
+
+# Resultados
+Los encargados de producción y procesos deben elaborar una tabla Excel en donde se muestre la progresión/relación entre la variable modificada y el beneficio económico esperado, a fin de justificar el punto que consideraron como óptimo.
+
+# Conclusiones
+- De tener que elegir una combinación de valores para las tres variables trabajadas ¿Cuál 	sería y por qué?
+- ¿Los resultados mostrados en esta práctica van en consonancia con lo planteado en las prácticas 1 y 2 en lo referente a las modificaciones que realizaría para llevar a la planta a un punto óptimo?
