@@ -1,0 +1,15 @@
+[LeftMenu/Monitor8Logo.png]
+[{ALLOW view Authenticated}]
+
+
+[{Image src='Monitor8WikiDocs/images_Manual SCADA/work_in_progress.png' caption='WORK IN PROGRESS' style='font-size: 200%; color: black;' align='center' width=100}]
+
+
+
+* __[Practica 1. Balance de Materia|Balance de Materia PFC]__
+
+* __[Practica 2. Balance económico|Balance Económico PFC]__
+
+* __[Practica 3. Manejo de la Planta HDA|Manejo de la Planta PFC]__
+
+* __[Practica 4. Punto óptimo de Operación HDA|Punto óptimo de Operación PFC]__

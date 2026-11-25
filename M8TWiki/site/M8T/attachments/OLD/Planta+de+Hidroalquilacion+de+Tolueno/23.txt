@@ -1,0 +1,6 @@
+[LeftMenu/Monitor8Logo.png]
+!!! Planta de Hidroalquilacion de Tolueno
+
+[{Image src='Monitor8WikiDocs/images_Manual SCADA/work_in_progress.png' caption='WORK IN PROGRESS' style='font-size: 200%; color: black;' align='center' width=100}]
+
+[Construccion de la Simulacion en UNISIM|Planta de Hidroalquilacion de Tolueno/HDA - Simulacion Paso a Paso.pptx]

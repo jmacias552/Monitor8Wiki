@@ -1,0 +1,18 @@
+[LeftMenu/Monitor8Logo.png]
+[{ALLOW view Authenticated}]
+
+{{{
+!!! Manual Planta de Fabricación de Cerveza
+
+[[{TableOfContents}]
+
+!!! CAPITULO I – Introducción
+!! Objetivo
+La realización de este manual tiene como objetivo describir el funcionamiento de una simulación de una planta de fabricación de cerveza mediante la plataforma "DwSim", así como observar y conocer el proceso y equipamiento que esta posee.
+}}}
+
+
+
+
+
+

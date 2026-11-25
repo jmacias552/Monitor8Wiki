@@ -1,0 +1,70 @@
+!!! Manual del Profesor
+!! Introducción
+En este Manual el profesor o Trainer se encuentran las instrucciones para organizar los grupos de trabajo con los alumnos, gestionar las prácticas, y realizar el seguimiento de las prácticas.
+
+!! Organización
+
+!!! Preparación previa a las sesiones de prácticas cortas, entre 1 y dos semanas antes. 
+
+Entre una y dos semanas de antelación los alumnos deben recibir una charla de 30 minutos en qué consiste las prácticas de Monitor8, el contenido de esa charla es la siguiente:
+
+__¿Qué es Monitor8 y qué valor aporta?__
+
+Se describe el entorno de Trabajo y porqué es importante. Se describen las piezas que lo componen (simulación, Scada, interfaces, gestión del tiempo, Correo electrónico, uso de Telegram, Reuniones Meet.
+
+__¿Qué Roles están definidos en Monitor8?, ¿Cómo se eligen los miembros de los equipos?__
+
+Se describen los diferentes roles y los criterios de selección.
+
+Los alumnos deben elegir al Director de la Planta y dar su nombre en unos días y como mínimo una semana antes de la realización de las prácticas.
+
+El profesor se reúne con los directores de las plantas y les indica que deben elegir a los miembros de su equipo entre sus compañeros y hacer esa elección de acuerdo a las necesidades que deben cubrir (roles). Esa lista del equipo deben entregarla al Profesor como mínimo 3 días antes del comienzo de las prácticas.
+
+Esto es necesario para que los alumnos puedan tener tiempo de leer información mas específica de su trabajo y crear las claves de acceso.
+
+Los Directores tienen la posibilidad de reestructurar plantilla si lo creen conveniente para la eficacia del trabajo del equipo pero deben justificarlo adecuadamente.
+
+__¿Cual es la Compañía sobre la que se va a trabajar y qué información necesitan leer y estudiar para repararse para la realización de prácticas?__
+
+En este apartado se describe la Unidad de Proceso objeto de las prácticas y qué información tienen a su disposición. En este apartado se les indica las páginas de M8TWiki que deben leerse y en qué bibliografía van a encontrar mas información de la planta.
+
+|| Realización de prácticas cortas
+
+Los alumnos van a realizar diferentes prácticas de acuerdo a una complejidad creciente. En general, las prácticas elegidas dependerá del tiempo disponible y de la complejidad pero es recomendable que comiencen por una famiiarización del entorno Monitor8, luego acciones muy limitadas y finalmente libre operación.
+
+Las prácticas es recomendable que se realicen en una sala con el profesor (prácticas 1 y 2), mientras que las 3 y 4 se deben realizar cada Rol con su ordenador (en casa o en la universidad), y al menos, con una separación física de dos áreas, el area de operación en el campo y el area de oficinas sala de control.
+
+Todos los alumnos tendrán acceso dos tipos de sala meet, una para operar con comunicación por radio (meet en half duplex) y otra para las oficinas (comunicacion estandar meet). La comunicacion por radio sólo es para las comunicaciones del departamento de Operaciones (panel-campo).
+
+
+Con esos objetivos en general se preveen prácticas de estos 4 tipos:
+
+__Balances de materia y de componentes.__
+
+Los alumnos buscan información en el scada sin necesidad de hacer modicicaciones salvo que deben tomar muestras de laboratorio, y enviar un correo electrónico a monitor8trainer@gmail.com para que el laboratorio les envíe los resultados.
+
+__Balance económico.__
+
+Con estos balances de materia y los precios de los servicios auxiliares, materias primas y productos, etc el equipo directivo debe realizar un informe económico de la planta.
+
+__Operación dirigida.__
+
+Se les pide que realicen ciertos cambios en la planta y que razonen los resultados obtenidos. De esta manera comienzan a familiarizarse con realizar cambios y estudiar los impactos antes y después de realizarlos. En este apartado se realizan cambios de acuerdo a todos los perfiles de la planta.
+
+__Operación libre.__
+
+En esta práctica se les pide que realizen una operación para conseguir un cierto objetivo. Debe existir diferentes posibilidades y depederá la solución de cada grupo. Los alumnos deben justificar los resultados y sus respuestas.
+
+
+!! Prácticas de Duración Larga
+
+Estas prácticas están diseñadas para que los alumnos tengan durante una o varias semanas la planta a su disposición para operarla. Los objetivos de operación deben estar especificados en la práctica y deben cumplir los criterios de seguridad, mantener la unidad dentro de los limites operativos y realizar esos objetivos con el mejor desempeño económico que se pueda conseguir.
+
+Deben redactar un informe con los resultados de explotación del periodo considerado y en base a los objetivos de la práctica. Los alumnos han de fijar la temporalidad en la que la planta la van a operar para que se pueda mantener activada y vigilada la aplicación y el profesor pueda interactuar con los alumnos.
+
+Los horarios de trabajo se acuerdan con el profesor y se deben respetar. LAs reuniones se realizan pro meet (tanto las de equipo como la que simula la comunicación por radio).
+
+
+
+
+

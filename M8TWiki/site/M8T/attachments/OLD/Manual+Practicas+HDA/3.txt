@@ -1,0 +1,9 @@
+[LeftMenu/Monitor8Logo.png]
+
+[{Image src='Monitor8WikiDocs/images_Manual SCADA/work_in_progress.png' caption='WORK IN PROGRESS' style='font-size: 200%; color: black;' align='center' width=100}]
+
+
+* Practica 1
+* Practica 2
+* Practica 3
+* Practica 4

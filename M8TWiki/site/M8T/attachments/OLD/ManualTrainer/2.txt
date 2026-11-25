@@ -1,0 +1,34 @@
+!!! Manual del Profesor
+!! Introducción
+En este Manual el profesor o Trainer se encuentran las instrucciones para organizar los grupos de trabajo con los alumnos, gestionar las prácticas, y realizar el seguimiento de las prácticas.
+
+!! Organización
+
+!!! Preparación previa a las sesiones de prácticas cortas
+
+Entre una y dos semanas de antelación los alumnos deben recibir una charla de 30 minutos en qué consiste las prácticas de Monitor8, el contenido de esa charla es la siguiente:
+
+__¿Qué es Monitor8 y qué valor aporta?__
+
+Se describe el entorno de Trabajo y por que es importante. Se describen las piezas que lo componen (simulación, Scada, interfaces, gestión del tiempo, Correo electrónico, uso de Telegram, Reuniones Meet
+
+__¿Qué Roles están definidos en Monitor8?, ¿Cómo se eligen los miembros de los equipos?__
+
+Se describen los diferentes roles y los criterios de selección.
+
+Los alumnos deben elegir al Director de la Planta y dar su nombre en unos días y cmo minimo una semana antes de la realización de las prácticas. El profesor se reune con los directores de las plantas y les indica que deben elegir a los miembros de su equipo entre sus compañeros y hacer esa elección de acuerdo a las necesidades que deben cubrir (roles). Esa lista del equipo deben entregarla al Profesor una semana antes del comienzo de las prácticas.
+
+
+
+
+
+
+
+__¿Cual es la Compañía sobre la que se va a trabajar y qué información necesitan leer y estudiar para repararse para la realización de prácticas?__
+
+
+
+
+
+
+

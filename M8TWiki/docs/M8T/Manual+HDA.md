@@ -122,7 +122,7 @@ Responsable de realizar los análisis solicitados por el encargado de procesos c
 
 ### CAPITULO IV – DESCRIPCIÓN DEL PROCESO
 
-[Diagramas de Instrumentación y tuberia](attachments/Manual+HDA-att/P&ID.pdf-dir/1.PNG)
+[Diagramas de Instrumentación y tuberia](attachments/Manual+HDA-att/P&ID.pdf-dir/1.pdf)
 
 Los diagramas de instrumentación y tuberia se encuentran en las siguientes figuras junto a la descripción de la planta.
 

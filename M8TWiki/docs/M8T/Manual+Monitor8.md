@@ -118,13 +118,13 @@ Seguidamente, se procede a programar el evento en cuestión, empleando para ello
 
 Cabe destacar que la secuencia se realiza haciendo clics sobre el nombre de los detectores de eventos y sobre las acciones lógicas según sea necesario, lo mostrado en el recuadro es solo la forma en la que el sistema codifica dicha serie de hechos. Además, se le ha de dar un nombre apropiado y un nivel de alarma de preferencia superior al de los eventos que la componen. Finalmente, al igual que con los eventos simples, en el momento que de cumplan las condiciones dadas, aparecerá un aviso en la barra superior del sistema notificando de esto.
 
-## Robot de respuesta automáticas de correo electrónico
+## Robot de respuesta automáticas de correo electrónico (EN REVISION)
 
 Está implementado un robot que contesta automáticamente el correo electrónico que se recibe de cada planta configurada. Existe una cuenta de correo electrónico o buzón implementado en el que este Robot recibe y envía correos, monitor8trainer@gmail.com
 
 Cada correo electrónico que se intercambia con esa cuenta de correo debe llevar adjunto una libro de Excel con una hoja de calculo llamada "seguimiento" y que se utiliza para escribir las peticiones y devolver las respuestas de Monitor8.
 
-[Descarga Hoja de cálculo](attachments/Manual+Monitor8-att/Monitor8TrainerSeguimiento.xlsx-dir/1.PNG)
+[Descarga Hoja de cálculo](attachments/Manual%2BMonitor8-att/Monitor8TrainerSeguimiento.xlsx-dir/1.PNG)
 
 El correo electrónico que se envía a la cuenta monitor8trainer@gmail.com tiene que tener en el Subject el nombre de la planta para que el Robot pueda saber desde qué empresa lo ha recibido. Si este nombre no existe o se omite, el correo electrónico no tendrá respuesta.
 
@@ -141,7 +141,7 @@ Este método permite implementar diferentes flujos de trabajo como por ejemplo:
 
 Una vez que el remitente recibe la contestación puede realizar otra acción a continuación hasta completar la actividad. Estos flujos de trabajo están definidos en el mismo libro en la hoja "Flujos".
 
-## Sistema de base de datos de conocimiento y actuación automática
+## Sistema de base de datos de conocimiento y actuación automática (EN REVISION)
 
 Monitor8 tiene implementado un sistema experto de reglas de producción que se encarga de monitorizar todo el sistema y realizar las acciones que hayan sido programadas en la base de datos de conocimiento para el Gemelo Digital implementado. Este sistema es transparente al usuario y se activa cada 30 segundos. Si se dan las condiciones que se hayan previsto, automáticamente actúa enviando señales al sistema en forma de mensajes o acciones sobre variables. Las reglas están implementadas en forma de fichero de texto por lo que no es necesario utilizar un lenguaje de programación. El motor de reglas utiliza el algoritmo de RETE.
 

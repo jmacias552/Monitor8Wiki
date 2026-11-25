@@ -1,0 +1,11 @@
+[LeftMenu/Monitor8Logo.png]
+
+
+
+* __[Practica 1. Balance de Materia|Balance de Materia HDA]__
+
+* __[Practica 2. Balance económico|Balance Económico HDA]__
+
+* __[Practica 3. Manejo de la Planta HDA|Manejo de la Planta HDA]__
+
+* __[Practica 4. Punto óptimo de Operación HDA|Punto óptimo de Operación HDA]__

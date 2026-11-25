@@ -1,0 +1,54 @@
+%%add-css
+/* hide the default jspwiki logo */
+a.logo { background:transparent; border:none; text-indent:-99em; }
+a.logo b:before { content:""; }
+
+/* put monitor 8 logo, attached to this page */
+a.logo {
+    background: url([LeftMenu/Monitor8Logo.png]);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60px;
+    width: 180px; 
+
+    /* add a fancy button like effect */
+    box-shadow:0 0 .25em white;
+    border-radius:2em;
+    background-color: rgba(255,255,255,0.15);
+}
+/%
+
+[{ALLOW view All}]
+
+[{TableOfContents}]
+
+!! [Manual Monitor8|Manual Monitor8]
+!! [HDA Hidroalquilación Tolueno|Planta de Hidroalquilacion de Tolueno]
+! [Manual Planta HDA|Manual HDA]
+! [Manual Prácticas HDA|Manual Practicas HDA]
+
+!! [Planta de Tratamiento AARR|Planta de Tratamiento AARR]
+! [Manual Planta AARR|Manual AARR]
+! [Manual Prácticas AARR|Manual Practicas AARR]
+
+!! [Planta de Fabricación de cerveza|Planta de Fabricación de Cerveza]
+! [Manual Planta Fabricación Cerveza|Manual PFC]
+! [Manual Prácticas PFC|Manual Prácticas PFC]
+
+!! [Planta de Fabricación de Biodiésel|Planta de Fabricación de Biodiésel]
+! [Manual Planta Fabricación Biodiésel|Manual PBIO]
+! [Manual Prácticas PBIO|Manual Prácticas PBIO]
+
+
+* [Página principal|Main]
+* [Acerca de|...About]
+* [Noticias|News]
+* [Cambios Recientes|Recent Changes]
+* [WikiEtiqueta|WikiEtiquette]
+
+* [Buscar páginas|Search]
+* [Páginas sin usar|UnusedPages]
+* [Páginas sin definir|UndefinedPages]
+* [Índice|Page Index]
+* [Info. del sistema|SystemInfo]

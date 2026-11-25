@@ -1,0 +1,48 @@
+[LeftMenu/Monitor8Logo.png]
+
+[{ALLOW view Trainer}]
+
+!! Introducción
+[Manual Monitor8]
+
+[Planta de Hidroalquilacion de Tolueno/HDA - Presentacion Monitor8.pptx]
+
+[Planta de Hidroalquilacion de Tolueno/Gemelos Digitales Monitor8_V0.pptx]
+
+!! Plantas desarrolladas
+||Planta||Nombre||Estado Actual||Mejoras previstas
+|[Planta de Hidroalquilacion de Tolueno]|hda_1|Operativa|
+
+!! Plantas en desarrollo
+||Planta||Nombre||Estado Actual||Fecha estimada
+|[Planta de Tratamiento AARR]|ptar_1|En desarrollo|Julio 2023
+|[Planta de Fabricación de Cerveza]|ptar_1|En desarrollo|Julio 2023
+|[Planta de Fabricación de Biodiésel]|ptar_1|En desarrollo|Julio 2023
+
+!! Organización de las prácticas
+[ManualTrainer]
+
+!! Acceso a Monitor8
+
+Cada grupo tiene acceso a una planta de manera exclusiva, el nombre de la página web de acceso se construye de la siguiente manera:
+
+__xxxx.servehttp.com:8080/yyyy__
+
+donde __xxxx__ es el nombre del servidor e __yyyy__ es el nombre de la Planta
+
+por ejemplo:
+
+[http://hda.servehttp.com:8080/hda_1]
+
+! Navegación y Roles
+Existen, entre otros, los nombres de usuario y Rol siguientes:
+||Nombre||Rol||Información a la que accede
+|CAMPO|Operador de Campo|Instrumentación remota
+|PANEL|Operador de DCS o Panel|Instrumentos y actuadores locales
+|PLANIFICADOR|Jefe de Planificación y Logística|gestión administrativa de Terminales
+|DIRECCION|Director|A toda la información excepto la exclusiva del TRAINER
+|INGENIERIA|Ingeniería|A toda la información excepto la exclusiva del TRAINER
+|TRAINER|Profesor|A toda la información de la planta
+
+A cada usuario se le asigna una contraseña de acuerdo a su Rol
+
