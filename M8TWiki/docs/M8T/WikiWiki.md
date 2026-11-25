@@ -1,4 +1,4 @@
-[WikiWiki](wikiwiki.md) es la palabra hawaiana para &quot;rápido&quot;.
+[WikiWiki](WikiWiki.md) es la palabra hawaiana para &quot;rápido&quot;.
 ~[ViteVite](vitevite.md) es la palabra francesa para &quot;rápidorápido&quot;.
 Wiki también es un acrónimo reverso  - What I Know Is (Lo Que Yo Sé)
 

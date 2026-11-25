@@ -1,1 +1,37 @@
-site_name: My Docs
+site_name: Monitor8 Wiki
+site_description: "Documentación de Monitor8 y sus plantas de simulación (HDA, AARR, PFC, PBIO)"
+docs_dir: docs
+theme:
+  name: readthedocs
+  language: es
+  collapse_navigation: false
+nav:
+  - "Inicio": "index.md"
+  - "M8T":
+    - "Introducción": "M8T/index.md"
+    - "Manual Monitor8": "M8T/Manual+Monitor8.md"
+  - "HDA: Hidrodealquilación de Tolueno":
+    - "Planta HDA": "M8T/Planta+de+Hidroalquilacion+de+Tolueno.md"
+    - "Manual Planta HDA": "M8T/Manual+HDA.md"
+    - "Manual Prácticas HDA": "M8T/Manual+Practicas+HDA.md"
+    - "Práctica: Manejo de la Planta HDA": "M8T/Manejo+de+la+Planta+HDA.md"
+    - "Práctica: Balance de Materia HDA": "M8T/Balance+de+Materia+HDA.md"
+null
+null
+  - "AARR: Tratamiento de Aguas Residuales":
+    - "Planta AARR": "M8T/Planta+de+Tratamiento+AARR.md"
+    - "Manual Planta AARR": "M8T/Manual+AARR.md"
+    - "Manual Prácticas AARR": "M8T/Manual+Practicas+AARR.md"
+  - "PFC: Fabricación de Cerveza":
+    - "Planta PFC": "M8T/Planta+de+Fabricación+de+Cerveza.md"
+    - "Manual Planta PFC": "M8T/Manual+PFC.md"
+    - "Manual Prácticas PFC": "M8T/Manual+Prácticas+PFC.md"
+  - "PBIO: Fabricación de Biodiésel":
+    - "Planta PBIO": "M8T/Planta+de+Fabricación+de+Biodiésel.md"
+    - "Manual Planta PBIO": "M8T/Manual+PBIO.md"
+    - "Manual Prácticas PBIO": "M8T/Manual+Prácticas+PBIO.md"
+  - "Material complementario":
+    - "Manual del Profesor": "M8T/ManualTrainer.md"
+    - "Curso de Profesores": "M8T/CursoProfesores.md"
+null
+null

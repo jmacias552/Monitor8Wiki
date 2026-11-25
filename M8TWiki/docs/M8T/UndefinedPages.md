@@ -3,4 +3,4 @@ unas cuantas?
 
 <!-- Plugin JSPWiki: INSERT org.apache.wiki.plugin.[UndefinedPagesPlugin](undefinedpagesplugin.md) -->
 
-(Vuelta a la página [Principal](main.md)).
+(Vuelta a la página [Principal](Main.md)).

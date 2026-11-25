@@ -1,3 +1,3 @@
 > center
-[Bienvenido](titlebox.md) a [JSPWiki](about.md)
+[Bienvenido](TitleBox.md) a [JSPWiki](about.md)
 /%
