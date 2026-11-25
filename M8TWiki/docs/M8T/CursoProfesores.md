@@ -1,14 +1,6 @@
-[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-<!-- Plugin JSPWiki: ALLOW view profesor -->
-
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
-
-
 ## Introducción
 [Manual Monitor8](Manual+Monitor8.md)
 
-
-[Planta de Hidroalquilacion de Tolueno/HDA - Presentacion Monitor8.pptx](planta-de-hidroalquilacion-de-tolueno-hda---presentacion-monitor8pptx.md)
 
 [Planta de Hidroalquilacion de Tolueno/Gemelos Digitales Monitor8_V0.pptx](planta-de-hidroalquilacion-de-tolueno-gemelos-digitales-monitor8_v0pptx.md)
 
@@ -35,7 +27,7 @@ donde **xxxx** es el nombre del servidor e **yyyy** es el nombre de la Planta
 
 por ejemplo:
 
-[http://hda.servehttp.com:8080/hda_1](http://hda.servehttp.com:8080/hda_1)
+http://hda.servehttp.com:8080/hda_1
 
 # Navegación y Roles
 Existen, entre otros, los nombres de usuario y Rol siguientes:
@@ -53,44 +45,32 @@ Accedemos a cada perfil y observamos la información que hay disponible
 
 Por ejemplo, en el perfil de **operador de panel** tenemos:
 
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_pantallacompletaF11Listas.PNG' caption='Figura 1– Listas de instrumentos y pantalla completa' style='font-size: 200%; color: black;' align='center' width=500 -->
-
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_menu_inicial_panel.PNG' caption='Figura 2– Menu inicial operador de panel' style='font-size: 200%; color: black;' align='center' width=500 -->
-
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_esquematico_inicial_panel.PNG' caption='Figura 3– Primer esquemático de panel de la Planta H' style='font-size: 200%; color: black;' align='center' width=500 -->
-
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_esquematico_2_panel.PNG' caption='Figura 4– Segundo esquematico de la planta de HDA' style='font-size: 200%; color: black;' align='center' width=500 -->
-
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_esquematico_detalle_panel.PNG' caption='Figura 5– Esquematico de detalle de instrumento' style='font-size: 200%; color: black;' align='center' width=500 -->
-
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_esquematico_detalle2_panel.PNG' caption='Figura 6– Esquematico de detalle de controlador' style='font-size: 200%; color: black;' align='center' width=500 -->
-
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_DatosUsuario.PNG' caption='Figura 7– Configuracion de datos de usuario' style='font-size: 200%; color: black;' align='center' width=500 -->
-
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_creacion_Informes.PNG' caption='Figura 8– Elaboración de informes' style='font-size: 200%; color: black;' align='center' width=500 -->
-
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/scada_pantallacompletaF11ListaAlarmas.PNG' caption='Figura 9– Lista de alarmas' style='font-size: 200%; color: black;' align='center' width=500 -->
-
+![Figura 1– Listas de instrumentos y pantalla completa](attachments/ManualTrainer-att/scada_pantallacompletaF11Listas.PNG-dir/1.PNG)
+![Figura 2– Menu inicial operador de panel](attachments/ManualTrainer-att/scada_menu_inicial_panel.PNG-dir/1.PNG)
+![Figura 3– Primer esquemático de panel de la Planta H](attachments/ManualTrainer-att/scada_esquematico_inicial_panel.PNG-dir/1.PNG)
+![Figura 4– Segundo esquematico de la planta de HDA](attachments/ManualTrainer-att/scada_esquematico_2_panel.PNG-dir/1.PNG)
+![Figura 5– Esquematico de detalle de instrumento](attachments/ManualTrainer-att/scada_esquematico_detalle_panel.PNG-dir/1.PNG)
+![Figura 6– Esquematico de detalle de controlador](attachments/ManualTrainer-att/scada_esquematico_detalle2_panel.PNG-dir/1.PNG)
+![Figura 7– Configuracion de datos de usuario](attachments/ManualTrainer-att/scada_DatosUsuario.PNG-dir/1.PNG)
+![Figura 8– Elaboración de informes](attachments/ManualTrainer-att/scada_creacion_Informes.PNG-dir/1.PNG)
+![Figura 9– Lista de alarmas](attachments/ManualTrainer-att/scada_pantallacompletaF11ListaAlarmas.PNG-dir/1.PNG)
 ## Acceso a informacion de Monitor8 por medio de Telegram
 
 Es necesario tener una cuenta de usuario de Telegram e iniciar un chat con Monitor8Trainer por lo que buscamos ese usuario en Telegram con **@Monitor8Trainer**.
 
 Este es un Bot que nos permite acceder a la información de la planta y los tags que se especifiquen. Lo primero que hay que hacer es arrancar el chat con Telegram para que nos tenga identificados escribiendo **/start** a lo que nos contestará con el siguiente mensaje:
 
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/[TelegramStart](telegramstart.md).PNG' caption='Figura 10– Telegram start' style='font-size: 200%; color: black;' align='center' width=500 -->
-
+![Figura 10– Telegram start](attachments/ManualTrainer-att/TelegramStart.PNG-dir/1.PNG)
 Tambien podemos preguntar por **/quieneres** a lo que nos contestará con:
 
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/[TelegramQuieneres](telegramquieneres.md).PNG' caption='Figura 11– Telegram quieneres' style='font-size: 200%; color: black;' align='center' width=500 -->
-
+![Figura 11– Telegram quieneres](attachments/ManualTrainer-att/TelegramQuieneres.PNG-dir/1.PNG)
 Por último, se puede preguntar por la información deseada, como por ejemplo **/leetag hda_1 HDF003.PV HDA001** que indica que necesitamos información de la Planta **hda_1** y queremos el item de instrumentacion **PV** correspondiendo al Tag **HDF003** y todos los items disponibles para el tag **HDA001**
 
-<!-- Plugin JSPWiki: Image src='[ManualTrainer](ManualTrainer.md)/[TelegramLeetag](telegramleetag.md).PNG' caption='Figura 12– Telegram quieneres' style='font-size: 200%; color: black;' align='center' width=500 -->
-
+![Figura 12– Telegram quieneres](attachments/ManualTrainer-att/TelegramLeetag.PNG-dir/1.PNG)
 ## Gestión con el correo electronico
 
 
-[http://hda.servehttp.com:8080/M8TWiki/Wiki.jsp?page=Manual%20Monitor8#section-Manual+Monitor8-RobotDeRespuestaAutom_C3_A1ticasDeCorreoElectr_C3_B3nico](http://hda.servehttp.com:8080/M8TWiki/Wiki.jsp?page=Manual%20Monitor8#section-Manual+Monitor8-RobotDeRespuestaAutom_C3_A1ticasDeCorreoElectr_C3_B3nico)
+http://hda.servehttp.com:8080/M8TWiki/Wiki.jsp?page=Manual%20Monitor8#section-Manual+Monitor8-RobotDeRespuestaAutom_C3_A1ticasDeCorreoElectr_C3_B3nico
 ## Uso de Meet
 
-[http://hda.servehttp.com:8080/M8TWiki/Wiki.jsp?page=Manual%20Monitor8#section-Manual+Monitor8-Videoconferencia](http://hda.servehttp.com:8080/M8TWiki/Wiki.jsp?page=Manual%20Monitor8#section-Manual+Monitor8-Videoconferencia)
+http://hda.servehttp.com:8080/M8TWiki/Wiki.jsp?page=Manual%20Monitor8#section-Manual+Monitor8-Videoconferencia

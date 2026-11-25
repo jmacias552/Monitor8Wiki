@@ -1,5 +1,3 @@
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
-
 ## Listas de correo
 Existen listas de correo de JSPWiki para discutir acerca de esta wiki.  Están muy bien para discutir acerca de cosas como parches, problemas, desarrollo, etc.
 
@@ -29,7 +27,6 @@ Los archivos antiguos de la lista JSPWiki-dev (hasta Oct. 2007) también [están
 
 ## Otras fuentes de información
 
-# [IrcChannel](ircchannel.md) - chat en vivo con los desarrolladores!
 
 Hay un canal de [IRC](http://www.mirc.com/irc.html) sobre JSPWiki en [Freenode](http://www.freenode.net), llamado #jspwiki. Déjate caer por ahí si tienes alguna pregunta, o simplemente te apetece chatear.
 

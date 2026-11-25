@@ -6,8 +6,3 @@
   background-origin: content-box;
   font-size: 1em;
 }
-/%
-
-
-<!-- Plugin JSPWiki: ALLOW edit Admin -->
-<!-- Plugin JSPWiki: ALLOW view All -->

@@ -2,10 +2,7 @@ Este es un pequeño resumen de los elementos que tienes tu disposición:
 ```
 ----                Regla horizontal
 \\                  Fuerza salto de línea
-[enlace](enlace.md)            Crea un hipervínculo a "enlace", dónde "enlace" puede ser tanto un [WikiNombre](wikinombre.md)
                     interno como un enlace externo (http://)
-[texto](enlace.md)      Crea un hipervínculo dónde el texto enlazado es diferente del enlace en si.
-[texto](wikienlace.md) Crea un hipervínculo dónde el texto enlazado es diferente del enlace en si,
                     y el hipervínculo apunta a una Wiki nombrada.
                     Esto soporta el enlazado interWiki.
 
@@ -29,5 +26,3 @@ No intentes usar HTML, no va a funcionar.
 Para embeber imágenes simplemente súbelas a la web en uno de los formatos permitidos y quedarán insertadas automáticamente. Para ver una lista de formatos permitidos, comprueba la [información del sistema](SystemInfo.md).
 
 Para generar un bloque de código, usa { triples para abrir, y } triples para cerrar.
-
-*(¿te preguntas de dónde viene este texto?  está todo en una página llamada [Ayuda de Edición de Página](edit-page-help.md), ¡que también puedes editar!)*

@@ -7,7 +7,6 @@ Puedes usar meta-caracteres en el campo de búsqueda:
 |^      |inicio de línea             |$      |fin de línea |
 |[[...](attachments/) |uno de los caracteres del grupo      |[[^...](attachments/) |negación del grupo de caracteres |
 |\b     |palabra límite                   |\B     |palabra no límitadora |
-|\d     |numeral [[0-9](0-9.md)                  |\D     |no numeral [[^0-9](0-9.md) |
 |\s     |carácter único, espacio en blanco              |\S     |carácter único, que no es espacio en blanco |
 |\w     |[[A-Za-z0-9_](a-za-z0-9_.md)                   |\W     |[[^A-Za-z0-9_](a-za-z0-9_.md) |
 |(...)  |agrupaciones disponibles como $1..$9   |\.     |escapar un meta-carácter |
@@ -18,7 +17,6 @@ Ejemplo:\\
 
 Buscar **/abc|def/** coincidirá con la palabra 'abc' o con la palabra 'def'\\
 Buscar  **/bwiki/b** coincidirá con la palabra 'wiki' pero no con 'jspwiki'.\\
-Buscar **^[[IVXMDCL](ivxmdcl.md)+\.** coincidirá con cualquier combinación de numerales romanos seguidos de un punto\\
 Busca **/(-?\d+)(\d{3})/** y reemplaza con **$1,$2** para insertar comas en enteros grandes.
 
 Ésta es la página de [Ayuda en la búsqueda y edición](EditFindAndReplaceHelp.md).

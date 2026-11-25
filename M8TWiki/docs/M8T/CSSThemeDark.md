@@ -154,7 +154,6 @@ html {
 .form-control:focus {
   border-color: var(--accent-color);
 }
-.form-control[[disabled](disabled.md) {
   background-color: transparent;
   border-color: var(--border-color);
 }
@@ -329,13 +328,9 @@ a.createpage {
 }
 
 .interwiki-raw::after,
-a.interwiki[[href$="skin=raw"](hrefskinraw.md)::after,
 .interwiki-reader::after,
-a.interwiki[[href$="skin=reader"](hrefskinreader.md)::after,
 .interwiki-edit::after,
-a.interwiki[[href*="Edit.jsp?page="](hrefeditjsppage.md)::after,
 .interwiki-group::after,
-a.interwiki[[href*="Group.jsp?group="](hrefgroupjspgroup.md)::after,
 a.interwiki[[href^="rss.jsp"](attachments/hrefrssjsp)::after {
     background-color:var(--background-lighter);
     color:var(--accent-color);
@@ -419,7 +414,6 @@ blockquote,
 .table-striped > tbody > tr:nth-child(odd) > th {
   background-color: var(--background-light);
 }
-[[class*=zebra](classzebra.md) .odd {
   background-color: var(--background-light);
 }
 
@@ -488,7 +482,6 @@ div.admin .formcontainer {
 }
 
 
-/* --- Template.[UserBox](userbox.md).less --- */
 .login-form {
   background-color: var(--background-dialog);
   border:1px solid var(--border-color);
@@ -496,7 +489,6 @@ div.admin .formcontainer {
 .login-form hr { border-color:var(--border-color); }
 
 
-/* --- Template.[SearchBox](searchbox.md).less --- */
 /* --- Template.Nav.less --- */
 .badge,
 .header > .navigation  .nav > li > a > .badge {
@@ -534,8 +526,6 @@ form#searchform2 + div .gb-bar {
 /* --- Template.Workflow.less --- */
 /* --- Template.Edit.less --- */
 
-.editform input[[type="text"](typetext.md):focus,
-.dialog.find input[[type="text"](typetext.md):focus,
 .editform textarea:focus,
 .dialog.find textarea:focus {
   background-color:var(--background-lighter);
@@ -565,7 +555,6 @@ form#searchform2 + div .gb-bar {
   background-color: var(--border-color);
 }
 
-.dialog.find [[name=tbTEXTSEL](nametbtextsel.md) {  /*same as selected text*/
   color:var(--accent-color);
   background-color: var(--color-black);
 }
@@ -573,8 +562,6 @@ form#searchform2 + div .gb-bar {
 
 /* --- Template.Preview.less --- */
 
-/* --- [ImagePlugin](imageplugin.md).less --- */
-/* --- [IndexPlugin](indexplugin.md).less --- */
 
 .index .header {
   background-color:var(--background-light);
@@ -600,16 +587,12 @@ form#searchform2 + div .gb-bar {
   background-color:var(--background-lighter);
 }
 
-/* --- [WeblogPlugin](weblogplugin.md).less --- */
-/* --- [RecentChangesPlugin](recentchangesplugin.md).less --- */
 
 .recentchanges .date {
   border-color:var(--border-color);
 }
-/* --- [CommentBox](commentbox.md).less --- */
 
 
-/* --- [GraphBar](graphbar.md).less --- */
 .gb-group {
   background-color:var(--background-light);
   border:1px solid var(--border-color);
@@ -664,9 +647,3 @@ form#searchform2 + div .gb-bar {
 
 /* --- responsive-viewport.less --- */
 /* --- print.less --- */
-
-/% 
-
-
-<!-- Plugin JSPWiki: ALLOW edit Admin -->
-<!-- Plugin JSPWiki: ALLOW view All -->

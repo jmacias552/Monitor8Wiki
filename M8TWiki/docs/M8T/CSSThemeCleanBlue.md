@@ -47,7 +47,6 @@ a.logo b:before { content:""; }
 
 /* put back your own company logo */
 a.logo {
-    background-image: url([Clean Blue Theme/logo-hi.png](clean-blue-theme-logo-hipng.md));
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -120,9 +119,3 @@ blockquote {
   margin: 0 .5em;
   font-size: 95% ;
 }
-
-/%
-
-
-<!-- Plugin JSPWiki: ALLOW edit Admin -->
-<!-- Plugin JSPWiki: ALLOW view All -->

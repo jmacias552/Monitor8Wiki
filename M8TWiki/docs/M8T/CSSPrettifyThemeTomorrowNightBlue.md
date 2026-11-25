@@ -1,6 +1,5 @@
 .prettify pre {
     background: #002451;
-    font-family: Menlo, "Bitstream Vera Sans Mono", "[DejaVu](dejavu.md) Sans Mono", Monaco, Consolas, monospace;
     border:none; 
   }
   pre.prettyprint { border-radius:0 4px 4px 0; }
@@ -21,8 +20,3 @@
   .dec { color: #ffc58f; }  /* declaration */
   .var { color: #ff9da4; }  /* variable name */
   .fun { color: #bbdaff; }  /* function name */
-/%
-
-
-<!-- Plugin JSPWiki: ALLOW edit Admin -->
-<!-- Plugin JSPWiki: ALLOW view All -->

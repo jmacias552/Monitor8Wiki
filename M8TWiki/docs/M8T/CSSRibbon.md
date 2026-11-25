@@ -25,8 +25,3 @@
   color:inherit; 
   text-decoration:none !important; 
 }
-/%
-
-
-<!-- Plugin JSPWiki: ALLOW edit Admin -->
-<!-- Plugin JSPWiki: ALLOW view All -->
