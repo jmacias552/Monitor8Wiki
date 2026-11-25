@@ -1,0 +1,524 @@
+[LeftMenu/Monitor8Logo.png]
+!!! Manual HDA
+
+[{TableOfContents}]
+
+!!! CAPITULO I – INTRODUCCIÓN
+!! OBJETIVO
+Este manual tiene por objetivo describir la operativa del funcionamiento, características y equipamiento de la planta de hidrodealquilación de tolueno.
+
+!! ÁMBITO DE APLICACIÓN
+Las características y operativa descritas en este manual son de aplicación a todas las actividades relacionadas con la planta de hidrodealquilación de tolueno.
+
+!! DISTRIBUCIÓN
+De este manual existe un original en la unidad de formación y comunicación, y 8 copias distribuidas de la siguiente manera.
+
+
+Copia N.º 1 – Director.
+
+Copia N.º 2 – Jefe de Operaciones.
+
+Copia N.º 3 – Jefe de Logística y Planificación.
+
+Copia N.º 4 – Jefe de Ingeniería.
+
+Copia N.º 5 – Operador de Panel.
+
+Copia N.º 6 – Operador de Planta.
+
+Copia N.º 7 – Ingeniero de Procesos.
+
+Copia N.º 8 – Encargado de Mantenimiento.
+
+!!! CAPÍTULO II – INTRODUCCIÓN TEÓRICA
+
+!! METANO
+De fórmula molecular CH%%sub 4/%, en condiciones normales/estándar es un gas incoloro e inoloro, soluble principalmente en etanol, benceno, tolueno y acetona. Por si solo no es tóxico, pero es altamente inflamable, por tanto, sus mezclas con el aire resultan peligrosas. A continuación, se exponen sus propiedades más importantes:
+
+Tabla 1 - Propiedades del Metano
+|Densidad (kg/m%%sup 3/%)|0.657
+|Masa molar (g/mol)|16
+|Punto de fusión (ºC)|-182
+|Punto de ebullición (ºC)|-162
+
+!! BENCENO
+
+De formula molecular C%%sub 6/% H%%sub 6/%, a temperatura ambiente es un líquido cuya coloración varía entre un amarillo claro y uno traslucido, posee un olor dulce y aromático. Es altamente inflamable, fácil de volatilizar en el aire y poco soluble en agua, aunque fácilmente solubilizado en la mayoría de solventes orgánicos. Sus propiedades más importantes son expuestas a continuación:
+
+Tabla 2 - Propiedades del Benceno
+|Densidad (kg/m%%sup 3/%)|878.6
+|Masa molar (g/mol)|78.11
+|Punto de fusión (ºC)|5
+|Punto de ebullición (ºC)|80
+|Viscosidad a 20ºC (mPa·s)|0.652
+
+!! TOLUENO
+De fórmula C%%sub 6/% H%%sub 5/% CH%%sub 3/%, en condiciones normales se encuentra en estado líquido, transparente, posee un olor dulce, es altamente volátil e inflamable a temperaturas superiores a 5ºC y es solvente de una amplia variedad de compuestos orgánicos. El resto se sus propiedades más importantes se encuentran a continuación:
+
+Tabla 3– Propiedades del Tolueno
+|Densidad (kg/m%%sup 3/%)|866.9
+|Masa molar (g/mol)|92.14
+|Punto de fusión (ºC)|-95
+|Punto de ebullición (ºC)|111
+|Viscosidad a 20ºC (cP)|1.497
+
+!! DIFENILO
+
+De fórmula molecular C%%sub 12/% H%%sub 10/%, es un compuesto orgánico sólido cristalino con coloraciones que van desde amarillo claro hasta un transparente, posee un aroma agradable, es
+insoluble en agua, pero soluble en la mayoría de disolventes orgánicos comunes, no es muy reactivo, puesto que se trata de dos anillos de benceno conectados
+		
+Tabla 4–Propiedades del Difenilo
+|Densidad (kg/m%%sup 3/%)|1040
+|Masa molar (g/mol)|154.21
+|Punto de fusión (ºC)|70
+|Punto de ebullición (ºC)|256
+
+!! HIDRODEALQUILACIÓN DEL TOLUENO
+
+El proceso de hidrodealquilación del tolueno de ahora en más llamado por sus siglas HDA, se emplea para producir metano a partir del benceno según la siguiente reacción:
+
+[Manual HDA/Reacciones.PNG]
+
+Según lo expuesto por James M. Douglas (1988) la reacción debe darse a una temperatura de entre 620 ºC y 705 ºC y una presión de 34.5 bar, con un exceso de hidrogeno correspondiente a 5 mol de hidrogeno por cada mol de aromáticos (benceno, tolueno y difenilo) dentro del reactor.
+
+!!! CAPITULO III– ORGANIZACIÓN
+
+!! ORGANIGRAMA DE LA PLANTA
+
+[{Image src='Manual HDA/organigrama.PNG' caption='Figura 1– Organigrama de los trabajadores de la planta de HDA' style='font-size: 200%; color: black;' align='center' width=500}]
+
+! DIRECTOR
+Máximo responsable de la planta de HDA, encargado de coordinar a los jefes de logística y planificación, operaciones e ingeniería, así como de realizar los informes económicos y de tomar las decisiones estratégicas que afecten al funcionamiento de la planta.
+
+! JEFE DE OPERACIONES
+
+Dentro de sus funciones están: ser garante de la comunicación entre los empleados a su cargo, tomar decisiones acerca de la aceptación de los reactivos solicitados a los proveedores, así como de la expedición de los productos ofertados a los clientes con la finalidad de cumplir con el plan de fabricación.
+
+
+! JEFE DE LOGÍSTICA Y PLANIFICACIÓN
+Responsable de las negociaciones con los proveedores para la adquisición de reactivos y su transporte al terminal en las fechas y cantidades que se estimen oportunas, de las ventas programadas con los clientes y de mantener la comunicación con operaciones para coordinar la llegada de buques y salida de cisternas.
+
+
+! JEFE DE INGENIERÍA
+
+Responsable de la realización del mantenimiento de las instalaciones, de gestionar el almacén de repuestos, de proponer modificaciones al proceso derivados de los análisis de su departamento, de diagnosticar las posibles averías en la planta y de mantener la comunicación entre sus empleados.
+
+! OPERADOR DE PANEL
+
+Responsable de la monitorización periódica de la planta de HDA, manteniendo informado a sus superiores de los posibles inconvenientes que puedan suceder. Al mismo tiempo, debe ejercer las modificaciones en cuanto a los parámetros operativos correspondientes en el sistema de reacción
+y separación (ver anexo I) para que la planta mantenga su correcto funcionamiento
+
+! OPERADOR DE CAMPO
+Responsable de la realización de todas aquellas maniobras que requieran de la presencia de un trabajador físicamente en las instalaciones de la planta de HDA, como por ejemplo las operaciones de descarga de reactivos procedentes de los barcos y la carga de productos a las cisternas.
+
+! INGENIERO DE PROCESOS
+Responsable de analizar el comportamiento de la planta química, diagnosticar posibles problemas de rendimiento, realizar los test de planta, así como las simulaciones, estudios y propuestas que mejoren el rendimiento del proceso.
+
+
+! ENCARGADO DE MANTENIMIENTO
+
+Responsable de llevar a cabo las operaciones previstas en el plan de manteniendo, atender las averías, gestionar el almacén de repuestos, realizar los planes de parada y mantenimiento de equipos, así como de realizar los pedidos de material.
+
+! INSPECTOR DE CALIDAD
+
+Responsable de realizar los análisis solicitados por el encargado de procesos con el fin de garantizar el cumplimientos de los estándares de los reactivos, productos de la planta, así como de las muestras procedentes de las diversas corrientes de la misma. Emitiendo informes donde se haga constancia de los resultados.
+
+!!! CAPITULO IV – DESCRIPCIÓN DEL PROCESO
+
+! CARGA AL SISTEMA DE REACCIÓN
+
+El flujo de tolueno procedente de los tanques TK100/101/102 es regulable mediante la manipulación de las variables del sistema SCADA __V-001__, __V-012__ y __V-013__ respectivamente. El flujo total de benceno es medido por el caudalímetro F-001 y la concentración de tolueno conjunta por el analizador A-004. De la misma forma, el caudal de hidrógeno fresco se regula modificando el valor de __V-002__.
+
+Mientras que, la recirculación de livianos (mayoritariamente hidrógeno y metano) procedentes del tope del separador flash VE-100, se regula manipulando la variable __V-005__; considerando que este impone un ratio de purga (valor entre 0 y 1) y no cuantiza directamente el flujo recirculado. Esto si se opera en el modo manual, mientras que en el automático se introduce directamente sobre F-003 y se deja que el sistema busque el grado de apertura para
+lograr el valor consigna.
+
+Finalmente, la recirculación de pesados (principalmente tolueno y difenilo) proveniente del fondo de la columna de destilación VE-200 se regula mediante la variable __V-009__, que homólogamente al caso previo, impone un ratio de carga de pesados al TK-300 y no cuantifica directamente el caudal de pesados recirculados al sistema de reacción de la planta de HDA.
+Las cuatro corrientes recién comentadas se mezclan antes de la entrada del intercambiador de calor E-100. Previo a su entrada a este equipo hay un punto de toma de muestra M-004
+
+! ENTRADA AL REACTOR
+
+La corriente multicomponente previamente expuesta, pasa por un proceso de calentamiento con el fin de alcanzar la temperatura óptima para llevar a cabo la reacción, entrando en el intercambiador de calor E-100 donde por aprovechamiento térmico, se emplea el calor del flujo procedente de la salida del reactor para absorberlo, y posteriormente pasa a la caldera H-100 para terminar de elevar su temperatura al punto de consigna.
+
+El sistema permite monitorear la temperatura luego de que se juntan todas las corrientes previamente mencionadas mediante el T-001, a la salida del E-100 mediante con el T-002 y finalmente a salida del H-100 usando el T-003. Además, la temperatura de entrada al horno es controlada por la variable del sistema __V-003__.
+
+Por otra parte, como se indicó anteriormente se ha de mantener una relación de 5 mol de hidrógeno por cada mol de aromáticos presentes en el reactor, para ello se debe estar en control tanto de la cantidad de reactivo fresco suministrado al sistema de reacción como de los de los flujos de recirculación con el fin de preservar esta proporción, según lo expuesto en el apartado anterior.
+
+! SALIDA DEL REACTOR
+
+La corriente en cuestión será bifásica (líquida-gaseosa) y debe ser enfriada con por dos motivos: el primero evitar el hidrocraqueo generado por las altas temperaturas a la cuales se trabaja y el segundo para permitir una fácil separación del hidrógeno y metano como gases en el separador flash del resto de los compuestos. Este proceso de enfriamiento se lleva a cabo en parte por el E-100 como se expuso previamente, con el fin de desperdiciar la menor cantidad de
+energía posible en la planta y posteriormente en el intercambiador de calor E-200 para terminar de llevar la corriente a la temperatura óptima para el proceso de separación.
+
+El monitoreo de esta parte se da mediante los T-004, T-005 y T-006 medidores de temperatura colocados a la salida del reactor e intercambiadores de calor E-100 y E-200 respectivamente. Además, la temperatura a la salida de este último equipo está controlada por V-004.
+
+
+! SALIDA DE TOPE Y FONDO DEL SEPARADOR FLASH
+En el interior del separador están dadas las condiciones de presión y temperatura para lograr la separación adecuada del hidrogeno y el metano, quienes constituyen la fase gaseosa el resto
+de compuestos que estarán en estado líquido, todo esto en términos mayoritarios.
+
+La corriente gaseosa que sale por el tope del equipo tiene como objetivo recircular el hidrógeno, pero ya que esta tiene una fracción de metano se debe purgar una parte para evitar acumulaciones progresivas de materia en el sistema. Lo cual se logra mediante el manejo de __V-005__ que controla el ratio de purga.
+
+La corriente líquida sale por el fondo de la torre y tiene como destino la columna de destilación, está compuesta mayoritariamente por benceno, mientras que en menor medida tendrá tolueno y difenilo.
+
+! SALIDA DE TOPE Y FONDO DE LA COLUMNA DE DESTILACIÓN
+
+La columna tiene 30 etapas reales más el condensador, y su carga se produce en el plato número 15 contando desde el tope hasta la base.
+
+La presión de los vapores que salen por el tope de la columna es controlada por __V-010__. Dicha corriente se enfría y condensa empleando el intercambiador de calor E-300, que lleva nuevamente la temperatura al punto óptimo para que en el separador flash colocado aguas abajo diferencie entre dos corrientes, por la parte superior los livianos en forma gaseosa compuesto por hidrógeno y metano, y los aromáticos en forma líquida por la parte inferior formados mayoritariamente por benceno. Esta última corriente va a los tanques TK-200/201/202 donde se almacena el benceno en la concentración requerida. El ratio de reflujo del tope de la columna está controlado por V-006.
+
+Por otra parte, la presión del fondo de la torre está controlado por V-011, mientras que la fracción de benceno que sale con los aromáticos por __V-007__, estae último es un analizador que
+modifica la temperatura del reboiler E-301 para lograr la consigna dada. La corriente saliente del reboiler que no es recirculada a la torre, se divide en dos flujos mediante la manipulación de V-009 se declara el ratio de flujo que se carga al TK-300 si se opera en el modo manual, mientras que el restante será recirculado hasta el principio del sistema de reacción. De usar el modo automático se introduce directamente sobre __F-009__ y se deja que el sistema busque el grado de apertura para lograr el valor consigna.
+
+!!! CAPITULO V – OPERACIONES
+
+! CARGA DE TANQUES DE TOLUENO.
+
+! Adquisición de tolueno.
+
+El responsable de logística y planificación de la planta de HDA debe acordar con el proveedor de tolueno un precio, cantidad y fecha de entrega, mediante correos electrónicos a la dirección   [__monitor8trainer@gmail.com__|mailto:monitor8trainer@gmail.com] .
+
+Una vez finalizada la negociación el responsable de logística deberá cargar en las variables del grupo ETA (Estimated Time of Arrival), el día, mes, año y hora a la que se acordó que llegaría el barco. Cabe destacar, que los tags __ETA_DIA__, __ETA_MES__, __ETA_ANO__ y __ETA_HORA__ están referidos al tiempo de la simulación y no al tiempo real. Por otra parte, también debe introducir la cantidad de tolueno adquirido según la orden de compra en las variables BARCO_PROD_01, BARCO_PROD_02 y BARCO_PROD_03 que se corresponderán con los tanques (TK-100, TK-101, TK-102), es decir, con un barco se podrá llenar más de un tanque, en la cantidad que se considere pertinente.
+
+! Llegada del barco al puerto.
+
+Cuando llegue la fecha cargada al sistema el tag __BARCO_DISPONIBLE__ pasara de 0 a 1, indicando que el barco está en el puerto solicitando permiso para atracar, lo cual se concede poniendo el tag __BARCO_ATRACADO__ de 0 a 1. El responsable de logística y planificación debe informar al inspector del laboratorio una vez realizada esta operación para que este haga un análisis de la calidad del cargamento del barco previa a su descarga.
+
+Una vez finalizados el análisis, el inspector debe emitir un informe donde se exponga la
+composición del cargamento del barco y queda a disposición del encargado de operaciones el aceptar el producto. De ser aceptado, este último comunicará a el operador de campo que realice las operaciones pertinentes para proceder a la descarga del barco hacia los tanques.
+
+! Conexión del barco y descarga de tolueno.
+
+El operador de campo debe poner todas las válvulas y equipos en posición para realizar el
+acoplamiento del barco, lo cual se hace pasando el tag __ALINEAR_ACOPLAR_CIRCUITOS__ de 0 a 1, posteriormente ha de abrir las válvulas de carga de los tanques TK-100, TK-101 y TK-102 hasta llegar al caudal establecido por el encargado de operaciones de la planta, esto se hace
+modificando los tags __HDF-100__, __HDF-101__ y __HDF-102__, que están en orden con los tanques previamente mencionados. Es importante que el encargado de logística y planificación notifique al operador de panel el momento en el que se procederá a la carga de cada uno de los tanques, puesto que este no podrá ser usado en el resto de operaciones de la planta de HDA mientras dure carga del tanque.
+
+Conforme se hace la descarga del barco se podrá observar cómo se va descontando de los tags
+__BARCO_PROD_01__, __BARCO_PROD_02__ y __BARCO_PROD_03__ la cantidad de tolueno que se ha cargado a los tanques, por tanto, el encargado de logística y planificación debe informar al operador de campo cuando ha de cerrar cada una de las válvulas de carga de los tanques. Al finalizar la operación todos los tags deben ser llevados a 0, de lo contrario el sistema interpretara que aún hay un barco en las instalaciones y el tag __BARCO_DISPONIBLE __no pasara a
+1, aunque llegue la fecha estimada del siguiente.
+
+! DESCARGA DE TANQUES DE BENCENO.
+
+! Negociación del producto.
+El encargado de logística y planificación se comunica vía correo electrónico con sus posibles clientes para concretar un precio de compra para el benceno producido, así como las fechas de entrega para el producto. Una vez finalizada la negociación, este debe informar al encargado de operaciones y al operador de panel de los datos del pedido en cuestión.
+
+! Preparación para la carga de cisternas.
+
+Una vez llegada la fecha de entrega del benceno producido, se ha de informar al operador de panel para que cierre los tanques de benceno de la planta de los cuales se pretende realizar las cargas a las cisternas, esto se hace mediante la manipulación de las variables
+__V-014__ y __V-015__, las cuales son coeficientes de reparto cuyos valores van de 0 a 1,
+están estructurados en el sistema de la siguiente forma. Esto si se opera en el modo manual.
+
+[{Image src='Manual HDA/SalidaDestiladoCabeza.PNG' caption='Figura 2 – Configuración de V-014 y V-015' style='font-size: 200%; color: black;' align='center' width=500}]
+
+
+Si se opera en el modo automático, se ordena directamente al sistema que flujo aportar al TK-200 y TK-2001, mediante las variables F-009 y F-010 respectivamente, el del TK-202 será el restante.
+
+Por tanto, si se necesita cerrar el TK-200 se ha de poner V-014 a 0, para el TK-201 se
+ha de poner V-015 a 0 y para hacerlo con TK-202 se ha de colocar esta última a 1. Finalizado el proceso de cierre del tanque, se ha de informar al inspector de laboratorio para que haga
+un análisis de la calidad previa a la carga de las cisternas. Este ha de emitir un informe que certifique la concentración de benceno y comunicarlo al encargado de operaciones, quien decidirá si se despacha el pedido en cuestión en base a los estándares acordados
+con el cliente. 
+
+! Carga de cisternas.
+Una vez dado el visto bueno el jefe de logística y planificación debe informar de la cantidad de cisternas necesarias para cumplir con el pedido realizado por el cliente, considerando que la capacidad estándar de cada una de ellas es de 25m%%sup 3/%.
+
+El sistema simula una fila de camiones alineados preparados para descargar un tanque en específico, el número de cisternas está contenido en los tags __CIST_01__, __CIST_02__, __CIST_03__y__ CIST_04__ que se corresponderán con la descarga de los tanques TK-200, TK-201,
+TK-202 y TK-300, dichas variables estarán a 0 normalmente y solo se modificarán al momento de hacer la carga de cisternas.
+
+Posteriormente, se debe informar al operador de campo que puede proceder a realizar los acoples respectivos para descargar el contenido de los tanques a las cisternas, esto lo hace pasando de 0 a 1 el tag __ACOPLE_CIST_01__, __ACOPLE_CIST_02__, __ACOPLE_CIST_03__ y __ACOPLE_CIST_04__ según el tanque que se vaya a usar en este proceso. De la misma forma se ha de establecer el tiempo que tarda cada cisterna en cargarse introduciéndolo en minutos en la variable __CARGA_CISTERNAS__, el cual es de uso común para toda esta etapa.
+
+Finalizado esto, se llenan las cisternas progresivamente y salen de las instalaciones, esto se puede apreciar en la disminución del nivel del tanque y de la cola de cisternas del tag CIST_XX correspondiente.
+
+Una vez sale la última cisterna el tag anterior pasa a 0, el operador de campo debe dar aviso al encargado de operaciones y proceder a deshacer los acoples realizados (pasándolos de 1 a 0) y abriendo las válvulas de los tanques que habían sido previamente cerradas (manipulando V-014 y V-015) en la medida que establezca el operador de panel.
+
+!!! CAPITULO VI – ALARMAS
+
+El sistema ScadaBR permite la creación de alarmas con el fin de facilitar el monitoreo de las instalaciones, sus niveles según el grado de importancia de la misma son: información, urgente, crítico y peligro para la vida. El usuario podrá poner aquellas que considere pertinentes siguiendo las instrucciones en el manual adjunto, pero de forma predeterminada se han configurado las siguientes alarmas, que de llegar a activarse no solo implican daños en los equipos y peligros para los empleados de la planta, sino que se consideraran amonestaciones para los individuos responsables según el caso.
+
+! TANQUES
+! Derrame de fluidos inflamables en la instalación.
+Indica cuando se ha sobrepasado la capacidad de almacenamiento del tanque, lo cual indica que ha habido derramamiento de fluidos inflamables por la planta, bien sea tolueno, benceno o difenilo.
+Nivel de la alarma: Riesgo a la vida.
+
+! Vaciado total de un tanque.
+
+Indica cuando se ha vaciado totalmente un tanque, lo cual puede implicar daños en la estructura del tanque si se ha generado un vacío o en las bombas. Nivel de alarma: Crítico.
+
+! Vaciado total de todos los tanques de tolueno.
+
+Indica cuando todos los tanques de tolueno han sido vaciados totalmente, lo cual implica un alto inmediato a las operaciones de la planta y el posible daño de varios equipos. Nivel de alarma: Crítico.
+
+! Uso de un tanque de tolueno sin contenido.
+
+Indica cuando pese a estar vacío el TK100, TK101 o TK102 este sigue aportando tolueno a las instalaciones, si bien esto no ocurre en la realidad, dadas las múltiples simulaciones corridas en simultaneo se puede dar esta situación si no se tiene cuidado de cerrar la descarga del
+tanque cuando su nivel es lo suficientemente bajo. Nivel de alarma:
+Crítico.
+! CALIDAD
+! Imposible asegurar la calidad de reactivos/productos.
+
+Indica que no se cerró el flujo al tanque mientras se empleaba para las operaciones de descarga de buques o carga de cisternas, lo cual impide que se realice la inspección de calidad respectiva. Nivel de alarma: Crítica.
+
+! Temperatura de entrada al reactor muy elevada.
+
+Indica que se ha sobrepasado los 705ºC indicados para la reacción en la entrada al reactor, lo cual conlleva a un craqueo de los compuestos, ensuciamiento del reactor y pérdida de las propiedades del catalizador. Nivel de alarma: Crítica.
+
+! Temperatura de entrada al reactor muy baja.
+
+Indica que la temperatura está por debajo de los 620ºC considerados para que se dé la reacción de hidrodealquilación del tolueno como mínimo óptimo. Nivel de alarma crítico.
+
+!!! CAPITULO VII – RELACIÓN DE EQUIPOS
+
+!! INTERCAMBIADORES DE CALOR
+
+Tabla 5 - Intercambiadores de calor
+||__Código__||__Equipo__||__Fluido de Proceso__||__Servicio__	
+|E-100|Intercambiador de calor|Mezcla de reactivos frescos|Mezcla de productos salientes del reactor	
+|E-200|Intercambiador de calor|Mezcla de productos|Agua de refrigeración	
+|E-300|Intercambiador de calor|Livianos de la columna de destilación|Agua de refrigeración	
+|E-301|Reboiler|Pesados de la columna de destilación|Vapor	
+|H-100|Horno|Mezcla de reactivos frescos|Propano y gases de la purga del VE-100
+
+!! BOMBAS Y COMPRESORES
+
+Tabla 6- Bombas y Compresores
+||__Código__||__Servicio__
+|P-001|Descarga de pesados de la columna de destilación
+|P-002|Carga de tolueno al sistema de reacción
+|P-003|Carga de tolueno a los TK-100/101/102
+|P-004|Carga de benceno a las cisternas
+|P-005|Carga de pesados a las cisternas
+|C-001|Descarga de livianos del V-100
+
+!! RECIPIENTES Y TORRRES
+
+Tabla 7 - Recipientes y Torres
+|__Código__|__Servicio__
+|R-100|Reactor	
+|TK-100|Tanque de tolueno
+|TK-101|Tanque de tolueno
+|TK-102|Tanque de tolueno
+|TK-200|Tanque de benceno
+|TK-201|Tanque de benceno
+|TK-202|Tanque de benceno
+|TK-300|Tanque de pesados
+|VE-100|Separador flash
+|VE-200|Columna de destilación
+|VE-300|Separador flash
+
+!!! CAPITULO VIII– INSTRUMENTACIÓN EN LA PLANTA
+
+En las siguientes tablas se encuentran la instrumentación que se ha configurado en la planta.
+
+Código:
+
+Este es el código por el que se conoce al punto o tag. corresponde a una cadena de caracteres donde las dos primeras letras son el identificador de la unidad (en este caso hidroalquilación HD), seguido por el tipo de servicio (véase tabla 16) y por último 3 dígitos para el número de lazo.
+
+Valor Inicial: corresponde a el valor base de la planta
+
+!! VÁLVULAS
+
+Tabla 8 – Válvulas
+||__Código__||__Servicio__||__Valor inicial__||__Unidades__
+|HDV001.PV|Descarga del TK-100|0.0|kg/h
+|HDV002.PV|Carga de hidrógeno fresco|400|kg/h
+|HDV003.PV|Carga de combustible al H-100|565|ºC
+|HDV004.PV|Carga de agua de refrigeración del E-200|35|ºC
+|HDV005.PV|Ratio de purga de livianos del V-100|0.6|º/1
+|HDV006.PV|Ratio de reflujo L/D del V-200|0.70|L/D
+|HDV007.PV|Fracción de benceno en el fondo del V-200|0.055|º/1
+|HDV008.PV|Carga de agua de refrigeración al E-300|xxxx|yy
+|HDV009.PV|Ratio de carga del TK-300|xxxx|yy
+|HDV010.PV|Presión de tope del C-10|xxxx|yy
+|HDV011.PV|Presión de fondo del V-200|xxxx|yy
+|HDV012.PV|Descarga del TK-101|xxxx|yy
+|HDV013.PV|Descarga del TK-102|xxxx|yy
+|HDV014.PV|Ratio de carga del TK-200|xxxx|yy
+|VHDV15.PV|Ratio de carga del TK-201|xxxx|yy
+|HDF100.PV|Carga del TK-100|xxxx|yy
+|HDF101.PV|Carga del TK-101|xxxx|yy
+|HDF102.PV|Carga del TK-102|xxxx|yy
+|HDV016.PV|Carga de cisternas para el TK-200 (ACOPLE_CIST_01)|xxxx|yy
+|HDV017.PV|Carga de cisternas para el TK-201 (ACOPLE_CIST_02)|xxxx|yy
+|HDV018.PV|Carga de cisternas para el TK-202 (ACOPLE_CIST_03)|xxxx|yy
+|HDV019.PV|Carga de cisternas para el TK-300 (ACOPLE_CIST_04)|xxxx|yy
+
+!! VALORES LÍMITE
+
+A continuación, se muestra el rango de valores que puede soportar las variables operativas de la planta, si se sale de este rango el SCADA avisará de forma automática al instructor.
+
+	
+Tabla 9 - Valores Límite
+||__Instrumento__||__Valor Máximo Admisible__||__Valor Mínimo Admisible__||__Valor inicial__||__Unidades__	
+|HDV001.PV|0|10000|0|kg/h|
+|HDV002.PV|400|2000|
+|HDV003.PV|450|600|565|ºC|
+|HDV004.PV|30|60|35|ºC|
+|HDV005.PV|0.4|0.95|
+|HDV006.PV|0.7|2|0.7
+|HDV007.PV|0.02|0.1|0.05|ª/1
+|HDV008.PV|30|60|40|ºC
+|HDV009.PV|0|0.3|0|º/1
+|HDV010.PV|1.5|2.8|2.0|barg
+|HDV011.PV|1.8|3.1|2.3|barg
+|HDV012.PV|0|10000|7000|kg/h
+|HDV013.PV|0|10000|0|kg/h
+|HDV014.PV|0|1
+|HDV015.PV|0|1
+
+!! MEDIDORES DE PRESIÓN
+		
+Tabla 10 - Medidores de Presión
+
+||__Código__||__Servicio__||__Valor inicial__||__Unidades__
+|HDP001.PV|Presión en el tope del VE-300|2.0|barg
+|HDP002.PV|Presión en el fondo del VE-300|2.3|barg
+
+!! MEDIDORES DE FLUJO VOLUMÉTRICO
+
+Tabla 11 - Medidores de Flujo Volumétrico
+
+||__Código__||__Servicio__||__Valor inicial__||__Unidades__
+|HDF001.PV|Caudal de carga de Tolueno fresco al sistema de reacción|xxxx|m%%sup 3/%
+|HDF002.PV|Caudal de carga de Hidrogeno fresco al sistema de reacción|400|kg/h
+|HDF003.PV|Caudal de reflujo de Hidrogeno en el sistema de reacción|2000|kg/h
+|HDF004.PV|Caudal de purga de Hidrogeno|xxxx|m%%sup 3/%
+|HDF005.PV|Caudal de carga de Benceno a los tanques de producto|xxxx|m%%sup 3/%
+|HDF006.PV|Caudal de livianos en el tope del V-300|xxxx|m%%sup 3/%
+|HDF007.PV|Caudal de reflujo de pesados al sistema de reacción|xxxx|m%%sup 3/%
+|HDF008.PV|Caudal de carga de pesados al TK-300|xxxx|m%%sup 3/%
+|HDF009.PV|Caudal de carga de Benceno al TK200|0|kg/h
+|HDF010.PV|Caudal de carga de Benceno al TK201|0|kg/h
+|HDF011.PV|Caudal de carga de Benceno al TK202|xxxx|m%%sup 3/%
+|HDF012.PV|Caudal de carga del V-200|xxxx|m%%sup 3/%
+|HDF013.PV|Caudal de descarga a cisternas desde el TK300|xxxx|m%%sup 3/%
+|HDF014.PV|Caudal de descarga a cisternas desde los TK200/201/202|xxxx|m%%sup 3/%
+|HDF015.PV|Caudal de carga de Tolueno al TK-100 (F-100)|xxxx|m%%sup 3/%
+|HDF016.PV|Caudal de carga de Tolueno al TK-101 (F-101)|xxxx|m%%sup 3/%
+|HDF017.PV|Caudal de carga de Tolueno al TK-102 (F-102)|xxxx|m%%sup 3/%
+|HDF100.SP|Caudal de descarga de Terminal hacia TK100|0|kg/h
+|HDF101.SP|Caudal de descarga de Terminal hacia TK101|0|kg/h
+|HDF102.SP|Caudal de descarga de Terminal hacia TK102|0|kg/h
+ 
+
+!! MEDIDORES DE TEMPERATURA
+
+Tabla 12 - Medidores de Temperatura
+||__Código__||__Servicio__||__Valor inicial__||__Unidades__
+|HDT001.PV|Temperatura de reactivos a la entrada del E-100|xxxx|ºC
+|HDT002.PV|Temperatura de reactivos a la entrada del H-100|xxxx|ºC
+|HDT003.PV|Temperatura de reactivos a la entrada del R-100|xxxx|ºC
+|HDT004.PV|Temperatura de reactivos a la salida del R-100|xxxx|ºC
+|HDT005.PV|Temperatura de reactivos a la entrada del E-200|xxxx|ºC
+|HDT006.PV|Temperatura de reactivos a la entrada del V-100|xxxx|ºC
+|HDT007.PV|Temperatura de livianos a la salida del E-300|xxxx|ºC
+
+!! MEDIDORES DE NIVEL
+
+Tabla 13 - Medidores de Nivel
+||__Código__||__Servicio__||__Valor inicial__||__Unidades__
+|HDL100.PV|Nivel de Tolueno en el TK100|0|m%%sup 3/%
+|HDL101.PV|Nivel de Tolueno en el TK101|1000|m%%sup 3/%
+|HDL102.PV|Nivel de Tolueno en el TK102|0|m%%sup 3/%
+|HDL200.PV|Nivel de Benceno en el TK200|500|m%%sup 3/%
+|HDL201.PV|Nivel de Benceno en el TK201|0|m%%sup 3/%
+|HDL202.PV|Nivel de Benceno en el TK202|0|m%%sup 3/%
+|HDL300.PV|Nivel de pesados en el TK300|100|m%%sup 3/%
+
+!!! CAPITULO IX – ANÁLISIS Y CONTROL DEL PRODUCTO
+
+Para el control del proceso y asegurar la calidad del producto se dispone de una serie de puntos a lo largo de las instalaciones ubicados en zonas críticas dispuestos en la siguiente tabla, que permiten conocer mediante análisis en el laboratorio de la planta la composición de tanques y corrientes de flujo.
+
+Tabla 14 – Puntos de muestra
+||__Código__||__Servicio__
+|U001|Corriente de fondo del VE-200
+|U002|Corriente de fondo del VE-300
+|U003|Corriente de recirculación de hidrógeno
+|U004|Corriente de carga al sistema de reacción
+|U008|Corriente de salida del E-200
+|U009|Corriente de tope del VE-300
+|U005|Concentración de Tolueno en el TK-100
+|U006|Concentración de Tolueno en el TK-101
+|U007|Concentración de Tolueno en el TK-102
+|U200|Concentración de Benceno en el TK-200
+|U201|Concentración de Benceno en el TK-201
+|U202|Concentración de Benceno en el TK-202
+|U300|Concentración de Tolueno en el TK-300
+
+Tabla 15 – Características analizadas de los puntos de muestra
+||__Código__||__Servicio__||__Valor Inicial__||__Unidades__
+|C001|Cromatografía, H%%sub 2/%|Fraccion 0/1 molar
+|C002|Cromatografía, Metano|Fracción 0/1 molar
+|C003|Cromatografía, Benceno|Fracción 0/1 molar
+|C004|Cromatografía, Tolueno|Fracción 0/1 molar
+|C005|Cromatografía, Bifenilo|Fracción 0/1 molar
+
+El operador de campo tiene entre sus funciones tomar tres muestras del punto que se le indique cuando sea necesario, llevarlas al laboratorio ubicado en la zona de control y oficinas
+para consignarlas dentro del horario de trabajo de dicha instalación, es decir, entre las 8:00 y las 16:00. Al mismo tiempo, enviará un correo electrónico al Laboratorio con la petición de análisis de la muestra. La hora de toma de muestra se tendrá por la hora en la que se envía el correo electrónico. Posteriormente, el laboratorio emitirá un informe por correo electrónico a la dirección del remitente con los resultados de la muestra.
+
+!!! CAPITULO X – ESTANDARIZACIÓN y NOMENCLATURA UTILIZADA
+
+Tabla 16 – Código de servicio, primera letra
+||__Código__||__Servicio__
+|A|Medida de Analizador en línea
+|F|Medida de Caudal
+|L|Medida de Nivel
+|P|Medida de Presión
+|T|Medida de Temperatura
+|U|Muestra de Laboratorio
+
+Tabla 17 – Código de servicio, segunda letra
+||__Código__||__Servicio__
+|C|Controlador
+|H|Valor alto de alarma
+|L|Valor alto de alarma
+
+A continuación del nombre del tag se encuentra el item separado por un .
+
+Los items considerados en esta implementación son:
+
+Tabla 18 – Items definidos
+||__Item__||__Servicio__
+|PV|Valor del proceso
+|SP|Punto de consigna o SetPoint, writeable
+|KC|Ganancia del controlador, writeable
+|MODE|Ganancia del controlador, writeable
+
+!Representaciones
+
+Existen varios tipos de pantallas a las que se puede acceder dentro del scada.
+
+Tabla 19 - Tipos de representaciones
+||__Tipo__||__Descripción__
+|Listas (Watch List)|Listas de Monitorización
+|Gráficos|Gráficos, permiten representación de diferentes tipos, ver tabla 20
+|Detalle Tag|Permite la representación de todos los items relacionados con un tag o instrumento.
+
+Tabla 20 - Representaciones gráficas
+||__Nombre / rango__||__Descripción__
+|HD00|Pantalla inicial para seleccionar Rol o perfil
+|HD10|Pantalla inicial para el Rol de operador de Panel o DCS
+|HD101 - HD199|Esquemas de la unidad (configuración de DCS)
+|HD20|Pantalla inicial para el Rol de operador de Campo o Field, vista aérea de la Planta
+|HD21 - HD29|Pantalla de acceso por zonas de la Planta (proceso, terminal, cisternas, etc.)
+|HD201 - HD299|Fotos de los equipos con la instrumentación local y manipulación para el operador de campo.
+|HD30|Pantalla inicial para el Rol de Planificación y Logística
+|HD31 - HD39|Pantalla de acceso por departamentos para Planificación y Logistica (terminal, cisternas)
+|HD40|Pantalla inicial para el Rol de Trainer
+|HD401 - HD410|Pantallas de control del Trainer
+
+!!! CAPITULO XI – PLAN DE MEJORAS
+
+!! Mejoras en Simulación
+||Mejora||Descripción||Fecha tentativa
+|MSIM01|Introducir cambiadores y agua de refrigeración como servicio
+
+!! Mejoras en el scada
+||Mejora||Descripción||Fecha tentativa
+|MSCA01|Mejorar el entorno gráfico con botones por accionamientos y fondos más realistas
+
+!! Mejoras Interacción con el email
+||Mejora||Descripción||Fecha tentativa
+|MEMAIL01|Depurar y mejorar las reglas de detección de errores
+|MEMAIL02|Añadir reglas para Flujo de compra desde Robot
+
+!! Mejoras Interacción con el Scada
+||Mejora||Descripción||Fecha tentativa
+|MKBS01|
+

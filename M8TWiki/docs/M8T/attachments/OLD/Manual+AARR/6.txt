@@ -1,0 +1,25 @@
+[LeftMenu/Monitor8Logo.png]
+[{ALLOW view Authenticated}]
+[{ALLOW edit editorptar}]
+
+
+[{Image src='Monitor8WikiDocs/images_Manual SCADA/work_in_progress.png' caption='WORK IN PROGRESS' style='font-size: 200%; color: black;' align='center' width=100}]
+
+!!! Manual AARR
+
+[{TableOfContents}]
+
+!!! CAPITULO I – INTRODUCCIÓN
+
+!! OBJETIVO
+
+Este manual tiene como objetivo describir la operativa del funcionamiento, características y equipamiento de la planta de tratamiento de aguas residuales.
+
+!!ÁMBITO DE APLICACIÓN
+
+Las características y operativa descritas en este manual son de aplicación a todas las actividades relacionadas con la planta de tratamiento de aguas residuales.
+
+!!DISTRIBUCIÓN
+
+!!!CAPÍTULO II - INTRODUCCIÓN TEÓRICA 
+

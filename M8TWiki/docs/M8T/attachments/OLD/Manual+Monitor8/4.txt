@@ -1,0 +1,64 @@
+!!! TIPOS DE DATOS
+
+
+!!  [|] Valores binarios
+
+También llamados booleanos, acepta únicamente cero (0) y uno (1), los cuales
+se pueden emplear como referencias a estados como: encendido/apagado,
+alto/bajo, etc.
+
+!!  [|] Valores de estados
+Los valores en este caso se almacenan como números enteros en el
+sistema, pero se muestran de cara al usuario bajo el nombre de sus
+etiquetas, como si de una lista se tratara.
+
+!!  [|] Valores numéricos
+Pueden tomar valores reales, tanto negativos como positivos. Además,
+permite configurar el separador de miles y de decimales según las
+necesidades del usuario, así como el sufijo que acompaña a dicho
+valor, que por ejemplo puede ser: ºC, kW, kg, moles, h. etc. 
+
+!!  [|] Valores alfanuméricos
+Como su nombre lo indica, acepta todo tipo de caracteres que entre en
+dicho espectro, se registra como una entrada de texto genérico.
+
+!!  [|] Valores en imágenes
+Se almacenan en el sistema de archivos del servidor que se emplee para
+correr el SCADA, no confundir con la base de datos de la cual se
+extraen los datos para el funcionamiento del sistema.
+
+!!!  [|] FUENTES DE DATOS
+
+!!!  [|] PUNTOS DE DATOS
+Los datos almacenados en el SCADA son mostrados al usuario mediante
+etiquetas o botones denominados puntos, los cuales se pueden ver
+directamente en la interfaz de usuario creada para el operador,
+muestran información como la presión, temperatura, flujo, nivel,
+etc. En estos se puede ver el nombre del instrumento o la variable
+que se codifica, seguido del valor y las unidades correspondientes a
+la medición en cuestión, como se puede apreciar en la figura
+a continuación, donde el punto representa un medidor de flujo masico
+de código HDF100, cuyas medidas son dadas en kg/h.
+
+[{Image src='Monitor8WikiDocs/images/Fig1.png' caption='Fig. 1 - Ejemplo de un punto de dato' style='font-size: 200%; color: black;' align='center' height=100 width=200}]
+
+!!!  [|] EL TIEMPO
+Dado que originalmente el SCADA tiene una escala de tiempo 1:1, es decir 1
+minuto real equivale a 1 minuto simulado; se empleó un multiplicador
+de tiempo con el nombre código STEP cuyo valor aumenta dicha
+equivalencia. Se empleo un Step de 30 minutos para el SCADA, lo cual
+quiere decir que 1 minuto real son 30 en la simulación, esto permite
+llevar a cabo en un periodo de 4 horas una experiencia que emula a 5
+días de labores en la planta de HDA.
+
+De esta forma quedan definidos dos contadores de tiempo para poder
+manejar la planta:
+
+* __Tiempo real:__ Lo lleva internamente el SCADA y
+almacena cada valor en su base de datos con este tiempo, motivo por
+el cual las gráficas donde se muestran los cambios que han
+experimentado están referidas a este, permitiendo observar el
+momento exacto en que se produce la reacción del sistema.
+* __Tiempo de la simulación:__ Corresponde a un
+contador con base en el tiempo real y el valor almacenado en STEP
+como ya se expuso anteriormente.

@@ -1,0 +1,22 @@
+!!! Manual del Profesor
+!! Introducción
+En este Manual el profesor o Trainer se encuentran las instrucciones para organizar los grupos de trabajo con los alumnos, gestionar las prácticas, y realizar el seguimiento de las prácticas.
+
+!! Organización
+
+!!! Preparación previa a las sesiones de prácticas cortas
+
+Entre una y dos semanas de antelación los alumnos deben recibir una charla de 30 minutos en qué consiste las prácticas de Monitor8, el contenido de esa charla es la siguiente:
+
+__¿Qué es Monitor8 y qué valor aporta?__
+
+__¿Qué Roles están definidos en Monitor8?, ¿Cómo se eligen los miembros de los equipos?__
+
+__¿Cual es la Compañía sobre la que se va a trabajar y qué información necesitan leer y estudiar para repararse para la realización de prácticas?__
+
+
+
+
+
+
+

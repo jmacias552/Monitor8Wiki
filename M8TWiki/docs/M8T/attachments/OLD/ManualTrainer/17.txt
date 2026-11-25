@@ -1,0 +1,155 @@
+[LeftMenu/Monitor8Logo.png]
+[{ALLOW view profesor}]
+[{TableOfContents}]
+
+
+!!! Manual del Profesor
+!! Introducción
+En este Manual se encuentran las instrucciones para organizar los grupos de trabajo de los alumnos, gestionar las prácticas, y realizar el seguimiento de las prácticas.
+!! Organización
+! Preparación previa a las sesiones de prácticas cortas, (entre 1 y dos semanas antes). 
+
+Entre una y dos semanas de antelación los alumnos deben recibir una charla de 30 minutos en qué consiste las prácticas de Monitor8, el contenido de esa charla es la siguiente:
+
+__¿Qué es Monitor8 y qué valor aporta?__
+
+Se describe el entorno de Trabajo y su función básica. Se describen las piezas que lo componen (simulación, Scada, interfaces, gestión del tiempo, Correo electrónico, uso de Telegram, Reuniones Meet.
+
+__¿Qué Roles están definidos en Monitor8?, ¿Cómo se eligen los miembros de los equipos?__
+
+Se describen los diferentes roles y los criterios de selección.
+
+Los alumnos deben elegir al Director de la Planta y dar su nombre lo antes posible o como mínimo una semana antes de la realización de las prácticas.
+
+El profesor se reúne con los directores de las plantas y les indica que deben elegir a los miembros de su equipo entre sus compañeros y hacer esa elección de acuerdo a las necesidades que deben cubrir (roles). Esa lista del equipo deben entregarla al Profesor como mínimo 3 días antes del comienzo de las prácticas.
+
+Esto es necesario para que los alumnos puedan tener tiempo de leer información mas específica de su trabajo y crear las claves de acceso.
+
+Los Directores tienen la posibilidad de reestructurar plantilla si lo creen conveniente, pero deben justificarlo adecuadamente.
+
+__¿Cual es la Compañía sobre la que se va a trabajar y qué información necesitan leer y estudiar para repararse para la realización de prácticas?__
+
+En este apartado se describe la Unidad de Proceso objeto de las prácticas y qué información tienen a su disposición. Se les indica las páginas de M8TWiki que deben leerse y en qué bibliografía van a encontrar mas información sobre ese tipo de planta.
+
+! __Materiales__
+
+Todos los participantes tienen acceso a la página Web de documentación, __M8TWiki__ desde el primer momento.
+
+Cada equipo definido debe indicar:
+||__Rol__||__Nombre alumno__||__Correo Electrónico__
+
+y recibiran en ese correo electronico:
+||__Dirección Web__||__usuario__||__Clave de acceso__||
+
+además de dos salas Meet:
+
+* Sala de comunicaciones por radio
+* Sala de Oficinas Generales
+
+y los horarios de trabajo
+
+! __Realización de prácticas cortas__
+
+Los alumnos van a realizar diferentes prácticas de acuerdo a una complejidad creciente. En general, las prácticas elegidas dependen del tiempo disponible y de su complejidad, pero es recomendable que comiencen por una famiiarización del entorno Monitor8, luego acciones muy limitadas y finalmente libre operación.
+
+Para las prácticas es recomendable que se realicen en una sala con el profesor (prácticas tipos 1 y tipo 2), mientras que las de tipo 3 y 4 las realizan con ordenadores individuales (en casa o en la universidad) y, al menos, con una separación física de dos áreas, el __área de operación__ en el campo o patio de procesos y el __área de oficinas y sala de control__.
+
+Si se realiza en la universidad debe existir una separación física entre esas dos áreas. Es importante para mantener el mayor realismo posible entre las funciones de campo y panel. El jefe de operaciones debe asignar tareas a sus dos roles dependientes que les mantenga activos en la duración de la práctica.
+
+Todos los alumnos tendrán acceso a dos tipos de salas meet, una para operar simulando la comunicación por radio (__meet en half duplex__) y otra para las oficinas (__comunicacion estandar meet__). La comunicacion por radio sólo es para las comunicaciones del departamento de Operaciones (panel-campo).
+
+De acuerdo a todo lo anterior se preveen 4 tipos de prácticas:
+
+__1.- Balances de materia y de componentes.__
+
+Los alumnos buscan información en el scada sin necesidad de hacer modicicaciones salvo que deben tomar muestras de laboratorio, y enviar un correo electrónico a __monitor8trainer@gmail.com__ para que el laboratorio les envíe los resultados.
+
+__2.- Balance económico.__
+
+Con estos balances de materia y los precios de los servicios auxiliares, materias primas y productos, etc el equipo directivo debe realizar un informe económico de la planta.
+
+__3.- Operación dirigida.__
+
+Se pide a los alumnos que realicen ciertos cambios en la planta y que razonen los resultados obtenidos. De esta manera comienzan a familiarizarse con la operación y así pueden estudiar su impacto en la planta. En este apartado se realizan cambios de acuerdo a todos los perfiles de la planta.
+
+__4.- Operación libre.__
+
+En esta práctica se les pide que realizen las operaciones que consideren necesarias para conseguir un cierto objetivo. Deben existir diferentes posibilidades y logicamente es posible que existan varias soluciones. Los alumnos deben justificar los resultados y sus respuestas.
+
+! __Prácticas de larga duración__
+
+Estas prácticas están diseñadas para que los alumnos tengan disponible la planta durante una a varias semanas y así puedan operarla libremente.
+
+Los objetivos de operación deben estar especificados en la práctica y cumplir los criterios de seguridad, limites operativos y el mejor desempeño económico que se pueda conseguir.
+
+Loa alumnos deben redactar un informe con los resultados de explotación del periodo considerado. Debe acordarse con el profesor los horarios de trabajo para que la planta pueda estar activada y supervisada.
+
+Las reuniones se realizan por meet (tanto la de la oficina general como la que simula la comunicación por radio del Depto de Operaciones).
+
+! __Hacklaton de Ingeniería__
+
+Una vez completado todo este itinerario formativo, los alumnos conocen con profundidad la planta por lo que estarían en disposición de proponer mejoras sustanciales a la planta. Esto permite realizar una actividad muy interesante que permite evaluar el desempeño de los diferentes grupos o equipos con respecto a la misma planta en la que han trabajado. La mecánica de trabajo es la siguiente:
+
+Los profesores que han participado en __Monitor8__ desarrollan un __caso práctico__ igual para todos los grupos y universidades.
+
+Ese caso práctico está orientado a que los grupos desarrollen un proyecto de mejora de ingeniería en el que han de presentar una memoria justificativa que contenga:
+
+__Estudio conceptual__
+* Descripción de la Propuesta de mejora
+* Justificación económica, por ejemplo utilizando CAPCOST y datos actuales. El estudio debe contener analisis de riesgos en la inversión.
+__Ingeniería Básica__
+* Cálculos justificactivos y simulaciones.
+* Diagrama de Flujo con indicación de los cambios con respecto al actual.
+* Diagrama P&ID indicando los cambios con respecto al actual.
+* Hojas de datos de equipos nuevos o modificados.
+* Hojas de datos de Instrumentación nueva o modificada.
+* Cambios previstos en los Servicios Auxiliares.
+__Ingeniería de Detalle__
+* Distribución de equipos en planta
+* Lista de Tie-In
+* Isométricos
+* Programación de la parada
+
+Todos los alumnos del grupo deben trabajar en este proyecto independientemente de su rol aunque probablemente eso precisamente les haga conrtribuir de manera especial a cada apartado.
+
+El Hacklaton se desarrolla en el mismo periodo en todos los centros participantes. El plazo que se les da a los alumnos para la ejecución debe estar relacionado con la dificultad del problema planteado. Debe ser lo más corto posible para que trabajen con un nivel de stress alto y de manera continuada para entregarlo completo y en fecha.
+
+No se admitirán trabajos entregados fuera de plazo.
+
+El profesor responsable se limita a la presentación del Reto pero no participa en modo alguno en asesorar u orientar a los alumnos.
+
+A la presentación de los informes, todos los profesores evaluaran a los grupos participantes excepto a los suyos. Luego, todos los profesores envían sus valoraciones y posteriormente se realiza una reunión para comentar y aprobar los resultados y publicarlos.
+
+!! Material Complementario Profesor
+
+__Costes Laborales__
+
+[Convenio Sectorial de la Industria|ManualTrainer/BOE-A-2021-12038.pdf]
+
+__Costes de materias primas y energía__
+
+[Coste de productos químicos|https://www.chemanalyst.com/]
+
+[Coste de Gas Natural|https://tradingeconomics.com/commodity/natural-gas]
+
+[Coste de Fuel Oil|https://tradingeconomics.com/commodity/heating-oil]
+
+[Coste de la Electricidad|https://tradingeconomics.com/spain/electricity-price]
+
+__Ejemplos para las prácticas__
+
+[Ejemplo de Hoja de cálculo de balances de materia y económico|ManualTrainer/HDA - Practica 1 y 2 (Balances).xlsx]
+
+[Cálculo de costes, CAPCOST 2017|ManualTrainer/CAPCOST_2017_rev2.xlsm]
+
+__nota__: para que funcione sin problemas las macros de CAPCOST, es preciso poner la configuracion regional en EEUU o seleccionar punto decimal como "."
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,123 @@
+[LeftMenu/Monitor8Logo.png]
+[{ALLOW view profesor}]
+
+[{TableOfContents}]
+
+
+!! Introducción
+[Manual Monitor8]
+
+
+[Planta de Hidroalquilacion de Tolueno/HDA - Presentacion Monitor8.pptx]
+
+[Planta de Hidroalquilacion de Tolueno/Gemelos Digitales Monitor8_V0.pptx]
+
+!! Plantas desarrolladas
+||Planta||Nombre||Estado Actual||Mejoras previstas
+|[Planta de Hidroalquilacion de Tolueno]|hda_1|Operativa|
+
+!! Plantas en desarrollo
+||Planta||Nombre||Estado Actual||Fecha estimada
+|[Planta de Tratamiento AARR]|ptar_1|En desarrollo|Julio 2023
+|[Planta de Fabricación de Cerveza]|ptar_1|En desarrollo|Julio 2023
+|[Planta de Fabricación de Biodiésel]|ptar_1|En desarrollo|Julio 2023
+
+!! Organización de las prácticas
+[ManualTrainer]
+
+!! Acceso a Monitor8
+
+Cada grupo tiene acceso a una planta de manera exclusiva, el nombre de la página web de acceso se construye de la siguiente manera:
+
+__xxxx.servehttp.com:8080/yyyy__
+
+donde __xxxx__ es el nombre del servidor e __yyyy__ es el nombre de la Planta
+
+por ejemplo:
+
+[http://hda.servehttp.com:8080/hda_1]
+
+! Navegación y Roles
+Existen, entre otros, los nombres de usuario y Rol siguientes:
+||Nombre||Rol||Información a la que accede
+|CAMPO|Operador de Campo|Instrumentación remota
+|PANEL|Operador de DCS o Panel|Instrumentos y actuadores locales
+|PLANIFICADOR|Jefe de Planificación y Logística|gestión administrativa de Terminales
+|DIRECCION|Director|A toda la información excepto la exclusiva del TRAINER
+|INGENIERIA|Ingeniería|A toda la información excepto la exclusiva del TRAINER
+|TRAINER|Profesor|A toda la información de la planta
+
+A cada usuario se le asigna una contraseña de acuerdo a su Rol
+
+Accedemos a cada perfil y observamos la información que hay disponible
+
+Por ejemplo, en el perfil de __operador de panel__ tenemos:
+
+[{Image src='ManualTrainer/scada_pantallacompletaF11Listas.PNG' caption='Figura 1– Listas de instrumentos y pantalla completa' style='font-size: 200%; color: black;' align='center' width=500}]
+
+[{Image src='ManualTrainer/scada_menu_inicial_panel.PNG' caption='Figura 2– Menu inicial operador de panel' style='font-size: 200%; color: black;' align='center' width=500}]
+
+[{Image src='ManualTrainer/scada_esquematico_inicial_panel.PNG' caption='Figura 3– Primer esquemático de panel de la Planta H' style='font-size: 200%; color: black;' align='center' width=500}]
+
+[{Image src='ManualTrainer/scada_esquematico_2_panel.PNG' caption='Figura 4– Segundo esquematico de la planta de HDA' style='font-size: 200%; color: black;' align='center' width=500}]
+
+[{Image src='ManualTrainer/scada_esquematico_detalle_panel.PNG' caption='Figura 5– Esquematico de detalle de instrumento' style='font-size: 200%; color: black;' align='center' width=500}]
+
+[{Image src='ManualTrainer/scada_esquematico_detalle2_panel.PNG' caption='Figura 6– Esquematico de detalle de controlador' style='font-size: 200%; color: black;' align='center' width=500}]
+
+[{Image src='ManualTrainer/scada_DatosUsuario.PNG' caption='Figura 7– Configuracion de datos de usuario' style='font-size: 200%; color: black;' align='center' width=500}]
+
+[{Image src='ManualTrainer/scada_creacion_Informes.PNG' caption='Figura 8– Elaboración de informes' style='font-size: 200%; color: black;' align='center' width=500}]
+
+[{Image src='ManualTrainer/scada_pantallacompletaF11ListaAlarmas.PNG' caption='Figura 9– Lista de alarmas' style='font-size: 200%; color: black;' align='center' width=500}]
+
+!! Acceso a informacion de Monitor8 por medio de Telegram
+
+Es necesario tener una cuenta de usuario de Telegram e iniciar un chat con Monitor8Trainer por lo que buscamos ese usuario en Telegram con __@Monitor8Trainer__.
+
+Este es un Bot que nos permite acceder a la información de la planta y los tags que se especifiquen. Lo primero que hay que hacer es arrancar el chat con Telegram para que nos tenga identificados escribiendo __/start__ a lo que nos contestará con el siguiente mensaje:
+
+[{Image src='ManualTrainer/TelegramStart.PNG' caption='Figura 10– Telegram start' style='font-size: 200%; color: black;' align='center' width=500}]
+
+Tambien podemos preguntar por __/quieneres__ a lo que nos contestará con:
+
+[{Image src='ManualTrainer/TelegramQuieneres.PNG' caption='Figura 11– Telegram quieneres' style='font-size: 200%; color: black;' align='center' width=500}]
+
+Por último, se puede preguntar por la información deseada, como por ejemplo __/leetag hda_1 HDF003.PV HDA001__ que indica que necesitamos información de la Planta __hda_1__ y queremos el item de instrumentacion __PV__ correspondiendo al Tag __HDF003__ y todos los items disponibles para el tag __HDA001__
+
+[{Image src='ManualTrainer/TelegramLeetag.PNG' caption='Figura 12– Telegram quieneres' style='font-size: 200%; color: black;' align='center' width=500}]
+
+!! Gestión con el correo electronico
+
+[http://hda.servehttp.com:8080/M8TWiki/Wiki.jsp?page=CursoProfesores#section-CursoProfesores-Gesti_C3_B3nConElCorreoElectronico]
+
+
+!! Uso de Meet
+
+[http://hda.servehttp.com:8080/M8TWiki/Wiki.jsp?page=Manual%20Monitor8]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

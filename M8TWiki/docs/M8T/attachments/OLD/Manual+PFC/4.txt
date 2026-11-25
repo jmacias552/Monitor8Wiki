@@ -1,0 +1,15 @@
+[LeftMenu/Monitor8Logo.png]
+[{ALLOW view Authenticated}]
+[{ALLOW edit editorpfc}]
+
+{{{
+Manual HDA
+
+[[{TableOfContents}]
+
+!!! CAPITULO I – INTRODUCCIÓN
+!! OBJETIVO
+}}}
+
+
+

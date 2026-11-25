@@ -1,0 +1,116 @@
+
+
+	
+	
+	
+	
+
+
+!!! 
+Práctica 3: Manejo de la Planta de HDA
+
+
+__Objetivo de la
+Práctica__
+
+
+
+El objetivo de esta práctica es realizar las operaciones cotidianas
+de la planta de HDA, tales como revisión de los valores de la
+planta, realización de informes al final de cada turno, carga de
+materia prima y descarga de productos.
+
+
+__Material a
+Emplear__
+
+
+
+	Estarán a su disposición los
+usuarios y contraseñas de los operadores de campo, panel, y
+planificador desde los cuales podrán ver toda la información
+necesaria; así como modificar las variables que consideren para
+realizar las distintas acciones necesarias.
+
+
+__Desarrollo__
+
+
+__	__Partiendo
+del caso base los operadores del primer turno deben revisar los
+valores de las distintas variables y dejar constancia de las mismas
+para su relevo realizando informes de aquellas que consideren
+oportunas, dicho informe debe ser suscrito también a sus superiores.
+
+
+	El encargado de
+planificación y logística debe estimar el tiempo en el cual
+requerirá que llegue el barco con materia prima, así como la
+cantidad de cisternas y el momento en el cual se deben solicitar para
+descargar los productos, para ello se debe hacer una estimación de
+la velocidad con la cual se consumen los tanques.
+
+
+	El jefe de
+planificación y logística junto con el de producción deberán
+coordinar las operaciones de carga de materias primas, garantizando
+la calidad y cantidad del producto adquirido, la continuidad de las
+operaciones de la planta durante dicho proceso y el resto de
+protocolos explicados en el manual, ver los capítulos 5 y 6
+referentes a operaciones y alarmas respectivamente.
+
+
+	Llegado un
+momento durante el desarrollo de la práctica, el encargado de
+planificación y logística recibirá un comunicado de un cliente
+solicitando un pedido de benceno, al cual debe de dar fecha y tomar
+las medidas pertinentes para poder cumplir con él.
+
+
+__Resultados__
+
+
+__	__Los
+operadores de panel deben elaborar un informe en el que consten las
+variables y mediciones realizadas al relevarse en cada turno. De
+igual forma, el encargado de planificación y logística debe rendir
+un informe de compra/ventas, mientras que el de producción uno en el
+que consten los procedimientos realizados y las incidencias.
+
+
+__Conclusiones__
+
+
+	
+
+* 
+	Si se opera de forma continua a las
+	condiciones del caso base, ¿Cada cuantos días de la simulación se
+	han de establecer los pedidos de materia prima y recibir ofertas de
+	los clientes por producto para mantenerse dentro de los parámetros
+	de seguridad establecidos en el manual de la planta?
+
+	
+
+* 
+	Dado el balance de masa de la práctica
+	1 y el económico de la práctica 2
+	¿Cuánto puede diferir la calidad de la materia prima de lo pautado
+	con el broker?
+
+	
+
+* 
+	¿Considera que hace falta más
+	instrumentación en la planta? De ser afirmativa su respuesta diga
+	cual, y donde la colocaría; de ser negativa argumente.
+
+
+
+ \\ 
+ \\ 
+
+
+
+
+

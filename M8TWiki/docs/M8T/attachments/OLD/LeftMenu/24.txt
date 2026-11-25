@@ -1,0 +1,58 @@
+%%add-css
+/* hide the default jspwiki logo */
+a.logo { background:transparent; border:none; text-indent:-99em; }
+a.logo b:before { content:""; }
+
+/* put the clean-blue logo, attached to this page */
+a.logo {
+    background: url([[logo-hi.png]);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60px;
+    width: 180px; 
+
+    /* add a fancy button like effect */
+    box-shadow:0 0 .25em white;
+    border-radius:2em;
+    background-color: rgba(255,255,255,0.15);
+}
+/%
+
+
+[{TableOfContents}]
+
+!! [Manual Monitor8|Manual Monitor8]
+!! [HDA Hidroalquilación Tolueno|Planta de Hidroalquilacion de Tolueno]
+! [Manual Planta HDA|Manual HDA]
+! [Manual Prácticas HDA|Manual Practicas HDA]
+* [Practica 1. Balance de Materia|Balance de Materia HDA]
+* [Practica 2. Balance Económico|Balance Económico HDA]
+* [Practica 3. Operación de la Planta|Manejo de la Planta HDA]
+* [Practica 4. Punto óptimo de operación|Punto óptimo de Operación HDA]
+
+!! [Planta de Tratamiento AARR|Planta de Tratamiento AARR]
+! [Manual Planta AARR|Manual AARR]
+! [Manual Prácticas AARR|Manual Practicas AARR]
+* [Practica 1. Balance de Materia|Balance de Materia AARR]
+* [Practica 2. Balance Económico|Balance Económico AARR]
+* [Practica 3. Operación de la Planta|Manejo de la Planta AARR]
+* [Practica 4. Punto óptimo de operación|Punto óptimo de Operación AARR]
+
+
+
+
+
+
+
+* [Página principal|Main]
+* [Acerca de|...About]
+* [Noticias|News]
+* [Cambios Recientes|Recent Changes]
+* [WikiEtiqueta|WikiEtiquette]
+
+* [Buscar páginas|Search]
+* [Páginas sin usar|UnusedPages]
+* [Páginas sin definir|UndefinedPages]
+* [Índice|Page Index]
+* [Info. del sistema|SystemInfo]
