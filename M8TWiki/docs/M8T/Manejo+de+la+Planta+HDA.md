@@ -1,4 +1,4 @@
-[[LeftMenu](leftmenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
+[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
 <!-- Plugin JSPWiki: ALLOW view Authenticated -->
 
 ## Práctica 3: Manejo de la Planta de HDA
