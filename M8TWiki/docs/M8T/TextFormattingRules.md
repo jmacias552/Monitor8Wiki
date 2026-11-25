@@ -1,6 +1,3 @@
-Esta página describe la sintaxis usada por JSPWiki. Para ver los detalles de cómo difiera de la sintaxis usada por la Wikipedia, por favor verifica [MigrandoDesdeMediaWiki](jspwikimigratingfrommediawiki.md).
-
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 \\
 Cuando ya te hayas hecho a cómo funciona el editor, entonces deberías leer [WikiEtiqueta](WikiEtiquette.md) de tal modo que sepas como emplear tus habilidades recién adquiridas. El [Área de Pruebas](http://sandbox.jspwiki.org) es un sitio fenomenal para probarlas.
 
@@ -9,16 +6,9 @@ Cuando ya te hayas hecho a cómo funciona el editor, entonces deberías leer [Wi
 ----       = crea una regla horizontal. Los '-' extra son ignorados.
 \\         = fuerza un salto de línea
 
-[enlace](enlace.md)     = crea un hiperenlace a una página de la Wiki llamada 'Enlace'.
-[esto es otro enlace](esto-es-otro-enlace.md) = crea un hiperenlace a una página de la Wiki llamada
-             '[EstoEsOtroEnlace](estoesotroenlace.md)' pero muestra el enlace conservando los espacios en blanco.
-[un ejemplo](enlace.md) = crea un hiperenlace a una página de la Wiki llamada
              'Enlace', pero muestra al usuario el texto 'un ejemplo'
              en vez de 'Enlace'.
-~[NoLink](nolink.md)    = desactiva la creación del enlace para la palabra en [CamelCase](camelcase.md).
-[1](1.md)        = crea un referencia a una nota al pie numerada con 1.
 [#1](#1)       = crea la nota al pie numerada con 1.
-[[enlace](enlace.md)     = crea el textp '[enlace](enlace.md)'.
 
 # encabezado   = encabezado pequeño con el texto 'encabezado'
 ## encabezado  = encabezado medio con el texto 'encabezado'
@@ -39,25 +29,16 @@ Siempre puedes editar esta página (mira en el menú lateral de la izquierda) pa
 
 # Hiperenlaces
 El enlace también puede ser una URL que comience por `http:`, `ftp:`, `mailto:`, `https:`, o `news:`, en cuyo caso el enlace apuntará a una entidad externa. Por ejemplo, para apuntar a la página java.sun.com, utiliza `[[http://java.sun.com](http://java.sun.com)`, que se conviertirá en [http://java.sun.com/](http://java.sun.com/) o `[[Página principal de Java](http://java.sun.com)`, que se convertirá en [Página principal de Java](http://java.sun.com).
-Si no empiezas el enlace con alguno de los "protocolos" anteriores, la wiki asume un enlace normal a otra página de la wiki; es obligatorio empezar los nombres de una página con una letra, los nombres de página basados únicamente en números no están permitidos. Si quieres usar corchetes (`[[]`) en la página sin crear un hipernenlace, usa dos corchetes de apertura. De tal modo que, el texto `[[[Ejemplo No-Enlace](ejemplo-no-enlace.md)`, aparecerá como `[[Ejemplo No-Enlace](ejemplo-no-enlace.md)`.
 Para añadir una nueva página simplemente crea un enlace a ella desde cualquier sitio. Después de todo, ¡no tiene mucho sentido tener una página si no puedes acceder a ella! Verás un enlace subrayado en rojo con línea discontinua con el nombre de la página. Haz click entonces en dicho enlace y ¡habrás creado una nueva página!
-Está permitido el uso de casi todo tipo de caracteres dentro de un [nombre de una página de la Wiki](jspwikiwikiname.md), siempre que se usen letras o números.
-Date cuenta también de que esta Wiki puede configurarse para soportar enlazado [CamelCase](jspwikicamelcase.md) (si está soportado, la palabra [CamelCase](camelcase.md) debería ser un enlace, si no empieza con '~~'). Por defecto está desactivado, pero si tu amistoso administrador ha activado esta característica, entonces, bueno, [CamelCase](camelcase.md) toda la que quieras =).
 
 # Notas al pie
-Son un tipo especial de hipernelace. Usando simplemente un número dentro de un enlace se crea un referencia a la nota al pie, como por ejemplo así `[[1](1.md)`, que crea la nota al pie[1](1.md). Para crear la nota al pie, simplemente pon un `[[#1](#1)` dónde quieres que apunte la nota. Mira más abajo para encontrar la nota al pie.
-También es posible nombrar los pies de página, exactamente del mismo modo en que se hace con un enlace normal, por ejemplo `[[Nota al pie nombrada](1.md)` es otra manera de referirse a la primera nota al pie [Nota al pie nombrada](1.md). O puedes poner también el nombre personalizado en la propia nota al pie[2](2.md).
 
-# Enlaces [InterWiki](jspwikiinterwiki.md)
-También es posible enlazar wikis distintos sin necesidad de saber la URL. Simplemente utiliza el enlace del siguiente modo: `[Wiki:[WikiPagina](wikiwikipagina.md)` y JSPWiki creará un enlace por ti. Por ejemplo, este enlace apunta a las [reglas de formato de texto de JSPWiki](jspwikitextformattingrules.md). Mira la [Información del Sistema](SystemInfo.md) para ver cuáles enlaces [InterWiki](interwiki.md) festán disponibles.
-Si un enlace [InterWiki](jspwikiinterwiki.md) no está soportado, recibirás una notificación al guardar la página.
 
 # Añadiendo imágenes
 Puedes embeber cualquier imagen en el código wiki haciendo disponible la imagen en cualquier sitio web en cualquiera de los formatos permitidos, y simplemente enlazando a ella.
 Si especificas un texto del enlace (`[[este texto aquí](http://example.com/example.png)`) formará parte del texto ALT para aquellos que no puedan o no quieran ver las imágenes.
 La lista de los formatos permitidos depende de cada Wiki. Consulta la [Información del sistema](SystemInfo.md)
 para ver todos los tipos de formatos admitidos.
-También se puede usar el [plugin Image](jspwikiimage.md) para obtener más control sobre la posición y los atributos de la imagen.
 Para forzar una limpia de la posición (un *flush*) después de la imagen, utiliza \ \ \ (esto es, tres contrabarras consecutivas en vez de dos).
 
 # Listas sin numerar
@@ -140,35 +121,26 @@ genera la siguiente tabla. Fíjate que también puedes usar enlaces dentro de la
 | [Principal](Main.md) | [Pruebas](SandBox.md) |
 
 # Estilos CSS
-Aunque no está alineado con el principio de Mantener Las Cosas Simples, se pueden embeber [estilos CSS](jspwikicssinwikipages.md) para aquellos casos en los que realmente necesites enfatizar parte de una página.
 
 # Conflictos
 Si quien sea edita la misma página que tú al mismo tiempo, JSPWiki te prevendrá de hacer cambios, mostrándote una página de conflicto. Es triste decirlo, pero el primero en hacer el cambio gana...
 **Aviso:** Si utilizas el botón Atrás del navegador y llegas a la página de Edición, es casi seguro que se cree un conflicto. Esto es porque el navegador aun piensa que está en una copia antigua de la página.
 
 # Borrar páginas
-No es posible. Puedes, sin embargo, borrar todos los enlaces a esa página, haciéndola inaccesible. O puedes mandar un correo electrónico al administrador, y éste borrará la página. También, puedes añadir un enlace You [DELETEME](jspwikideleteme.md).
 
 # Añadiendo nuevas páginas
-Crea un enlace que apunta a una página nueva (=inexistente) usando su [WikiNombre](jspwikiwikiname.md).
-Haz click en este nuevo enlace, que debería estar subrayado en rojo y aparecerá el editor para la nueva página. -- [Asser](jspwikiasser.md)
 
 # Estableciendo un alias para la página
 A veces interesa que un enlace a una página del wiki en realidad apunte a un sitio distinto al indicado. Esto puede hacerse utilizando un [Alias](PageAlias.md).
 
 # Insertando variables
 Hay muchas variables distintas que puedes insertar en una página. La forma básica es:
-` [<!-- Plugin JSPWiki: $nombrevariable -->, `
-donde *nombrevariable* es el nombre de la variable que quieres insertar. Los nombres de las variables no son sensibles a mayúsculas, esto es,"pagename" es lo mismo que "paGeNamE" y que "[PageName](pagename.md)".
-Puedes ver la lista completa de variables en [WikiVariables](jspwikiwikivariables.md).
+donde *nombrevariable* es el nombre de la variable que quieres insertar. Los nombres de las variables no son sensibles a mayúsculas, esto es,"pagename" es lo mismo que "paGeNamE" y que "[PageName]".
 
 # Insertando plugins
 La instanciación básica de un plugin tiene esta pinta:
-[<!-- Plugin JSPWiki: INSERT <plugin class> WHERE param1=value, param2=value, ... -->
-Hay más información disponible en [JSPWikiPlugins](jspwikijspwikiplugins.md).
+Hay más información disponible en [JSPWikiPlugins].
 ----
 [#1](#1) Aquí está la nota al pie que mencioné.
 [2-La otra nota al pie](#2) La otra nota al pie. ¿Has visto cómo el nombre es diferente?
 ----
-¿Alguna [idea](jspwikiideastextformattingrules.md)?
-¿Alguna [pregunta](jspwikitextformattingrulesdiscussion.md)?

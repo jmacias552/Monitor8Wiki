@@ -11,11 +11,8 @@ Cuando [edites las páginas](TextFormattingRules.md) ten en mente las siguientes
 
 ## Sobre los comentarios
 
-- Eres libre de contribuir anónimamente, pero es preferible que firmes tus comentarios con tu nombre (o algo que te identifique). Es bastante común poner antes de tu firma  '--', tal que así: *-- [Janne Jalkanen](janne-jalkanen.md)* (Y ya que estás, puedes crear tu propia wiki-página yy contarnos algo sobre ti.)
-- También es una buena opción poner tu nombre primero, así: *[Janne Jalkanen](janne-jalkanen.md) : Me gustaría decir que...*
 - Piensa antes de comentar.  [WikiWiki](WikiWiki.md) no es un sistema ultra-rápido de conversación.   Tampoco es un servidor de news.  Lo que digas permanecerá aquí para siempre (si borras tu comentario, todavía estará accesible en versiones anteriores de la página) y cualquiera podrá verlo y comentar.
 
-## Creando [WikiNombres](wikinombres.md)
 - Un buen [WikiNombre](WikiName.md) es corto y descriptivo. Si el nombre es lógico y fácil, es más probable que la gente lo enlace.
 - Aunque puedas coger una frase entera y aplsatarla para formar un [WikiNombre](WikiName.md), es mejor, desde un punto de vista estilístico, limitarlo a un máximo de 5 palabras.
 - En cambio, prueba a usar los [WikiNombre](WikiName.md)s como si fueran títulos de capítulos en un libro.

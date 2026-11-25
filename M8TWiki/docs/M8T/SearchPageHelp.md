@@ -1,5 +1,4 @@
 Esta página tiene un repaso general de la sintaxis de consulta usada por el motor de búsquedas.
-Esta página se llama [Search Page Help](search-page-help.md).
 
 Usa '+' para exigir una palabra, '-' para prohibirla.  Por ejemplo:
 ```
@@ -31,7 +30,6 @@ Para más información echa un ojo a la %%slimbox [sintaxis de consulta de Lucen
 || \     | para escapar caracteres especiales: ** + - && ~|~| ! ( ) { } [[](.md) ^ " ~ * ? : \ ** | `\(1\+1\)\:2` para encontrar (1+1):2 |
 
 Puedes restringir el dominio de la búsqueda añadiendo un prefijo a la consulta:
-|| author:*term*     | encuentra las páginas modificadas por determinado(s) autor(es) | `author:~[PerryMason](perrymason.md)` |
 || attachment:*term* | encuentra las páginas con un determinado nombre de fichero adjunto | `attachment:brushed*` |
 || name:*term*       | encuentra las páginas con un determinado nombre de página        | `name:Main` |
 || content:*term*     | encuentra las páginas con un determinado contenido          | `content:jspwiki` |
