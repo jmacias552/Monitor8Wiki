@@ -1,8 +1,3 @@
-[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-<!-- Plugin JSPWiki: ALLOW edit profesor -->
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
-
-
 ### Manual del Profesor
 ## Introducción
 En este Manual se encuentran las instrucciones para organizar los grupos de trabajo de los alumnos, gestionar las prácticas, y realizar el seguimiento de las prácticas.
@@ -125,7 +120,6 @@ A la presentación de los informes, todos los profesores evaluaran a los grupos 
 
 **Costes Laborales**
 
-[Convenio Sectorial de la Industria](manualtrainer-boe-a-2021-12038pdf.md)
 
 **Costes de materias primas y energía**
 
@@ -139,7 +133,6 @@ A la presentación de los informes, todos los profesores evaluaran a los grupos 
 
 **Ejemplos para las prácticas**
 
-[Ejemplo de Hoja de cálculo de balances de materia y económico](manualtrainer-hda---practica-1-y-2-balancesxlsx.md)
 
 [Cálculo de costes, CAPCOST 2017](manualtrainer-capcost_2017_rev2xlsm.md)
 

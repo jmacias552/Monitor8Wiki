@@ -1,7 +1,3 @@
-[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-<!-- Plugin JSPWiki: ALLOW view Authenticated -->
-
-
 - **[Practica 1. Balance de Materia](Balance+de+Materia+HDA.md)**
 
 - **[Practica 2. Balance económico](Balance+Econ%C3%B3mico+HDA.md)**
