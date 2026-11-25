@@ -1,4 +1,4 @@
-[[LeftMenu](leftmenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
+[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
 <!-- Plugin JSPWiki: ALLOW edit profesor -->
 <!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
@@ -36,7 +36,7 @@ En este apartado se describe la Unidad de Proceso objeto de las prácticas y qu�
 Todos los participantes tienen acceso a la página Web de documentación, **M8TWiki** desde el primer momento.
 
 Cada equipo definido debe indicar:
-||**Rol**||**Nombre alumno**||**Correo Electrónico**
+||**Rol**||**Nombre alumno**||**Correo Electrónico** |
 
 y recibiran en ese correo electronico:
 | **Dirección Web** | **usuario** | **Clave de acceso** |
