@@ -1,6 +1,4 @@
-> add-css
-
-  /* Based on prism.js, default theme by Lea Verou (http://primsjs.com) */
+/* Based on prism.js, default theme by Lea Verou (http://primsjs.com) */
   .prettify pre.prettyprint { border-radius:0 4px 4px 0; }
   .prettify pre.prettylines { border-radius: 4px 0 0 4px; 
       color: #999; 

@@ -1,4 +1,3 @@
-> add-css
 /*Credit http://bennettfeely.com/gradients/ */
 .bg-pattern-1 {
 background:

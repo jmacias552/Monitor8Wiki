@@ -1,4 +1,3 @@
-> add-css
 .bg-warm-flame {background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);}
 .bg-night-fade {background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);}
 .bg-spring-warmth {background-image: linear-gradient(to top, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%);}
@@ -17,7 +16,6 @@
 .bg-wild-apple {background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);}
 /%
 
-> add-css
 .bg-gradient-1 { background: linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db); }
 .bg-gradient-2 { background: linear-gradient(90deg, #cfecd0, #ffc5ca); }
 .bg-gradient-3 { background: linear-gradient(90deg, #f598a8, #f6edb2); }
@@ -29,7 +27,6 @@
 .bg-gradient-9 { background: linear-gradient(135deg, #e55d87 0%, #5fc3e4 100%);color:#fff; }
 /%
 
-> add-css
 /*circle with center content*/
 .bollen { display:flex; flex-wrap:wrap; position:relative;}
 .bollen > [[class*=bg-](classbg-.md) { 
