@@ -1,9 +1,5 @@
-[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-
-
 ## Practica 2: Balance Económico
 
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
 # Objetivo de la Práctica
 

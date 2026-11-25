@@ -1,9 +1,5 @@
-[[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-
-
 ## Practica 1: Balance de Masa
 
-<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
 # Objetivo de la Práctica
 El objetivo de esta práctica es realizar el balance de masa de la planta de HDA, en el momento conocido como caso base, es decir, aquel en el que se encontraran la instalación al momento de comenzar cada ejercicio.
