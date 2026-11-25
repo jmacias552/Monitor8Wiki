@@ -41,7 +41,3 @@
   .fun { color: #dd4a68; }  /* function name */
 
 /%
-
-
-<!-- Plugin JSPWiki: ALLOW edit Admin -->
-<!-- Plugin JSPWiki: ALLOW view All -->

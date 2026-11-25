@@ -40,7 +40,3 @@
 }
 .bollen > [[class*=bg-](classbg-.md):hover { border-radius:0;}
 /%
-
-
-<!-- Plugin JSPWiki: ALLOW edit Admin -->
-<!-- Plugin JSPWiki: ALLOW view All -->

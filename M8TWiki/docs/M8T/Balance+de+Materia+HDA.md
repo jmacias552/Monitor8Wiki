@@ -1,5 +1,5 @@
 [[LeftMenu](LeftMenu.md)/Monitor8Logo.png](leftmenu-monitor8logopng.md)
-<!-- Plugin JSPWiki: ALLOW view Authenticated -->
+
 
 ## Practica 1: Balance de Masa
 

@@ -276,7 +276,3 @@ background:
 }
 
 /%
-
-
-<!-- Plugin JSPWiki: ALLOW edit Admin -->
-<!-- Plugin JSPWiki: ALLOW view All -->
