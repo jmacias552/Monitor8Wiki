@@ -1,4 +1,4 @@
-Esto es una breve ayuda sobre cómo identifcarse en **<!-- Plugin JSPWiki: $applicationname -->**. El texto se encuentra [aquí](LoginHelp.md). \\
+Esto es una breve ayuda sobre cómo identifcarse en **<!-- Plugin JSPWiki: $applicationname -->**. El texto se encuentra [aquí](LoginHelp/). \\
 
 ## Identificación
 

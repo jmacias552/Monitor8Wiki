@@ -36,14 +36,14 @@ a.logo {
 # [Manual Prácticas PBIO](Manual+Pr%C3%A1cticas+PBIO.md)
 
 ## Material Complementario
-# [Manual del Profesor](ManualTrainer.md)
-# [Curso de Profesores](CursoProfesores.md)
+# [Manual del Profesor](ManualTrainer/)
+# [Curso de Profesores](CursoProfesores/)
 
 
 - [Página principal](Main.md)
 - [Acerca de](attachments/about)
-- [WikiEtiqueta](WikiEtiquette.md)
+- [WikiEtiqueta](WikiEtiquette/)
 
-- [Páginas sin usar](UnusedPages.md)
-- [Páginas sin definir](UndefinedPages.md)
-- [Info. del sistema](SystemInfo.md)
+- [Páginas sin usar](UnusedPages/)
+- [Páginas sin definir](UndefinedPages/)
+- [Info. del sistema](SystemInfo/)
