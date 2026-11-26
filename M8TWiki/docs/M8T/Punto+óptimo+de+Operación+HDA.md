@@ -1,5 +1,6 @@
 ## Práctica 4: Punto Óptimo de Operación
 
+<!-- Plugin JSPWiki: [TableOfContents](tableofcontents.md) -->
 
 # Objetivo de la Práctica
 El objetivo de esta práctica es realizar las estimaciones necesarias en las variables de la planta que aumenten el rendimiento económico de la planta de HDA, sin aumentar la cantidad de materia prima empleada.
