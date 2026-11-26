@@ -1,8 +1,8 @@
 # Bienvenido a la documentación de Monitor8
 
-## [Manual Monitor8](Manual%2BMonitor8.md)
+# [Manual Monitor8](Manual%2BMonitor8.md)
 
-## [HDA Hidroalquilación Tolueno](Planta%2Bde%2BHidroalquilacion%2Bde%2BTolueno.md)
+# [HDA Hidroalquilación Tolueno](Planta%2Bde%2BHidroalquilacion%2Bde%2BTolueno.md)
 
 # [Manual Planta HDA](Manual%2BHDA.md)
 
