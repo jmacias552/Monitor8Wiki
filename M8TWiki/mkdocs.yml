@@ -6,8 +6,7 @@ theme:
   language: es
   collapse_navigation: false
 nav:
-  - "Inicio": "M8T/index.md"
-  - "M8T":
+    - "M8T":
     - "Introducción": "M8T/index.md"
     - "Manual Monitor8": "M8T/Manual+Monitor8.md"
     - "Manual del Profesor": "M8T/ManualTrainer.md"
