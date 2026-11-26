@@ -6,3 +6,6 @@
 [Planta de Hidroalquilacion de Tolueno/Gemelos Digitales Monitor8_V0.pptx](attachments/Planta-HDA-att/Gemelos-Digitales-Monitor8_V0.pdf)
 
 [HDA-Simulacion-Paso-a-Paso de Hidroalquilacion de Tolueno](attachments/Planta-HDA-att/HDA-Simulacion-Paso-a-Paso.pdf)
+
+[Formulario de Alta de usuarios de Monitor8](https://forms.gle/14Np6tw8tJHKgJCE9)
+
