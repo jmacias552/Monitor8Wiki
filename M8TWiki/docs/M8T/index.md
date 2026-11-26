@@ -9,8 +9,8 @@
 # [Manual Prácticas HDA](Manual%2BPracticas%2BHDA.md)
 
 ## Material Complementario
-# [Manual del Profesor](ManualTrainer.md)
-# [Curso de Profesores](CursoProfesores.md)
+# [Manual del Profesor](ManualTrainer/)
+# [Curso de Profesores](CursoProfesores/)
 
 
-- [Página principal](index.md)
+- [Página principal](index/)

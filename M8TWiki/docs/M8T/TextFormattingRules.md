@@ -1,5 +1,5 @@
 \\
-Cuando ya te hayas hecho a cómo funciona el editor, entonces deberías leer [WikiEtiqueta](WikiEtiquette.md) de tal modo que sepas como emplear tus habilidades recién adquiridas. El [Área de Pruebas](http://sandbox.jspwiki.org) es un sitio fenomenal para probarlas.
+Cuando ya te hayas hecho a cómo funciona el editor, entonces deberías leer [WikiEtiqueta](WikiEtiquette/) de tal modo que sepas como emplear tus habilidades recién adquiridas. El [Área de Pruebas](http://sandbox.jspwiki.org) es un sitio fenomenal para probarlas.
 
 # Referencia rápida
 ```
@@ -37,7 +37,7 @@ Para añadir una nueva página simplemente crea un enlace a ella desde cualquier
 # Añadiendo imágenes
 Puedes embeber cualquier imagen en el código wiki haciendo disponible la imagen en cualquier sitio web en cualquiera de los formatos permitidos, y simplemente enlazando a ella.
 Si especificas un texto del enlace (`[[este texto aquí](http://example.com/example.png)`) formará parte del texto ALT para aquellos que no puedan o no quieran ver las imágenes.
-La lista de los formatos permitidos depende de cada Wiki. Consulta la [Información del sistema](SystemInfo.md)
+La lista de los formatos permitidos depende de cada Wiki. Consulta la [Información del sistema](SystemInfo/)
 para ver todos los tipos de formatos admitidos.
 Para forzar una limpia de la posición (un *flush*) después de la imagen, utiliza \ \ \ (esto es, tres contrabarras consecutivas en vez de dos).
 
@@ -113,12 +113,12 @@ Por ejemplo:
 ```
 || Encabezado 1 || Encabezado 2 |
 | *Gobble* | Bar \\ foo |
-| [Principal](Main.md) | [Pruebas](SandBox.md) |
+| [Principal](Main.md) | [Pruebas](SandBox/) |
 ```
 genera la siguiente tabla. Fíjate que también puedes usar enlaces dentro de las tablas.
 || Encabezado 1 || Encabezado 2 |
 | *Gobble* | Bar \\ foo |
-| [Principal](Main.md) | [Pruebas](SandBox.md) |
+| [Principal](Main.md) | [Pruebas](SandBox/) |
 
 # Estilos CSS
 
@@ -131,7 +131,7 @@ Si quien sea edita la misma página que tú al mismo tiempo, JSPWiki te prevendr
 # Añadiendo nuevas páginas
 
 # Estableciendo un alias para la página
-A veces interesa que un enlace a una página del wiki en realidad apunte a un sitio distinto al indicado. Esto puede hacerse utilizando un [Alias](PageAlias.md).
+A veces interesa que un enlace a una página del wiki en realidad apunte a un sitio distinto al indicado. Esto puede hacerse utilizando un [Alias](PageAlias/).
 
 # Insertando variables
 Hay muchas variables distintas que puedes insertar en una página. La forma básica es:

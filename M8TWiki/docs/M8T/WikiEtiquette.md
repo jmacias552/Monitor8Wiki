@@ -1,23 +1,23 @@
-Cuando [edites las páginas](TextFormattingRules.md) ten en mente las siguientes reglas:
+Cuando [edites las páginas](TextFormattingRules/) ten en mente las siguientes reglas:
 
 ## General
 - Se amable - no sea maleducado u ofensivo.
 - Escribe de un modo que sea sencillo de entender y evita jerga o giros locales. Muchos de los que te lean puede que no hablen tu mismo idioma como primera lengua.
 - No borres las ccontribuciones de otras personas (a menos que sepas lo que estás haciendo)
 - No utilices muchos acrónimos (o por lo menos, ten un página dónde los expliques)
-- ¡¡**Evita la frase *"click aquí"*!!** No digas: "Más información acerca de la etiqueta puede encontrarse [aquí](WikiEtiquette.md)", en vez de eso, usa "Más información acerca de la etiqueta puede encontrarse en [WikiEtiqueta](WikiEtiquette.md)". También sugeriría evitar los enlaces externos.
+- ¡¡**Evita la frase *"click aquí"*!!** No digas: "Más información acerca de la etiqueta puede encontrarse [aquí](WikiEtiquette/)", en vez de eso, usa "Más información acerca de la etiqueta puede encontrarse en [WikiEtiqueta](WikiEtiquette/)". También sugeriría evitar los enlaces externos.
 - Contribuye únicamente con contenido original.  Los enlaces están bien, pero evita el corta-y-pega de cosas bajo copyright.
 - Corregir pequeñas erratas está bien - de hecho, es un hábito muy bueno, dado que hace la página más legible.
 
 ## Sobre los comentarios
 
-- Piensa antes de comentar.  [WikiWiki](WikiWiki.md) no es un sistema ultra-rápido de conversación.   Tampoco es un servidor de news.  Lo que digas permanecerá aquí para siempre (si borras tu comentario, todavía estará accesible en versiones anteriores de la página) y cualquiera podrá verlo y comentar.
+- Piensa antes de comentar.  [WikiWiki](WikiWiki/) no es un sistema ultra-rápido de conversación.   Tampoco es un servidor de news.  Lo que digas permanecerá aquí para siempre (si borras tu comentario, todavía estará accesible en versiones anteriores de la página) y cualquiera podrá verlo y comentar.
 
-- Un buen [WikiNombre](WikiName.md) es corto y descriptivo. Si el nombre es lógico y fácil, es más probable que la gente lo enlace.
-- Aunque puedas coger una frase entera y aplsatarla para formar un [WikiNombre](WikiName.md), es mejor, desde un punto de vista estilístico, limitarlo a un máximo de 5 palabras.
-- En cambio, prueba a usar los [WikiNombre](WikiName.md)s como si fueran títulos de capítulos en un libro.
+- Un buen [WikiNombre](WikiName/) es corto y descriptivo. Si el nombre es lógico y fácil, es más probable que la gente lo enlace.
+- Aunque puedas coger una frase entera y aplsatarla para formar un [WikiNombre](WikiName/), es mejor, desde un punto de vista estilístico, limitarlo a un máximo de 5 palabras.
+- En cambio, prueba a usar los [WikiNombre](WikiName/)s como si fueran títulos de capítulos en un libro.
 - Esta Wiki te permite crear páginas con nua sola palabra como nombre, pero intenta usar al menos dos palabras - no queremos dejar exhausto el espacio de nombres :-).
-- **Re-comprueba que los [WikiNombre](WikiName.md)s no tienen erratas** - de lo contrario, ¡cualquier otra persona creará una página mal nombrada!  Esto es una mala idea debido a que enlazarlas requiere más esfuerzo que un [WikiNombre](WikiName.md) lógico y correcto.
+- **Re-comprueba que los [WikiNombre](WikiName/)s no tienen erratas** - de lo contrario, ¡cualquier otra persona creará una página mal nombrada!  Esto es una mala idea debido a que enlazarlas requiere más esfuerzo que un [WikiNombre](WikiName/) lógico y correcto.
 
 ## Refactorizando páginas
 
