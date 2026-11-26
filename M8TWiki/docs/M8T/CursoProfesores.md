@@ -15,7 +15,7 @@
 |[Planta de Fabricación de Biodiésel](Planta+de+Fabricaci%C3%B3n+de+Biodi%C3%A9sel.md)|ptar_1|En desarrollo|Julio 2023 |
 
 ## Organización de las prácticas
-[ManualTrainer](ManualTrainer.md)
+[ManualTrainer](ManualTrainer/)
 
 ## Acceso a Monitor8
 

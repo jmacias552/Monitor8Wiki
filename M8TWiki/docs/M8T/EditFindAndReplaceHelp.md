@@ -19,6 +19,6 @@ Buscar **/abc|def/** coincidirá con la palabra 'abc' o con la palabra 'def'\\
 Buscar  **/bwiki/b** coincidirá con la palabra 'wiki' pero no con 'jspwiki'.\\
 Busca **/(-?\d+)(\d{3})/** y reemplaza con **$1,$2** para insertar comas en enteros grandes.
 
-Ésta es la página de [Ayuda en la búsqueda y edición](EditFindAndReplaceHelp.md).
+Ésta es la página de [Ayuda en la búsqueda y edición](EditFindAndReplaceHelp/).
 [Más información sobre expresiones regulares](http://www.regular-expressions.info/javascript.html)
 y un [sitio para probar expresiones regulares](http://www.regular-expressions.info/javascriptexample.html)

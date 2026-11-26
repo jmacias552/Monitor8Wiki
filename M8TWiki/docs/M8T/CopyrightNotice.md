@@ -1,1 +1,1 @@
-¡Pon tu [aviso de copyright](CopyrightNotice.md) aquí!
+¡Pon tu [aviso de copyright](CopyrightNotice/) aquí!
