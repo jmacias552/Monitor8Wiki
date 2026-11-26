@@ -15,25 +15,30 @@ Estarán a su disposición los usuarios y contraseñas de los operadores de camp
 Partiendo del balance de masas realizado en la práctica 1, en conjunto de las Tablas 1, 2 y 3 adjuntas a continuación, realizar el balance económico de la planta de HDA, considerando el desglose por: materia prima, costo energético por kg procesado, gastos de empleados, beneficio por ventas y beneficio neto anual.
 
 Tabla 1 – Costo de Adquisición/Venta por compuesto
-||**Precio**||**Hidrógeno**||**Metano**||**Benceno**||**Tolueno**||**Difenilo** |
-|**($/kg)**|**$0.90**|**$1.50**|**$3.80**|**$2.00**|**$1.80** |
+
+|**Precio**|**Hidrógeno**|**Metano**|**Benceno**|**Tolueno**|**Difenilo**|
+|------------|-------------|-----------|------------|--------------|-----------|
+|**($/kg)**|**$0.90**|**$1.50**|**$3.80**|**$2.00**|**$1.80**|
 
 
 Tabla 2 – Costo de Servicios
+
 | **Equipo** | **Aporte Energético** | **$/Kg Procesado** |
 | --- | --- | --- |
-|H-100|Propano|**$0.15** |
-|H-100|Incondensables|**$0.08** |
-|E-200|Agua de Refrigeración|**$0.05** |
-|E-300|Agua de Refrigeración|**$0.04** |
-|E-301|Vapor de Media Presión|**$0.12** |
-|C-100|Electricidad|**$0.20** |
-|P-002|Electricidad|**$0.20** |
-|P-005|Electricidad|**$0.20** |
+|H-100|Propano|**$0.15**
+|H-100|Incondensables|**$0.08**
+|E-200|Agua de Refrigeración|**$0.05**
+|E-300|Agua de Refrigeración|**$0.04**
+|E-301|Vapor de Media Presión|**$0.12**
+|C-100|Electricidad|**$0.20**
+|P-002|Electricidad|**$0.20**
+|P-005|Electricidad|**$0.20**
 
-Tabla 3 – Salarios de la plantilla	
-||**Cargo**||**Empleados**||**Salario** |
-		
+
+Tabla 3 – Salarios de la plantilla (€/m)
+
+|**Cargo**|**Empleados**|**Salario** |
+|---------|-------------|-------------|
 |**Director**|**1**|**$10,000.00** |
 |**Jefe de Operaciones**|**1**|**$5,000.00** |
 |**Jefe	de Planificación**|**1**|**$4,500.00** |

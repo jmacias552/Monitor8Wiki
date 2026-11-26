@@ -6,7 +6,7 @@ theme:
   language: es
   collapse_navigation: false
 nav:
-  - "Inicio": "index.md"
+  - "Inicio": "M8T/index.md"
   - "M8T":
     - "Introducción": "M8T/index.md"
     - "Manual Monitor8": "M8T/Manual+Monitor8.md"
@@ -20,26 +20,6 @@ nav:
     - "Práctica: Balance de Materia HDA": "M8T/Balance+de+Materia+HDA.md"
     - "Práctica: Balance Económico HDA": "M8T/Balance+Económico+HDA.md"
     - "Práctica: Punto Óptimo de Operación HDA": "M8T/Punto+óptimo+de+Operación+HDA.md"
-  - "AARR: Tratamiento de Aguas Residuales":
-    - "Planta AARR": "M8T/Planta+de+Tratamiento+AARR.md"
-    - "Manual Planta AARR": "M8T/Manual+AARR.md"
-    - "Manual Prácticas AARR": "M8T/Manual+Practicas+AARR.md"
-    - "Práctica: Balance de Materia AARR": "M8T/Balance+de+Materia+AARR.md"
-    - "Práctica: Balance Económico AARR": "M8T/Balance+Económico+AARR.md"
-    - "Práctica: Punto Óptimo de Operación AARR": "M8T/Punto+óptimo+de+Operación+AARR.md"
-  - "PFC: Fabricación de Cerveza":
-    - "Planta PFC": "M8T/Planta+de+Fabricación+de+Cerveza.md"
-    - "Manual Planta PFC": "M8T/Manual+PFC.md"
-    - "Manual Prácticas PFC": "M8T/Manual+Prácticas+PFC.md"
-    - "Práctica: Balance de Materia PFC": "M8T/Balance+de+Materia+PFC.md"
-    - "Práctica: Balance Económico PFC": "M8T/Balance+Económico+PFC.md"
-    - "Práctica: Punto Óptimo de Operación PFC": "M8T/Punto+óptimo+de+Operación+PFC.md"
-  - "PBIO: Fabricación de Biodiésel":
-    - "Planta PBIO": "M8T/Planta+de+Fabricación+de+Biodiésel.md"
-    - "Manual Planta PBIO": "M8T/Manual+PBIO.md"
-    - "Manual Prácticas PBIO": "M8T/Manual+Prácticas+PBIO.md"
-    - "Práctica: Balance de Materia PBIO": "M8T/Balance+de+Materia+PBIO.md"
-    - "Práctica: Punto Óptimo de Operación PBIO": "M8T/Punto+óptimo+de+Operación+PBIO.md"
   - "Más":
     - "Índice de páginas": "M8T/PageIndex.md"
     - "Cambios recientes": "M8T/RecentChanges.md"

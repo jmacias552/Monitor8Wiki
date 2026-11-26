@@ -75,7 +75,7 @@ Tabla 4–Propiedades del Difenilo
 
 El proceso de hidrodealquilación del tolueno de ahora en más llamado por sus siglas HDA, se emplea para producir metano a partir del benceno según la siguiente reacción:
 
-[Manual HDA/Reacciones.PNG](attachments/Manual+HDA-att/Reacciones.PNG-dir/1.PNG)
+[Manual HDA/Reacciones.PNG](attachments/Manual-HDA-att/Reacciones.PNG-dir/1.PNG)
 
 Según lo expuesto por James M. Douglas (1988) la reacción debe darse a una temperatura de entre 620 ºC y 705 ºC y una presión de 34.5 bar, con un exceso de hidrogeno correspondiente a 5 mol de hidrogeno por cada mol de aromáticos (benceno, tolueno y difenilo) dentro del reactor.
 
@@ -83,7 +83,7 @@ Según lo expuesto por James M. Douglas (1988) la reacción debe darse a una tem
 
 ## ORGANIGRAMA DE LA PLANTA
 
-![Figura 1– Organigrama de los trabajadores de la planta de HDA](attachments/Manual+HDA-att/organigrama.PNG-dir/1.PNG)
+![Figura 1– Organigrama de los trabajadores de la planta de HDA](attachments/Manual-HDA-att/organigrama.PNG-dir/1.PNG)
 # DIRECTOR
 Máximo responsable de la planta de HDA, encargado de coordinar a los jefes de logística y planificación, operaciones e ingeniería, así como de realizar los informes económicos y de tomar las decisiones estratégicas que afecten al funcionamiento de la planta.
 
@@ -122,7 +122,7 @@ Responsable de realizar los análisis solicitados por el encargado de procesos c
 
 ### CAPITULO IV – DESCRIPCIÓN DEL PROCESO
 
-[Diagramas de Instrumentación y tuberia](attachments/Manual+HDA-att/P&ID.pdf-dir/1.pdf)
+[Diagramas de Instrumentación y tuberia](attachments/Manual-HDA-att/PID.pdf-dir/1.pdf)
 
 Los diagramas de instrumentación y tuberia se encuentran en las siguientes figuras junto a la descripción de la planta.
 
@@ -152,7 +152,7 @@ energía posible en la planta y posteriormente en el intercambiador de calor E-2
 El monitoreo de esta parte se da mediante los T-004, T-005 y T-006 medidores de temperatura colocados a la salida del reactor e intercambiadores de calor E-100 y E-200 respectivamente. Además, la temperatura a la salida de este último equipo está controlada por V-004.
 
 
-# SALIDA DE TOPE Y FONDO DEL SEPARADOR FLASH
+# SALIDA DE CABEZA Y FONDO DEL SEPARADOR FLASH
 En el interior del separador están dadas las condiciones de presión y temperatura para lograr la separación adecuada del hidrogeno y el metano, quienes constituyen la fase gaseosa el resto
 de compuestos que estarán en estado líquido, todo esto en términos mayoritarios.
 
@@ -160,7 +160,7 @@ La corriente gaseosa que sale por el tope del equipo tiene como objetivo recircu
 
 La corriente líquida sale por el fondo de la torre y tiene como destino la columna de destilación, está compuesta mayoritariamente por benceno, mientras que en menor medida tendrá tolueno y difenilo.
 
-# SALIDA DE TOPE Y FONDO DE LA COLUMNA DE DESTILACIÓN
+# SALIDA DE CABEZA Y FONDO DE LA COLUMNA DE DESTILACIÓN
 
 La columna tiene 30 etapas reales más el condensador, y su carga se produce en el plato número 15 contando desde el tope hasta la base.
 
@@ -207,7 +207,7 @@ Una vez llegada la fecha de entrega del benceno producido, se ha de informar al 
 **V-014** y **V-015**, las cuales son coeficientes de reparto cuyos valores van de 0 a 1,
 están estructurados en el sistema de la siguiente forma. Esto si se opera en el modo manual.
 
-![Figura 2 – Configuración de V-014 y V-015](attachments/Manual+HDA-att/SalidaDestiladoCabeza.PNG-dir/1.PNG)
+![Figura 2 – Configuración de V-014 y V-015](attachments/Manual-HDA-att/SalidaDestiladoCabeza.PNG-dir/1.PNG)
 
 Si se opera en el modo automático, se ordena directamente al sistema que flujo aportar al TK-200 y TK-2001, mediante las variables F-009 y F-010 respectivamente, el del TK-202 será el restante.
 
@@ -303,7 +303,9 @@ Indica que la temperatura está por debajo de los 620ºC considerados para que s
 ## INTERCAMBIADORES DE CALOR
 
 Tabla 5 - Intercambiadores de calor
-||**Código**||**Equipo**||**Fluido de Proceso**||**Servicio** |
+
+|**Código**|**Equipo**|**Fluido de Proceso**|**Servicio** |
+|----------|-------------------|---------------|-------------|
 |E-100|Intercambiador de calor|Mezcla de reactivos frescos|Mezcla de productos salientes del reactor |
 |E-200|Intercambiador de calor|Mezcla de productos|Agua de refrigeración |
 |E-300|Intercambiador de calor|Livianos de la columna de destilación|Agua de refrigeración |
@@ -313,7 +315,9 @@ Tabla 5 - Intercambiadores de calor
 ## BOMBAS Y COMPRESORES
 
 Tabla 6- Bombas y Compresores
-||**Código**||**Servicio** |
+
+|**Código**|**Servicio** |
+|--------|---------------------|
 |P-001|Descarga de pesados de la columna de destilación |
 |P-002|Carga de tolueno al sistema de reacción |
 |P-003|Carga de tolueno a los TK-100/101/102 |
@@ -324,7 +328,9 @@ Tabla 6- Bombas y Compresores
 ## RECIPIENTES Y TORRRES
 
 Tabla 7 - Recipientes y Torres
+
 |**Código**|**Servicio** |
+|--------|----------------------|
 |R-100|Reactor |
 |TK-100|Tanque de tolueno |
 |TK-101|Tanque de tolueno |
@@ -350,7 +356,9 @@ Valor Inicial: corresponde a el valor base de la planta
 ## VÁLVULAS
 
 Tabla 8 – Válvulas
-||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+
+|**Código**|**Servicio**|**Valor inicial**|**Unidades** |
+|-----------|----------------------|-----------|---------|
 |HDV001.PV|Descarga del TK-100|0.0|kg/h |
 |HDV002.PV|Carga de hidrógeno fresco|400|kg/h |
 |HDV003.PV|Carga de combustible al H-100|565|ºC |
@@ -380,7 +388,9 @@ A continuación, se muestra el rango de valores que puede soportar las variables
 
 	
 Tabla 9 - Valores Límite
-||**Instrumento**||**Valor Máximo Admisible**||**Valor Mínimo Admisible**||**Valor inicial**||**Unidades** |
+
+|**Instrumento**|**Valor Máximo Admisible**|**Valor Mínimo Admisible**|**Valor inicial**|**Unidades** |
+|---------------|----------------|-------------|-----------------|----------------|
 | HDV001.PV | 0 | 10000 | 0 | kg/h |
 | HDV002.PV | 400 | 2000 |
 | HDV003.PV | 450 | 600 | 565 | ºC |
@@ -401,7 +411,8 @@ Tabla 9 - Valores Límite
 		
 Tabla 10 - Medidores de Presión
 
-||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+|**Código**|**Servicio**|**Valor inicial**|**Unidades** |
+|-----------|-----------|-----------------|----------------|
 |HDP001.PV|Presión en el tope del VE-300|2.0|barg |
 |HDP002.PV|Presión en el fondo del VE-300|2.3|barg |
 
@@ -409,7 +420,8 @@ Tabla 10 - Medidores de Presión
 
 Tabla 11 - Medidores de Flujo Volumétrico
 
-||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+|**Código**|**Servicio**|**Valor inicial**|**Unidades** |
+|------------|-------------|----------|---------------|
 |HDF001.PV|Caudal de carga de Tolueno fresco al sistema de reacción|xxxx|m<sup>3</sup> |
 |HDF002.PV|Caudal de carga de Hidrogeno fresco al sistema de reacción|400|kg/h |
 |HDF003.PV|Caudal de reflujo de Hidrogeno en el sistema de reacción|2000|kg/h |
@@ -435,7 +447,9 @@ Tabla 11 - Medidores de Flujo Volumétrico
 ## MEDIDORES DE TEMPERATURA
 
 Tabla 12 - Medidores de Temperatura
-||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+
+|**Código**|**Servicio**|**Valor inicial**|**Unidades** |
+|-----------|-----------|----------------|---------------|
 |HDT001.PV|Temperatura de reactivos a la entrada del E-100|xxxx|ºC |
 |HDT002.PV|Temperatura de reactivos a la entrada del H-100|xxxx|ºC |
 |HDT003.PV|Temperatura de reactivos a la entrada del R-100|xxxx|ºC |
@@ -447,7 +461,9 @@ Tabla 12 - Medidores de Temperatura
 ## MEDIDORES DE NIVEL
 
 Tabla 13 - Medidores de Nivel
-||**Código**||**Servicio**||**Valor inicial**||**Unidades** |
+
+|**Código**|**Servicio**|**Valor inicial**|**Unidades** |
+|-----------|---------------------|-----------|-----------|
 |HDL100.PV|Nivel de Tolueno en el TK100|0|m<sup>3</sup> |
 |HDL101.PV|Nivel de Tolueno en el TK101|1000|m<sup>3</sup> |
 |HDL102.PV|Nivel de Tolueno en el TK102|0|m<sup>3</sup> |
@@ -461,7 +477,9 @@ Tabla 13 - Medidores de Nivel
 Para el control del proceso y asegurar la calidad del producto se dispone de una serie de puntos a lo largo de las instalaciones ubicados en zonas críticas dispuestos en la siguiente tabla, que permiten conocer mediante análisis en el laboratorio de la planta la composición de tanques y corrientes de flujo.
 
 Tabla 14 – Puntos de muestra
-||**Código**||**Servicio** |
+
+|**Código**|**Servicio** |
+|----------|----------------|
 |U001|Corriente de fondo del VE-200 |
 |U002|Corriente de fondo del VE-300 |
 |U003|Corriente de recirculación de hidrógeno |
@@ -477,7 +495,9 @@ Tabla 14 – Puntos de muestra
 |U300|Concentración de Tolueno en el TK-300 |
 
 Tabla 15 – Características analizadas de los puntos de muestra
-||**Código**||**Servicio**||**Valor Inicial**||**Unidades** |
+
+|**Código**|**Servicio**|**Valor Inicial**|**Unidades** |
+|---------|--------------------|----------|-------------|
 |C001|Cromatografía, H<sub>2</sub>|Fraccion 0/1 molar |
 |C002|Cromatografía, Metano|Fracción 0/1 molar |
 |C003|Cromatografía, Benceno|Fracción 0/1 molar |
@@ -490,7 +510,9 @@ para consignarlas dentro del horario de trabajo de dicha instalación, es decir,
 ### CAPITULO X – ESTANDARIZACIÓN y NOMENCLATURA UTILIZADA
 
 Tabla 16 – Código de servicio, primera letra
-||**Código**||**Servicio** |
+
+|**Código**|**Servicio** |
+|----------|---------------------|
 |A|Medida de Analizador en línea |
 |F|Medida de Caudal |
 |L|Medida de Nivel |
@@ -499,7 +521,9 @@ Tabla 16 – Código de servicio, primera letra
 |U|Muestra de Laboratorio |
 
 Tabla 17 – Código de servicio, segunda letra
-||**Código**||**Servicio** |
+
+|**Código**|**Servicio** |
+|-------------|--------------------|
 |C|Controlador |
 |H|Valor alto de alarma |
 |L|Valor alto de alarma |
@@ -509,8 +533,11 @@ A continuación del nombre del tag se encuentra el item separado por un .
 Los items considerados en esta implementación son:
 
 Tabla 18 – Items definidos
-||**Item**||**Servicio** |
+
+|**Item**|**Servicio** |
+|----------|----------------------|
 |PV|Valor del proceso |
+|SP|Valor punto consigna|
 |KC|Ganancia del controlador, writeable |
 |MODE|Ganancia del controlador, writeable |
 
@@ -519,13 +546,17 @@ Tabla 18 – Items definidos
 Existen varios tipos de pantallas a las que se puede acceder dentro del scada.
 
 Tabla 19 - Tipos de representaciones
-||**Tipo**||**Descripción** |
+
+|**Tipo**|**Descripción** |
+|---------------------|--------------------------------|
 |Listas (Watch List)|Listas de Monitorización |
 |Gráficos|Gráficos, permiten representación de diferentes tipos, ver tabla 20 |
 |Detalle Tag|Permite la representación de todos los items relacionados con un tag o instrumento. |
 
 Tabla 20 - Representaciones gráficas
-||**Nombre / rango**||**Descripción** |
+
+|**Nombre / rango**|**Descripción** |
+|-------------|----------------------------|
 |HD00|Pantalla inicial para seleccionar Rol o perfil |
 |HD10|Pantalla inicial para el Rol de operador de Panel o DCS |
 |HD101 - HD199|Esquemas de la unidad (configuración de DCS) |
@@ -540,18 +571,23 @@ Tabla 20 - Representaciones gráficas
 ### CAPITULO XI – PLAN DE MEJORAS
 
 ## Mejoras en Simulación
-||Mejora||Descripción||Fecha tentativa |
+|Mejora|Descripción|Fecha tentativa |
+|-----------------|---------------|------------------------|
 |MSIM01|Introducir cambiadores y agua de refrigeración como servicio |
 
 ## Mejoras en el scada
-||Mejora||Descripción||Fecha tentativa |
+
+|Mejora|Descripción|Fecha tentativa |
+|-----------|------------------|---------------------------|
 |MSCA01|Mejorar el entorno gráfico con botones por accionamientos y fondos más realistas |
 
 ## Mejoras Interacción con el email
-||Mejora||Descripción||Fecha tentativa |
+|Mejora|Descripción|Fecha tentativa |
+|-----------|-------------------------------------------|---------|
 |MEMAIL01|Depurar y mejorar las reglas de detección de errores |
 |MEMAIL02|Añadir reglas para Flujo de compra desde Robot |
 
 ## Mejoras Interacción con el Scada
-||Mejora||Descripción||Fecha tentativa |
+|Mejora|Descripción|Fecha tentativa |
+|----------|------------------|----------|
 | MKBS01 |
